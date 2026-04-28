@@ -8,6 +8,7 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+<div class="progress-bar" id="progress-bar" style="--book-primary: #1D4ED8;"></div>
 
 <div class="container">
 
@@ -28,13 +29,16 @@
           <span class="detail-meta-tag">生活原则</span>
           <span class="detail-meta-tag">工作原则</span>
           <span class="detail-meta-tag">决策框架</span>
-        </div>
+        
+          <span class="detail-meta-tag">哲学思维</span></div>
       </div>
     </div>
   </header>
 
-  <section class="section">
-    <h2 class="section-title">概述</h2>
+  <div class="detail-layout">
+<div class="detail-content">
+    <section class="section">
+    <h2 class="section-title" id="section-概述">概述</h2>
     <div class="overview-text">
       <p>《原则》最重要的贡献，不是给出一串名言，而是把"原则"定义成可以反复使用的判断规则。达利欧认为，人会在现实世界里不断遇到相似问题，如果没有原则，就只能每次都凭情绪重新做决定。</p>
       <p>全书先用作者的成长经历解释这些原则是怎样被逼出来的，再用"生活原则"和"工作原则"说明这些规则如何在个人和组织层面发挥作用。</p>
@@ -44,7 +48,7 @@
   </section>
 
   <section class="section">
-    <h2 class="section-title">全书结构</h2>
+    <h2 class="section-title" id="section-全书结构">全书结构</h2>
     <div class="structure-grid">
       <div class="structure-card">
         <div class="structure-card__title">第一部分：我的历程</div>
@@ -62,7 +66,7 @@
   </section>
 
   <section class="section">
-    <h2 class="section-title">核心观点</h2>
+    <h2 class="section-title" id="section-核心观点">核心观点</h2>
     <ul class="thesis-list">
       <li class="thesis-item" style="border-left-color: #1D4ED8;">现实不会因为你的愿望而改变，最有效的成长方式是面对现实、从痛苦中反思，再把经验提炼成原则。</li>
       <li class="thesis-item" style="border-left-color: #1D4ED8;">个人层面的高质量决策，依赖清晰目标、开放头脑、理解差异和按流程推进，而不是只靠感觉。</li>
@@ -71,7 +75,7 @@
   </section>
 
   <section class="section">
-    <h2 class="section-title">跨领域方法</h2>
+    <h2 class="section-title" id="section-跨领域方法">跨领域方法</h2>
     <div class="method-card">
       <div class="method-card__title">把痛苦变成反馈</div>
       <div class="method-card__body">达利欧反复强调：痛苦本身不是奖品，反思痛苦才是。只要能从失败里提炼规律，损失就不只是损失。</div>
@@ -91,7 +95,7 @@
   </section>
 
   <section class="section">
-    <h2 class="section-title">章节目录</h2>
+    <h2 class="section-title" id="section-章节目录">章节目录</h2>
     <ol class="chapter-list">
       <li class="chapter-item"><span class="chapter-number">第一部分</span><span class="chapter-title">我的探险召唤 (1949–1967年)</span></li>
       <li class="chapter-item"><span class="chapter-number">第一部分</span><span class="chapter-title">跨越门槛 (1967–1979年)</span></li>
@@ -126,7 +130,7 @@
   </section>
 
   <section class="section">
-    <h2 class="section-title">交付物</h2>
+    <h2 class="section-title" id="section-交付物">交付物</h2>
     <div class="deliverable-list">
       <a class="deliverable-item" href="07_%E5%8E%9F%E5%88%99__Principles/01_%E9%98%85%E8%AF%BB%E6%8A%A5%E5%91%8A/%E5%8E%9F%E5%88%99_%E9%98%85%E8%AF%BB%E6%8A%A5%E5%91%8A_%E5%84%BF%E7%AB%A5%E5%8F%AF%E8%AF%BB%E7%89%88.pdf">
         <span class="deliverable-icon">📄</span>
@@ -145,9 +149,24 @@
 
 </div>
 
+
+</div>
+
+    <aside class="toc-sidebar">
+      <div class="toc-sidebar__title">页面导航</div>
+        <a class="toc-sidebar__link" href="#section-概述">概述</a>
+        <a class="toc-sidebar__link" href="#section-全书结构">全书结构</a>
+        <a class="toc-sidebar__link" href="#section-核心观点">核心观点</a>
+        <a class="toc-sidebar__link" href="#section-跨领域方法">跨领域方法</a>
+        <a class="toc-sidebar__link" href="#section-章节目录">章节目录</a>
+        <a class="toc-sidebar__link" href="#section-交付物">交付物</a>
+    </aside>
+</div>
+
 <footer class="site-footer">
   <p>阅读报告书库 · <a href="https://github.com/NOTH2333/Reading-Report">GitHub</a></p>
 </footer>
 
+<script src="js/script.js"></script>
 </body>
 </html>

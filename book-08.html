@@ -8,6 +8,7 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+<div class="progress-bar" id="progress-bar" style="--book-primary: #136F63;"></div>
 
 <div class="container">
 
@@ -30,13 +31,16 @@
           <span class="detail-meta-tag">不确定性</span>
           <span class="detail-meta-tag">风险管理</span>
           <span class="detail-meta-tag">非线性</span>
-        </div>
+        
+          <span class="detail-meta-tag">哲学思维</span></div>
       </div>
     </div>
   </header>
 
-  <section class="section">
-    <h2 class="section-title">概述</h2>
+  <div class="detail-layout">
+<div class="detail-content">
+    <section class="section">
+    <h2 class="section-title" id="section-概述">概述</h2>
     <div class="overview-text">
       <p>《反脆弱》最重要的贡献，不是再一次强调"世界很不确定"，而是提出一个更有操作性的区分：有些东西怕冲击，有些东西扛得住冲击，而还有一些东西会因为适度冲击而变得更强。</p>
       <p>塔勒布想把读者从"如何把未来预测得更准"带到"如何让自己对错误预测也不至于致命"这个方向上。也就是说，他真正关心的是结构、边界、选择权和不对称，而不是华丽的预测模型。</p>
@@ -46,7 +50,7 @@
   </section>
 
   <section class="section">
-    <h2 class="section-title">全书结构</h2>
+    <h2 class="section-title" id="section-全书结构">全书结构</h2>
     <div class="structure-grid">
       <div class="structure-card">
         <div class="structure-card__title">第一卷–第二卷</div>
@@ -68,7 +72,7 @@
   </section>
 
   <section class="section">
-    <h2 class="section-title">核心观点</h2>
+    <h2 class="section-title" id="section-核心观点">核心观点</h2>
     <ul class="thesis-list">
       <li class="thesis-item" style="border-left-color: #136F63;">真正可靠的策略，不是把未来看得更清楚，而是让自己在看错时也不会被一下打穿。</li>
       <li class="thesis-item" style="border-left-color: #136F63;">很多有生命力的系统需要小波动、小试错和局部失败；过度保护、过度干预、过度集权反而会把系统养脆。</li>
@@ -77,7 +81,7 @@
   </section>
 
   <section class="section">
-    <h2 class="section-title">章节目录</h2>
+    <h2 class="section-title" id="section-章节目录">章节目录</h2>
     <ol class="chapter-list">
       <li class="chapter-item"><span class="chapter-number">第一卷</span><span class="chapter-title">达摩克利斯之剑和九头蛇怪</span></li>
       <li class="chapter-item"><span class="chapter-number">第一卷</span><span class="chapter-title">随处可见的过度补偿和过度反应</span></li>
@@ -108,7 +112,7 @@
   </section>
 
   <section class="section">
-    <h2 class="section-title">交付物</h2>
+    <h2 class="section-title" id="section-交付物">交付物</h2>
     <div class="deliverable-list">
       <a class="deliverable-item" href="08_%E5%8F%8D%E8%84%86%E5%BC%B1/20_%E9%98%85%E8%AF%BB%E6%8A%A5%E5%91%8A/%E9%98%85%E8%AF%BB%E6%8A%A5%E5%91%8A_%E5%8F%8D%E8%84%86%E5%BC%B1.pdf">
         <span class="deliverable-icon">📄</span>
@@ -127,9 +131,23 @@
 
 </div>
 
+
+</div>
+
+    <aside class="toc-sidebar">
+      <div class="toc-sidebar__title">页面导航</div>
+        <a class="toc-sidebar__link" href="#section-概述">概述</a>
+        <a class="toc-sidebar__link" href="#section-全书结构">全书结构</a>
+        <a class="toc-sidebar__link" href="#section-核心观点">核心观点</a>
+        <a class="toc-sidebar__link" href="#section-章节目录">章节目录</a>
+        <a class="toc-sidebar__link" href="#section-交付物">交付物</a>
+    </aside>
+</div>
+
 <footer class="site-footer">
   <p>阅读报告书库 · <a href="https://github.com/NOTH2333/Reading-Report">GitHub</a></p>
 </footer>
 
+<script src="js/script.js"></script>
 </body>
 </html>

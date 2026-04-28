@@ -8,6 +8,7 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+<div class="progress-bar" id="progress-bar" style="--book-primary: #1E3A5F;"></div>
 
 <div class="container">
 
@@ -27,13 +28,16 @@
           <span class="detail-meta-tag">24 章节 + 附录</span>
           <span class="detail-meta-tag">交易传记</span>
           <span class="detail-meta-tag">华尔街经典</span>
-        </div>
+        
+          <span class="detail-meta-tag">投资交易</span></div>
       </div>
     </div>
   </header>
 
-  <section class="section">
-    <h2 class="section-title">概述</h2>
+  <div class="detail-layout">
+<div class="detail-content">
+    <section class="section">
+    <h2 class="section-title" id="section-概述">概述</h2>
     <div class="overview-text">
       <p>《股票大作手回忆录》是华尔街传奇交易员杰西·利弗莫尔的传记式回忆录，由财经作家埃德温·勒菲弗执笔。这本书以第一人称叙事，生动记录了利弗莫尔从14岁在"对赌行"起步，到成为华尔街最具影响力的交易者之一的完整历程。</p>
       <p>这本书被誉为交易领域的"圣经"，历经百年依然被无数交易者反复研读。它的价值不在于提供一套固定的交易公式，而在于透过一个顶尖交易者的亲身经历，揭示市场运作的本质规律——趋势、时机、风险管理和交易心理。</p>
@@ -42,7 +46,7 @@
   </section>
 
   <section class="section">
-    <h2 class="section-title">章节目录</h2>
+    <h2 class="section-title" id="section-章节目录">章节目录</h2>
     <ol class="chapter-list">
       <li class="chapter-item"><span class="chapter-title">行情纸带悟模式，对赌行里试牛刀</span></li>
       <li class="chapter-item"><span class="chapter-title">首战纽约遭挫败，重回对赌筹本钱</span></li>
@@ -73,7 +77,7 @@
   </section>
 
   <section class="section">
-    <h2 class="section-title">交付物</h2>
+    <h2 class="section-title" id="section-交付物">交付物</h2>
     <div class="deliverable-list">
       <a class="deliverable-item" href="01_%E8%82%A1%E7%A5%A8%E5%A4%A7%E4%BD%9C%E6%89%8B%E5%9B%9E%E5%BF%86%E5%BD%95__GU_PIAO_DA_ZUO_SHOU/output/md/%E9%98%85%E8%AF%BB%E6%8A%A5%E5%91%8A.pdf">
         <span class="deliverable-icon">📄</span>
@@ -92,9 +96,21 @@
 
 </div>
 
+
+</div>
+
+    <aside class="toc-sidebar">
+      <div class="toc-sidebar__title">页面导航</div>
+        <a class="toc-sidebar__link" href="#section-概述">概述</a>
+        <a class="toc-sidebar__link" href="#section-章节目录">章节目录</a>
+        <a class="toc-sidebar__link" href="#section-交付物">交付物</a>
+    </aside>
+</div>
+
 <footer class="site-footer">
   <p>阅读报告书库 · <a href="https://github.com/NOTH2333/Reading-Report">GitHub</a></p>
 </footer>
 
+<script src="js/script.js"></script>
 </body>
 </html>

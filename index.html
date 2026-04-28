@@ -9,6 +9,8 @@
 </head>
 <body>
 
+<button class="theme-toggle" id="theme-toggle" aria-label="切换深色模式">☾</button>
+
 <header class="site-header">
   <h1 class="site-title">阅读报告书库</h1>
   <p class="site-subtitle">投资 · 交易 · 哲学 · 经济学 — 十本经典的深度阅读与教学化交付</p>
@@ -16,10 +18,39 @@
 </header>
 
 <main class="container">
-  <div class="book-grid">
+
+  <!-- Stats Panel -->
+  <div class="stats-panel reveal" id="stats-panel">
+    <div class="stat-card">
+      <div class="stat-card__number" data-count="10">0</div>
+      <div class="stat-card__label">经典书籍</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-card__number" data-count="181">0</div>
+      <div class="stat-card__label">精读章节</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-card__number" data-count="4">0</div>
+      <div class="stat-card__label">领域分类</div>
+    </div>
+  </div>
+
+  <!-- Filter Bar -->
+  <div class="filter-bar reveal">
+    <button class="filter-btn active" data-filter="all">全部</button>
+    <button class="filter-btn" data-filter="投资交易">投资交易</button>
+    <button class="filter-btn" data-filter="哲学思维">哲学思维</button>
+    <button class="filter-btn" data-filter="经济学">经济学</button>
+    <div class="search-wrap">
+      <input type="text" class="search-input" id="search-input" placeholder="搜索书名或作者...">
+    </div>
+  </div>
+
+  <!-- Book Grid -->
+  <div class="book-grid" id="book-grid">
 
     <!-- Book 01: 股票大作手回忆录 -->
-    <a class="book-card" href="book-01.html">
+    <a class="book-card reveal" href="book-01.html" data-category="投资交易" data-search="股票大作手回忆录 埃德温勒菲弗">
       <div class="book-card__cover">
         <img src="01_%E8%82%A1%E7%A5%A8%E5%A4%A7%E4%BD%9C%E6%89%8B%E5%9B%9E%E5%BF%86%E5%BD%95__GU_PIAO_DA_ZUO_SHOU/output/assets/theme/bg_cover.png" alt="股票大作手回忆录 封面" loading="lazy">
       </div>
@@ -33,7 +64,7 @@
     </a>
 
     <!-- Book 02: 期货市场技术分析 -->
-    <a class="book-card" href="book-02.html">
+    <a class="book-card reveal" href="book-02.html" data-category="投资交易" data-search="期货市场技术分析 约翰墨菲">
       <div class="book-card__cover">
         <div class="book-card__cover-placeholder" style="--book-primary: #0F766E; --book-secondary: #99F6E4;">
           <span class="book-card__cover-title">期货市场技术分析</span>
@@ -49,7 +80,7 @@
     </a>
 
     <!-- Book 03: 交易心理分析 -->
-    <a class="book-card" href="book-03.html">
+    <a class="book-card reveal" href="book-03.html" data-category="投资交易" data-search="交易心理分析 马克道格拉斯">
       <div class="book-card__cover">
         <div class="book-card__cover-placeholder" style="--book-primary: #7C3AED; --book-secondary: #C4B5FD;">
           <span class="book-card__cover-title">交易心理分析</span>
@@ -65,7 +96,7 @@
     </a>
 
     <!-- Book 04: 穷查理宝典 -->
-    <a class="book-card" href="book-04.html">
+    <a class="book-card reveal" href="book-04.html" data-category="投资交易" data-search="穷查理宝典 查理芒格 彼得考夫曼">
       <div class="book-card__cover">
         <img src="04_%E7%A9%B7%E6%9F%A5%E7%90%86%E5%AE%9D%E5%85%B8__The_Wisdom_and_Maxims_of_Charlie_Munger/04_%E9%85%8D%E5%9B%BE/%E5%8E%9F%E4%B9%A6%E9%A1%B5%E5%9B%BE/book_cover_page.png" alt="穷查理宝典 封面" loading="lazy">
       </div>
@@ -79,7 +110,7 @@
     </a>
 
     <!-- Book 05: 量价分析 -->
-    <a class="book-card" href="book-05.html">
+    <a class="book-card reveal" href="book-05.html" data-category="投资交易" data-search="量价分析 安娜库林">
       <div class="book-card__cover">
         <div class="book-card__cover-placeholder" style="--book-primary: #0369A1; --book-secondary: #7DD3FC;">
           <span class="book-card__cover-title">量价分析</span>
@@ -95,7 +126,7 @@
     </a>
 
     <!-- Book 06: 澄明之境 -->
-    <a class="book-card" href="book-06.html">
+    <a class="book-card reveal" href="book-06.html" data-category="哲学思维" data-search="澄明之境 青泽">
       <div class="book-card__cover">
         <img src="06_%E6%BE%84%E6%98%8E%E4%B9%8B%E5%A2%83__CHENG_MING_ZHI_JING/04_%E9%85%8D%E5%9B%BE/%E5%8E%9F%E4%B9%A6%E9%A1%B5%E5%9B%BE/book_cover_page.png" alt="澄明之境 封面" loading="lazy">
       </div>
@@ -109,7 +140,7 @@
     </a>
 
     <!-- Book 07: 原则 -->
-    <a class="book-card" href="book-07.html">
+    <a class="book-card reveal" href="book-07.html" data-category="哲学思维" data-search="原则 瑞达利欧">
       <div class="book-card__cover">
         <img src="07_%E5%8E%9F%E5%88%99__Principles/04_%E9%85%8D%E5%9B%BE/%E5%8E%9F%E4%B9%A6%E9%A1%B5%E5%9B%BE/book_cover_page.png" alt="原则 封面" loading="lazy">
       </div>
@@ -123,7 +154,7 @@
     </a>
 
     <!-- Book 08: 反脆弱 -->
-    <a class="book-card" href="book-08.html">
+    <a class="book-card reveal" href="book-08.html" data-category="哲学思维" data-search="反脆弱 纳西姆尼古拉斯塔勒布 塔勒布">
       <div class="book-card__cover">
         <div class="book-card__cover-placeholder" style="--book-primary: #136F63; --book-secondary: #99F6E4;">
           <span class="book-card__cover-title">反脆弱</span>
@@ -139,7 +170,7 @@
     </a>
 
     <!-- Book 09: 黑天鹅 -->
-    <a class="book-card" href="book-09.html">
+    <a class="book-card reveal" href="book-09.html" data-category="哲学思维" data-search="黑天鹅 纳西姆尼古拉斯塔勒布 塔勒布">
       <div class="book-card__cover">
         <div class="book-card__cover-placeholder" style="--book-primary: #B42318; --book-secondary: #FECACA;">
           <span class="book-card__cover-title">黑天鹅</span>
@@ -155,7 +186,7 @@
     </a>
 
     <!-- Book 10: 天才的回声 -->
-    <a class="book-card" href="book-10.html">
+    <a class="book-card reveal" href="book-10.html" data-category="经济学" data-search="天才的回声 托德布赫霍尔茨">
       <div class="book-card__cover">
         <div class="book-card__cover-placeholder" style="--book-primary: #8B5E34; --book-secondary: #E9C46A;">
           <span class="book-card__cover-title">天才的回声</span>
@@ -171,11 +202,21 @@
     </a>
 
   </div>
+
+  <!-- Empty State -->
+  <div class="empty-state" id="empty-state">
+    <div class="empty-state__icon">📚</div>
+    <p class="empty-state__text">没有匹配的书籍，试试其他筛选条件</p>
+  </div>
+
 </main>
+
+<button class="back-to-top" id="back-to-top" aria-label="返回顶部">↑</button>
 
 <footer class="site-footer">
   <p>阅读报告书库 · <a href="https://github.com/NOTH2333/Reading-Report">GitHub</a></p>
 </footer>
 
+<script src="js/script.js"></script>
 </body>
 </html>
