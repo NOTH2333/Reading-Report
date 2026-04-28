@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#FAFFF8"/>
+
+    <rect x="80" y="60" width="1440" height="780" rx="40" fill="#ffffff" opacity="0.94"/>
+    <text x="120" y="140" font-size="46" font-family="Microsoft YaHei" font-weight="700" fill="#48663B">本章概念地图</text>
+    <text x="120" y="190" font-size="28" font-family="Microsoft YaHei" fill="#486581">把书里的抽象术语翻成能看得见的关系图。</text>
+    <line x1="800" y1="170" x2="480" y2="340" stroke="#8AB17D" stroke-width="8" opacity="0.35"/><line x1="800" y1="170" x2="1120" y2="340" stroke="#8AB17D" stroke-width="8" opacity="0.35"/><line x1="480" y1="340" x2="500" y2="610" stroke="#8AB17D" stroke-width="8" opacity="0.35"/><line x1="1120" y1="340" x2="1100" y2="610" stroke="#8AB17D" stroke-width="8" opacity="0.35"/>
+    
+      <circle cx="800" cy="170" r="92" fill="#ffffff" stroke="#8AB17D" stroke-width="6"/>
+      <text x="800" y="160" text-anchor="middle" font-size="30" font-family="Microsoft YaHei" font-weight="700" fill="#48663B">认知</text>
+      <text x="800" y="222" text-anchor="middle" font-size="22" font-family="Microsoft YaHei" fill="#334e68">你怎样选取、组织和解释信息。</text>
+      <circle cx="480" cy="340" r="92" fill="#ffffff" stroke="#E76F51" stroke-width="6"/>
+      <text x="480" y="330" text-anchor="middle" font-size="30" font-family="Microsoft YaHei" font-weight="700" fill="#48663B">心理软件</text>
+      <text x="480" y="392" text-anchor="middle" font-size="22" font-family="Microsoft YaHei" fill="#334e68">由过去经验写进脑中的自动程序。</text>
+      <circle cx="1120" cy="340" r="92" fill="#ffffff" stroke="#E76F51" stroke-width="6"/>
+      <text x="1120" y="330" text-anchor="middle" font-size="30" font-family="Microsoft YaHei" font-weight="700" fill="#48663B">联想</text>
+      <text x="1120" y="392" text-anchor="middle" font-size="22" font-family="Microsoft YaHei" fill="#334e68">当前刺激触发旧记忆与旧情绪。</text>
+      <circle cx="500" cy="610" r="92" fill="#ffffff" stroke="#E76F51" stroke-width="6"/>
+      <text x="500" y="600" text-anchor="middle" font-size="30" font-family="Microsoft YaHei" font-weight="700" fill="#48663B">感知风险</text>
+      <text x="500" y="662" text-anchor="middle" font-size="22" font-family="Microsoft YaHei" fill="#334e68">你以为危险有多大，常常取决于过去经历，</text><text x="500" y="690" text-anchor="middle" font-size="22" font-family="Microsoft YaHei" fill="#334e68">而非当前事实。</text>
+      <circle cx="1100" cy="610" r="92" fill="#ffffff" stroke="#E76F51" stroke-width="6"/>
+      <text x="1100" y="600" text-anchor="middle" font-size="30" font-family="Microsoft YaHei" font-weight="700" fill="#48663B">开放学习</text>
+      <text x="1100" y="662" text-anchor="middle" font-size="22" font-family="Microsoft YaHei" fill="#334e68">让新信息进入，而不是只重复旧结论。</text>
+  
+</svg>

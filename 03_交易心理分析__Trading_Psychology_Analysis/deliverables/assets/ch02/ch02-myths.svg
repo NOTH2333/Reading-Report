@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#FFF8F1"/>
+
+    <text x="110" y="100" font-size="46" font-family="Microsoft YaHei" font-weight="700" fill="#8B4E1B">误区与修正</text>
+    <text x="110" y="145" font-size="28" font-family="Microsoft YaHei" fill="#486581">把“听上去很像对的话”翻回书里真正的意思。</text>
+    
+      <rect x="110" y="180" width="580" height="136" rx="28" fill="#FEE2E2"/>
+      <rect x="810" y="180" width="580" height="136" rx="28" fill="#DCFCE7"/>
+      <text x="155" y="220" font-size="26" font-family="Microsoft YaHei" font-weight="700" fill="#991B1B">常见误区</text>
+      <text x="855" y="220" font-size="26" font-family="Microsoft YaHei" font-weight="700" fill="#166534">作者真正想说</text>
+      <text x="175" y="252" font-size="28" font-family="Microsoft YaHei" fill="#7f1d1d">交易最棒的地方是没人管我，所以我可以随心所欲。</text>
+      <text x="865" y="252" font-size="28" font-family="Microsoft YaHei" fill="#14532d">没人管你并不等于你不需要规则。真正的高手，</text><text x="865" y="286" font-size="28" font-family="Microsoft YaHei" fill="#14532d">是把规则装进自己脑子里的人。</text>
+      <path d="M710 248 L790 248" stroke="#F4A261" stroke-width="8" stroke-linecap="round"/>
+      <path d="M772 226 L798 248 L772 270" fill="none" stroke="#F4A261" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="110" y="370" width="580" height="136" rx="28" fill="#FEE2E2"/>
+      <rect x="810" y="370" width="580" height="136" rx="28" fill="#DCFCE7"/>
+      <text x="155" y="410" font-size="26" font-family="Microsoft YaHei" font-weight="700" fill="#991B1B">常见误区</text>
+      <text x="855" y="410" font-size="26" font-family="Microsoft YaHei" font-weight="700" fill="#166534">作者真正想说</text>
+      <text x="175" y="442" font-size="28" font-family="Microsoft YaHei" fill="#7f1d1d">只要我很兴奋、很有感觉，就说明我找到了机会。</text>
+      <text x="865" y="442" font-size="28" font-family="Microsoft YaHei" fill="#14532d">强烈情绪常常意味着你被诱惑了，而不是你真的有优势。</text>
+      <path d="M710 438 L790 438" stroke="#F4A261" stroke-width="8" stroke-linecap="round"/>
+      <path d="M772 416 L798 438 L772 460" fill="none" stroke="#F4A261" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="110" y="560" width="580" height="136" rx="28" fill="#FEE2E2"/>
+      <rect x="810" y="560" width="580" height="136" rx="28" fill="#DCFCE7"/>
+      <text x="155" y="600" font-size="26" font-family="Microsoft YaHei" font-weight="700" fill="#991B1B">常见误区</text>
+      <text x="855" y="600" font-size="26" font-family="Microsoft YaHei" font-weight="700" fill="#166534">作者真正想说</text>
+      <text x="175" y="632" font-size="28" font-family="Microsoft YaHei" fill="#7f1d1d">偶尔靠冲动赚到钱，说明这种做法也可以。</text>
+      <text x="865" y="632" font-size="28" font-family="Microsoft YaHei" fill="#14532d">随机奖励最会骗人。它会把坏习惯伪装成天赋。</text>
+      <path d="M710 628 L790 628" stroke="#F4A261" stroke-width="8" stroke-linecap="round"/>
+      <path d="M772 606 L798 628 L772 650" fill="none" stroke="#F4A261" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  
+</svg>

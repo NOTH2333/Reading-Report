@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#FFF9F3"/>
+
+    <rect x="80" y="60" width="1440" height="780" rx="40" fill="#ffffff" opacity="0.94"/>
+    <text x="120" y="140" font-size="46" font-family="Microsoft YaHei" font-weight="700" fill="#6A3B14">本章概念地图</text>
+    <text x="120" y="190" font-size="28" font-family="Microsoft YaHei" fill="#486581">把书里的抽象术语翻成能看得见的关系图。</text>
+    <line x1="800" y1="170" x2="480" y2="340" stroke="#BC6C25" stroke-width="8" opacity="0.35"/><line x1="800" y1="170" x2="1120" y2="340" stroke="#BC6C25" stroke-width="8" opacity="0.35"/><line x1="480" y1="340" x2="500" y2="610" stroke="#BC6C25" stroke-width="8" opacity="0.35"/><line x1="1120" y1="340" x2="1100" y2="610" stroke="#BC6C25" stroke-width="8" opacity="0.35"/>
+    
+      <circle cx="800" cy="170" r="92" fill="#ffffff" stroke="#BC6C25" stroke-width="6"/>
+      <text x="800" y="160" text-anchor="middle" font-size="30" font-family="Microsoft YaHei" font-weight="700" fill="#6A3B14">信念特征</text>
+      <text x="800" y="222" text-anchor="middle" font-size="22" font-family="Microsoft YaHei" fill="#334e68">一旦形成，就会自动组织感知和行为。</text>
+      <circle cx="480" cy="340" r="92" fill="#ffffff" stroke="#606C38" stroke-width="6"/>
+      <text x="480" y="330" text-anchor="middle" font-size="30" font-family="Microsoft YaHei" font-weight="700" fill="#6A3B14">自我评估</text>
+      <text x="480" y="392" text-anchor="middle" font-size="22" font-family="Microsoft YaHei" fill="#334e68">你怎样评价自己，会影响你怎样交易。</text>
+      <circle cx="1120" cy="340" r="92" fill="#ffffff" stroke="#606C38" stroke-width="6"/>
+      <text x="1120" y="330" text-anchor="middle" font-size="30" font-family="Microsoft YaHei" font-weight="700" fill="#6A3B14">机会可见性</text>
+      <text x="1120" y="392" text-anchor="middle" font-size="22" font-family="Microsoft YaHei" fill="#334e68">只有符合你心智结构的信息，</text><text x="1120" y="420" text-anchor="middle" font-size="22" font-family="Microsoft YaHei" fill="#334e68">才容易被你看见。</text>
+      <circle cx="500" cy="610" r="92" fill="#ffffff" stroke="#606C38" stroke-width="6"/>
+      <text x="500" y="600" text-anchor="middle" font-size="30" font-family="Microsoft YaHei" font-weight="700" fill="#6A3B14">冲突</text>
+      <text x="500" y="662" text-anchor="middle" font-size="22" font-family="Microsoft YaHei" fill="#334e68">旧信念与新规则打架时，</text><text x="500" y="690" text-anchor="middle" font-size="22" font-family="Microsoft YaHei" fill="#334e68">行为会走样。</text>
+      <circle cx="1100" cy="610" r="92" fill="#ffffff" stroke="#606C38" stroke-width="6"/>
+      <text x="1100" y="600" text-anchor="middle" font-size="30" font-family="Microsoft YaHei" font-weight="700" fill="#6A3B14">行为扭曲</text>
+      <text x="1100" y="662" text-anchor="middle" font-size="22" font-family="Microsoft YaHei" fill="#334e68">提前平仓、拖延止损、放大仓位等都可能是信念产物。</text>
+  
+</svg>

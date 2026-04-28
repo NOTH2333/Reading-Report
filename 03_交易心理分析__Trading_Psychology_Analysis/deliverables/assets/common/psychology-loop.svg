@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#FFF9F3"/>
+
+    <text x="120" y="110" font-size="50" font-family="Microsoft YaHei" font-weight="700" fill="#7D2E22">普通交易者的心理回路</text>
+    <text x="120" y="155" font-size="28" font-family="Microsoft YaHei" fill="#486581">全书反复想打断的，就是这条会自我强化的循环。</text>
+    <circle cx="330" cy="420" r="120" fill="#FCE4CC"/><text x="330" y="405" text-anchor="middle" font-size="32" font-family="Microsoft YaHei" font-weight="700" fill="#8B4E1B">想预测对</text><text x="330" y="448" text-anchor="middle" font-size="24" font-family="Microsoft YaHei" fill="#7C5A38">把交易等同于证明自己</text>
+    <circle cx="780" cy="260" r="120" fill="#FEE2E2"/><text x="780" y="245" text-anchor="middle" font-size="32" font-family="Microsoft YaHei" font-weight="700" fill="#991B1B">遇到不确定</text><text x="780" y="288" text-anchor="middle" font-size="24" font-family="Microsoft YaHei" fill="#7C5A38">市场不照“应该”走</text>
+    <circle cx="1230" cy="420" r="120" fill="#E6DDEA"/><text x="1230" y="405" text-anchor="middle" font-size="32" font-family="Microsoft YaHei" font-weight="700" fill="#4C1D95">情绪放大</text><text x="1230" y="448" text-anchor="middle" font-size="24" font-family="Microsoft YaHei" fill="#7C5A38">恐惧、贪婪、报复</text>
+    <circle cx="780" cy="610" r="120" fill="#DDE6EF"/><text x="780" y="595" text-anchor="middle" font-size="32" font-family="Microsoft YaHei" font-weight="700" fill="#17313B">行为扭曲</text><text x="780" y="638" text-anchor="middle" font-size="24" font-family="Microsoft YaHei" fill="#7C5A38">拖损、抢跑、乱加仓</text>
+    <path d="M446 372 C550 300 620 280 655 270" stroke="#E76F51" stroke-width="10" fill="none" stroke-linecap="round"/>
+    <path d="M900 270 C1010 285 1085 330 1125 360" stroke="#E76F51" stroke-width="10" fill="none" stroke-linecap="round"/>
+    <path d="M1155 540 C1070 590 965 622 900 620" stroke="#E76F51" stroke-width="10" fill="none" stroke-linecap="round"/>
+    <path d="M660 622 C565 615 470 565 405 520" stroke="#E76F51" stroke-width="10" fill="none" stroke-linecap="round"/>
+  
+</svg>

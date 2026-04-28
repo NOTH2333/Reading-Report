@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#FAFFF8"/>
+
+    <defs>
+      <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#FAFFF8"/>
+        <stop offset="100%" stop-color="#E7F2E3"/>
+      </linearGradient>
+      <linearGradient id="hill" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#8AB17D"/>
+        <stop offset="100%" stop-color="#E76F51"/>
+      </linearGradient>
+    </defs>
+    <rect width="1600" height="900" fill="url(#sky)"/>
+    <circle cx="1320" cy="110" r="64" fill="#ffffff" opacity="0.6"/>
+    <path d="M0 640 C220 540 430 760 620 650 C760 570 860 520 980 600 C1140 710 1290 650 1600 570 L1600 900 L0 900 Z" fill="url(#hill)" opacity="0.22"/>
+    <rect x="96" y="92" width="620" height="716" rx="44" fill="#ffffff" opacity="0.82"/>
+    <text x="146" y="180" font-size="58" font-family="Microsoft YaHei" font-weight="700" fill="#48663B">第 5 章</text>
+    <text x="146" y="250" font-size="44" font-family="Microsoft YaHei" font-weight="700" fill="#243b53">戴着旧眼镜看新世界</text>
+    <rect x="150" y="320" width="460" height="220" rx="28" fill="#E7F2E3" opacity="0.95"/>
+    <circle cx="250" cy="408" r="66" fill="#8AB17D"/>
+    <rect x="205" y="476" width="92" height="146" rx="26" fill="#8AB17D"/>
+    <rect x="330" y="350" width="240" height="170" rx="18" fill="#ffffff" stroke="#E76F51" stroke-width="6"/>
+    <line x1="330" y1="398" x2="570" y2="398" stroke="#E76F51" stroke-width="6"/>
+    <path d="M364 443 L424 404 L483 446 L533 414" stroke="#8AB17D" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    
+        <rect x="150" y="610" width="190" height="62" rx="20" fill="#ffffff" opacity="0.92"/>
+        <text x="245" y="649" text-anchor="middle" font-size="28" font-family="Microsoft YaHei" fill="#243b53">眼镜</text>
+        <rect x="380" y="610" width="190" height="62" rx="20" fill="#ffffff" opacity="0.92"/>
+        <text x="475" y="649" text-anchor="middle" font-size="28" font-family="Microsoft YaHei" fill="#243b53">滤镜</text>
+        <rect x="150" y="704" width="190" height="62" rx="20" fill="#ffffff" opacity="0.92"/>
+        <text x="245" y="743" text-anchor="middle" font-size="28" font-family="Microsoft YaHei" fill="#243b53">旧记忆</text>
+        <rect x="380" y="704" width="190" height="62" rx="20" fill="#ffffff" opacity="0.92"/>
+        <text x="475" y="743" text-anchor="middle" font-size="28" font-family="Microsoft YaHei" fill="#243b53">新行情</text>
+    <rect x="820" y="180" width="650" height="360" rx="40" fill="#ffffff" opacity="0.92" stroke="#8AB17D" stroke-width="6"/>
+    <text x="930" y="280" font-size="34" font-family="Microsoft YaHei" fill="#1f2933">行情每时每刻都在更新，但人的大脑总想用旧故事给新场景贴标签。</text><text x="930" y="328" font-size="34" font-family="Microsoft YaHei" fill="#1f2933">你不是只在看图，你是在用记忆解释图。</text>
+    <rect x="880" y="610" width="520" height="150" rx="34" fill="#8AB17D" opacity="0.12"/>
+    <text x="920" y="670" font-size="36" font-family="Microsoft YaHei" font-weight="700" fill="#48663B">本章主线</text>
+    <text x="920" y="722" font-size="30" font-family="Microsoft YaHei" fill="#1f2933">第 5 章解释了认知是怎样工作的。你看到的市场，从来不是纯粹客观的市场，而是被过往记忆、痛苦回避、联想系统过滤后的市场版本。很多交易错误不是技术错误，而是感知错误。</text>
+  
+</svg>

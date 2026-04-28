@@ -1,0 +1,147 @@
+{
+  "pdf_path": "c:\\Users\\霓\\Downloads\\Documents\\交易心理分析（中英文对照版） (马克•道格拉斯 [马克•道格拉斯]) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "page_count": 348,
+  "chapters": [
+    {
+      "id": "01",
+      "title_zh": "成功之路：基本面、技术面或思想分析？",
+      "title_en": "The Road to Success: Fundamental, Technical, or Mental Analysis?",
+      "start_page": 11,
+      "end_page": 36,
+      "sections": [
+        "开始：基本面分析",
+        "转到技术分析",
+        "转到思想分析"
+      ]
+    },
+    {
+      "id": "02",
+      "title_zh": "交易的诱惑（和危险）",
+      "title_en": "The Lure (and the Dangers) of Trading",
+      "start_page": 37,
+      "end_page": 63,
+      "sections": [
+        "吸引",
+        "危险",
+        "安全措施",
+        "问题：不愿制定规则",
+        "问题：不愿承担责任",
+        "问题：对随机回报上瘾",
+        "问题：外部控制与内部控制"
+      ]
+    },
+    {
+      "id": "03",
+      "title_zh": "自己承担责任",
+      "title_en": "Taking Responsibility",
+      "start_page": 64,
+      "end_page": 105,
+      "sections": [
+        "塑造思想环境",
+        "对亏损的反应",
+        "赢家、输家、暴发者和崩溃者"
+      ]
+    },
+    {
+      "id": "04",
+      "title_zh": "持续一致性：一种思想状态",
+      "title_en": "Consistency: A State of Mind",
+      "start_page": 106,
+      "end_page": 123,
+      "sections": [
+        "思考交易",
+        "真正理解风险",
+        "调整思想环境"
+      ]
+    },
+    {
+      "id": "05",
+      "title_zh": "认知的动力",
+      "title_en": "The Dynamics of Perception",
+      "start_page": 124,
+      "end_page": 154,
+      "sections": [
+        "给思想软件除错",
+        "认知与学习",
+        "认知与风险",
+        "联想的力量"
+      ]
+    },
+    {
+      "id": "06",
+      "title_zh": "市场的角度",
+      "title_en": "The Market's Perspective",
+      "start_page": 155,
+      "end_page": 176,
+      "sections": [
+        "“不确定”原则",
+        "市场最基本的特点：几乎无限地表达自己"
+      ]
+    },
+    {
+      "id": "07",
+      "title_zh": "交易者的优势：考虑概率",
+      "title_en": "The Trader's Edge: Thinking in Probabilities",
+      "start_page": 177,
+      "end_page": 215,
+      "sections": [
+        "概率悖论：随机结果，一致成果",
+        "活在当下交易",
+        "管理预期",
+        "消除情绪风险"
+      ]
+    },
+    {
+      "id": "08",
+      "title_zh": "和信念一起工作",
+      "title_en": "Working with Your Beliefs",
+      "start_page": 216,
+      "end_page": 232,
+      "sections": [
+        "定义问题",
+        "定义术语",
+        "五个基本事实与技巧的关系",
+        "走向状态"
+      ]
+    },
+    {
+      "id": "09",
+      "title_zh": "信念的天性",
+      "title_en": "The Nature of Beliefs",
+      "start_page": 233,
+      "end_page": 254,
+      "sections": [
+        "信念的起源",
+        "信念对生活的影响",
+        "信念与真相"
+      ]
+    },
+    {
+      "id": "10",
+      "title_zh": "信念对交易的影响",
+      "title_en": "The Impact of Beliefs on Trading",
+      "start_page": 255,
+      "end_page": 285,
+      "sections": [
+        "信念的主要特征",
+        "自我评估与交易"
+      ]
+    },
+    {
+      "id": "11",
+      "title_zh": "像交易者一样思考",
+      "title_en": "Thinking Like a Trader",
+      "start_page": 286,
+      "end_page": 340,
+      "sections": [
+        "机械阶段",
+        "观察自己",
+        "自律的作用",
+        "建立持续一致性的信念",
+        "练习：像赌场一样交易优势",
+        "最后的说明",
+        "态度调查"
+      ]
+    }
+  ]
+}

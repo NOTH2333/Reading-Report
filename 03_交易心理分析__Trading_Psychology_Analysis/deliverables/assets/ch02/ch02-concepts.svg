@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#FFF8F1"/>
+
+    <rect x="80" y="60" width="1440" height="780" rx="40" fill="#ffffff" opacity="0.94"/>
+    <text x="120" y="140" font-size="46" font-family="Microsoft YaHei" font-weight="700" fill="#8B4E1B">本章概念地图</text>
+    <text x="120" y="190" font-size="28" font-family="Microsoft YaHei" fill="#486581">把书里的抽象术语翻成能看得见的关系图。</text>
+    <line x1="800" y1="170" x2="480" y2="340" stroke="#F4A261" stroke-width="8" opacity="0.35"/><line x1="800" y1="170" x2="1120" y2="340" stroke="#F4A261" stroke-width="8" opacity="0.35"/><line x1="480" y1="340" x2="500" y2="610" stroke="#F4A261" stroke-width="8" opacity="0.35"/><line x1="1120" y1="340" x2="1100" y2="610" stroke="#F4A261" stroke-width="8" opacity="0.35"/>
+    
+      <circle cx="800" cy="170" r="92" fill="#ffffff" stroke="#F4A261" stroke-width="6"/>
+      <text x="800" y="160" text-anchor="middle" font-size="30" font-family="Microsoft YaHei" font-weight="700" fill="#8B4E1B">自由表达</text>
+      <text x="800" y="222" text-anchor="middle" font-size="22" font-family="Microsoft YaHei" fill="#334e68">交易允许你随时进出、随时改变主意、随时承担结果。</text>
+      <circle cx="480" cy="340" r="92" fill="#ffffff" stroke="#264653" stroke-width="6"/>
+      <text x="480" y="330" text-anchor="middle" font-size="30" font-family="Microsoft YaHei" font-weight="700" fill="#8B4E1B">心理挑战</text>
+      <text x="480" y="392" text-anchor="middle" font-size="22" font-family="Microsoft YaHei" fill="#334e68">没有外部边界时，人必须自己制造边界。</text>
+      <circle cx="1120" cy="340" r="92" fill="#ffffff" stroke="#264653" stroke-width="6"/>
+      <text x="1120" y="330" text-anchor="middle" font-size="30" font-family="Microsoft YaHei" font-weight="700" fill="#8B4E1B">随机回报</text>
+      <text x="1120" y="392" text-anchor="middle" font-size="22" font-family="Microsoft YaHei" fill="#334e68">不是每次好行为都马上有好结果，</text><text x="1120" y="420" text-anchor="middle" font-size="22" font-family="Microsoft YaHei" fill="#334e68">这会让人上瘾。</text>
+      <circle cx="500" cy="610" r="92" fill="#ffffff" stroke="#264653" stroke-width="6"/>
+      <text x="500" y="600" text-anchor="middle" font-size="30" font-family="Microsoft YaHei" font-weight="700" fill="#8B4E1B">外部控制</text>
+      <text x="500" y="662" text-anchor="middle" font-size="22" font-family="Microsoft YaHei" fill="#334e68">总想让市场按自己的意愿走。</text>
+      <circle cx="1100" cy="610" r="92" fill="#ffffff" stroke="#264653" stroke-width="6"/>
+      <text x="1100" y="600" text-anchor="middle" font-size="30" font-family="Microsoft YaHei" font-weight="700" fill="#8B4E1B">内部控制</text>
+      <text x="1100" y="662" text-anchor="middle" font-size="22" font-family="Microsoft YaHei" fill="#334e68">把注意力拉回自己能定义、能执行、能承担的事情。</text>
+  
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#FBF8FD"/>
+
+    <rect x="80" y="60" width="1440" height="780" rx="40" fill="#ffffff" opacity="0.94"/>
+    <text x="120" y="140" font-size="46" font-family="Microsoft YaHei" font-weight="700" fill="#3F3046">本章概念地图</text>
+    <text x="120" y="190" font-size="28" font-family="Microsoft YaHei" fill="#486581">把书里的抽象术语翻成能看得见的关系图。</text>
+    <line x1="800" y1="170" x2="480" y2="340" stroke="#6D597A" stroke-width="8" opacity="0.35"/><line x1="800" y1="170" x2="1120" y2="340" stroke="#6D597A" stroke-width="8" opacity="0.35"/><line x1="480" y1="340" x2="500" y2="610" stroke="#6D597A" stroke-width="8" opacity="0.35"/><line x1="1120" y1="340" x2="1100" y2="610" stroke="#6D597A" stroke-width="8" opacity="0.35"/>
+    
+      <circle cx="800" cy="170" r="92" fill="#ffffff" stroke="#6D597A" stroke-width="6"/>
+      <text x="800" y="160" text-anchor="middle" font-size="30" font-family="Microsoft YaHei" font-weight="700" fill="#3F3046">信念起源</text>
+      <text x="800" y="222" text-anchor="middle" font-size="22" font-family="Microsoft YaHei" fill="#334e68">来自成长经历、重复体验和情绪强化。</text>
+      <circle cx="480" cy="340" r="92" fill="#ffffff" stroke="#F4A261" stroke-width="6"/>
+      <text x="480" y="330" text-anchor="middle" font-size="30" font-family="Microsoft YaHei" font-weight="700" fill="#3F3046">信念作用</text>
+      <text x="480" y="392" text-anchor="middle" font-size="22" font-family="Microsoft YaHei" fill="#334e68">决定你注意什么、忽略什么、怎样解释结果。</text>
+      <circle cx="1120" cy="340" r="92" fill="#ffffff" stroke="#F4A261" stroke-width="6"/>
+      <text x="1120" y="330" text-anchor="middle" font-size="30" font-family="Microsoft YaHei" font-weight="700" fill="#3F3046">信念与真相</text>
+      <text x="1120" y="392" text-anchor="middle" font-size="22" font-family="Microsoft YaHei" fill="#334e68">相信某件事，并不代表那件事就是客观真理。</text>
+      <circle cx="500" cy="610" r="92" fill="#ffffff" stroke="#F4A261" stroke-width="6"/>
+      <text x="500" y="600" text-anchor="middle" font-size="30" font-family="Microsoft YaHei" font-weight="700" fill="#3F3046">能量投入</text>
+      <text x="500" y="662" text-anchor="middle" font-size="22" font-family="Microsoft YaHei" fill="#334e68">越被反复强化的信念，越稳定、越自动。</text>
+      <circle cx="1100" cy="610" r="92" fill="#ffffff" stroke="#F4A261" stroke-width="6"/>
+      <text x="1100" y="600" text-anchor="middle" font-size="30" font-family="Microsoft YaHei" font-weight="700" fill="#3F3046">可重塑性</text>
+      <text x="1100" y="662" text-anchor="middle" font-size="22" font-family="Microsoft YaHei" fill="#334e68">信念很强，但不是天生不可改。</text>
+  
+</svg>

@@ -1,0 +1,14 @@
+{
+  "name": "technical-analysis-of-futures-markets-kit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Book learning kit generator for Technical Analysis of Futures Markets",
+  "scripts": {
+    "build:content": "python scripts/build_book_kit.py",
+    "build:ppt": "node scripts/build_chapter_ppts.js",
+    "build": "npm run build:content && npm run build:ppt"
+  },
+  "dependencies": {
+    "pptxgenjs": "^3.12.0"
+  }
+}

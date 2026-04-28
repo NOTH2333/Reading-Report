@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#FFF9F3"/>
+
+    <text x="120" y="105" font-size="46" font-family="Microsoft YaHei" font-weight="700" fill="#6A3B14">行动清单</text>
+    <text x="120" y="150" font-size="28" font-family="Microsoft YaHei" fill="#486581">把本章道理压缩成可以直接执行的动作。</text>
+    <rect x="110" y="190" width="1300" height="560" rx="42" fill="#F4E3D3" opacity="0.72"/>
+    
+      <circle cx="195" cy="193" r="42" fill="#BC6C25"/>
+      <text x="195" y="203" text-anchor="middle" font-size="34" font-family="Georgia" font-weight="700" fill="#ffffff">1</text>
+      <rect x="260" y="147" width="1080" height="102" rx="30" fill="#ffffff" opacity="0.92"/>
+      <text x="340" y="213" font-size="28" font-family="Microsoft YaHei" fill="#243b53">每次交易后分开写：这笔交易表现如何，我这个人并不因此被定义。</text>
+      <circle cx="195" cy="343" r="42" fill="#BC6C25"/>
+      <text x="195" y="353" text-anchor="middle" font-size="34" font-family="Georgia" font-weight="700" fill="#ffffff">2</text>
+      <rect x="260" y="297" width="1080" height="102" rx="30" fill="#ffffff" opacity="0.92"/>
+      <text x="340" y="363" font-size="28" font-family="Microsoft YaHei" fill="#243b53">注意自己是否特别害怕‘看起来很蠢’；这常是止损拖延的隐形原因。</text>
+      <circle cx="195" cy="493" r="42" fill="#BC6C25"/>
+      <text x="195" y="503" text-anchor="middle" font-size="34" font-family="Georgia" font-weight="700" fill="#ffffff">3</text>
+      <rect x="260" y="447" width="1080" height="102" rx="30" fill="#ffffff" opacity="0.92"/>
+      <text x="340" y="513" font-size="28" font-family="Microsoft YaHei" fill="#243b53">当某类机会总是被你忽视时，检查是不是某种信念让你根本不愿看它。</text>
+      <circle cx="195" cy="643" r="42" fill="#BC6C25"/>
+      <text x="195" y="653" text-anchor="middle" font-size="34" font-family="Georgia" font-weight="700" fill="#ffffff">4</text>
+      <rect x="260" y="597" width="1080" height="102" rx="30" fill="#ffffff" opacity="0.92"/>
+      <text x="340" y="663" font-size="28" font-family="Microsoft YaHei" fill="#243b53">把屏幕上的规则和脑中的解释对照起来，找出它们的冲突点。</text>
+  
+</svg>

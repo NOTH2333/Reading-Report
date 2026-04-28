@@ -1,0 +1,227 @@
+[
+  {
+    "number": 1,
+    "title": "交易之中无新事",
+    "folder": "第01章_交易之中无新事",
+    "start_page": 13,
+    "end_page": 27,
+    "page_count": 15,
+    "raw_text_file": "05_中间数据\\章节原文\\第01章_交易之中无新事.txt",
+    "image_pages": [
+      20,
+      22,
+      24
+    ],
+    "figure_count": 3
+  },
+  {
+    "number": 2,
+    "title": "为何成交量如此重要",
+    "folder": "第02章_为何成交量如此重要",
+    "start_page": 28,
+    "end_page": 36,
+    "page_count": 9,
+    "raw_text_file": "05_中间数据\\章节原文\\第02章_为何成交量如此重要.txt",
+    "image_pages": [],
+    "figure_count": 0
+  },
+  {
+    "number": 3,
+    "title": "合理的价格",
+    "folder": "第03章_合理的价格",
+    "start_page": 37,
+    "end_page": 55,
+    "page_count": 19,
+    "raw_text_file": "05_中间数据\\章节原文\\第03章_合理的价格.txt",
+    "image_pages": [
+      43,
+      45,
+      47,
+      50,
+      52,
+      54
+    ],
+    "figure_count": 6
+  },
+  {
+    "number": 4,
+    "title": "量价分析的首要原则",
+    "folder": "第04章_量价分析的首要原则",
+    "start_page": 56,
+    "end_page": 84,
+    "page_count": 29,
+    "raw_text_file": "05_中间数据\\章节原文\\第04章_量价分析的首要原则.txt",
+    "image_pages": [
+      61,
+      63,
+      65,
+      68,
+      72,
+      74,
+      77,
+      80
+    ],
+    "figure_count": 8
+  },
+  {
+    "number": 5,
+    "title": "量价分析的全局视角",
+    "folder": "第05章_量价分析的全局视角",
+    "start_page": 85,
+    "end_page": 121,
+    "page_count": 37,
+    "raw_text_file": "05_中间数据\\章节原文\\第05章_量价分析的全局视角.txt",
+    "image_pages": [
+      89,
+      93,
+      95,
+      97,
+      100,
+      102,
+      108,
+      110,
+      114,
+      118,
+      120
+    ],
+    "figure_count": 11
+  },
+  {
+    "number": 6,
+    "title": "结合K线图的量价分析",
+    "folder": "第06章_结合K线图的量价分析",
+    "start_page": 122,
+    "end_page": 153,
+    "page_count": 32,
+    "raw_text_file": "05_中间数据\\章节原文\\第06章_结合K线图的量价分析.txt",
+    "image_pages": [
+      126,
+      128,
+      134,
+      138,
+      142,
+      144,
+      146,
+      149,
+      152
+    ],
+    "figure_count": 9
+  },
+  {
+    "number": 7,
+    "title": "支撑位和阻力位",
+    "folder": "第07章_支撑位和阻力位",
+    "start_page": 154,
+    "end_page": 180,
+    "page_count": 27,
+    "raw_text_file": "05_中间数据\\章节原文\\第07章_支撑位和阻力位.txt",
+    "image_pages": [
+      157,
+      160,
+      163,
+      166,
+      168,
+      170,
+      173,
+      175,
+      177
+    ],
+    "figure_count": 9
+  },
+  {
+    "number": 8,
+    "title": "动态趋势及趋势线",
+    "folder": "第08章_动态趋势及趋势线",
+    "start_page": 181,
+    "end_page": 199,
+    "page_count": 19,
+    "raw_text_file": "05_中间数据\\章节原文\\第08章_动态趋势及趋势线.txt",
+    "image_pages": [
+      185,
+      189,
+      191,
+      193,
+      195,
+      198
+    ],
+    "figure_count": 6
+  },
+  {
+    "number": 9,
+    "title": "价量分布分析（VAP）",
+    "folder": "第09章_价量分布分析（VAP）",
+    "start_page": 200,
+    "end_page": 215,
+    "page_count": 16,
+    "raw_text_file": "05_中间数据\\章节原文\\第09章_价量分布分析（VAP）.txt",
+    "image_pages": [
+      202,
+      204,
+      206,
+      210,
+      212,
+      214
+    ],
+    "figure_count": 6
+  },
+  {
+    "number": 10,
+    "title": "量价分析实例",
+    "folder": "第10章_量价分析实例",
+    "start_page": 216,
+    "end_page": 250,
+    "page_count": 35,
+    "raw_text_file": "05_中间数据\\章节原文\\第10章_量价分析实例.txt",
+    "image_pages": [
+      218,
+      221,
+      224,
+      226,
+      229,
+      232,
+      234,
+      237,
+      240,
+      242,
+      244,
+      247,
+      249
+    ],
+    "figure_count": 13
+  },
+  {
+    "number": 11,
+    "title": "综合运用",
+    "folder": "第11章_综合运用",
+    "start_page": 251,
+    "end_page": 274,
+    "page_count": 24,
+    "raw_text_file": "05_中间数据\\章节原文\\第11章_综合运用.txt",
+    "image_pages": [
+      254,
+      257,
+      261,
+      265,
+      267,
+      269,
+      271,
+      273
+    ],
+    "figure_count": 8
+  },
+  {
+    "number": 12,
+    "title": "量价分析的最新发展",
+    "folder": "第12章_量价分析的最新发展",
+    "start_page": 275,
+    "end_page": 285,
+    "page_count": 11,
+    "raw_text_file": "05_中间数据\\章节原文\\第12章_量价分析的最新发展.txt",
+    "image_pages": [
+      278,
+      281,
+      283
+    ],
+    "figure_count": 3
+  }
+]

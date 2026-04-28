@@ -1,0 +1,521 @@
+{
+  "book_id": "principles",
+  "book_title": "《原则》",
+  "source_pdf": "C:\\Users\\霓\\Downloads\\Documents\\原则 (瑞·达利欧) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "page_count": 488,
+  "intro_sections": [
+    {
+      "id": "intro01",
+      "title": "中文版序",
+      "start_page": 8,
+      "end_page": 9
+    },
+    {
+      "id": "intro02",
+      "title": "导言",
+      "start_page": 10,
+      "end_page": 18
+    },
+    {
+      "id": "intro03",
+      "title": "第一部分 我的历程（总览页）",
+      "start_page": 19,
+      "end_page": 20
+    },
+    {
+      "id": "intro04",
+      "title": "第二部分 生活原则（总览页）",
+      "start_page": 56,
+      "end_page": 56
+    },
+    {
+      "id": "intro05",
+      "title": "第三部分 工作原则（总览页）",
+      "start_page": 93,
+      "end_page": 106
+    }
+  ],
+  "chapters": [
+    {
+      "id": "ch01",
+      "sequence_no": "01",
+      "source_part": "第一部分 我的历程",
+      "original_label": "1 我的探险召唤 （1949—1967年）",
+      "title": "我的探险召唤",
+      "full_title": "第01章 我的探险召唤",
+      "start_page": 21,
+      "end_page": 21,
+      "opener_page": 21,
+      "reference_pages": [
+        21,
+        21
+      ]
+    },
+    {
+      "id": "ch02",
+      "sequence_no": "02",
+      "source_part": "第一部分 我的历程",
+      "original_label": "2 跨越门槛 （1967—1979年）",
+      "title": "跨越门槛",
+      "full_title": "第02章 跨越门槛",
+      "start_page": 22,
+      "end_page": 22,
+      "opener_page": 22,
+      "reference_pages": [
+        22,
+        22
+      ]
+    },
+    {
+      "id": "ch03",
+      "sequence_no": "03",
+      "source_part": "第一部分 我的历程",
+      "original_label": "3 我的低谷 （1979—1982年）",
+      "title": "我的低谷",
+      "full_title": "第03章 我的低谷",
+      "start_page": 23,
+      "end_page": 26,
+      "opener_page": 23,
+      "reference_pages": [
+        23,
+        26
+      ]
+    },
+    {
+      "id": "ch04",
+      "sequence_no": "04",
+      "source_part": "第一部分 我的历程",
+      "original_label": "4 我的试炼之路 （1983—1994年）",
+      "title": "我的试炼之路",
+      "full_title": "第04章 我的试炼之路",
+      "start_page": 27,
+      "end_page": 29,
+      "opener_page": 27,
+      "reference_pages": [
+        27,
+        29
+      ]
+    },
+    {
+      "id": "ch05",
+      "sequence_no": "05",
+      "source_part": "第一部分 我的历程",
+      "original_label": "5 终极恩惠 （1995—2010年）",
+      "title": "终极恩惠",
+      "full_title": "第05章 终极恩惠",
+      "start_page": 30,
+      "end_page": 33,
+      "opener_page": 30,
+      "reference_pages": [
+        30,
+        33
+      ]
+    },
+    {
+      "id": "ch06",
+      "sequence_no": "06",
+      "source_part": "第一部分 我的历程",
+      "original_label": "6 回报恩惠 （2011—2015年）",
+      "title": "回报恩惠",
+      "full_title": "第06章 回报恩惠",
+      "start_page": 34,
+      "end_page": 36,
+      "opener_page": 34,
+      "reference_pages": [
+        34,
+        36
+      ]
+    },
+    {
+      "id": "ch07",
+      "sequence_no": "07",
+      "source_part": "第一部分 我的历程",
+      "original_label": "7 最后的一年和最大的挑战 （2016—2017年）",
+      "title": "最后的一年和最大的挑战",
+      "full_title": "第07章 最后的一年和最大的挑战",
+      "start_page": 37,
+      "end_page": 40,
+      "opener_page": 37,
+      "reference_pages": [
+        37,
+        40
+      ]
+    },
+    {
+      "id": "ch08",
+      "sequence_no": "08",
+      "source_part": "第一部分 我的历程",
+      "original_label": "8 从更高的层面回顾",
+      "title": "从更高的层面回顾",
+      "full_title": "第08章 从更高的层面回顾",
+      "start_page": 41,
+      "end_page": 55,
+      "opener_page": 41,
+      "reference_pages": [
+        41,
+        55
+      ]
+    },
+    {
+      "id": "ch09",
+      "sequence_no": "09",
+      "source_part": "第二部分 生活原则",
+      "original_label": "1 拥抱现实，应对现实",
+      "title": "拥抱现实，应对现实",
+      "full_title": "第09章 拥抱现实，应对现实",
+      "start_page": 56,
+      "end_page": 62,
+      "opener_page": 56,
+      "reference_pages": [
+        56,
+        62
+      ]
+    },
+    {
+      "id": "ch10",
+      "sequence_no": "10",
+      "source_part": "第二部分 生活原则",
+      "original_label": "2 用五步流程实现你的人生愿望",
+      "title": "用五步流程实现你的人生愿望",
+      "full_title": "第10章 用五步流程实现你的人生愿望",
+      "start_page": 63,
+      "end_page": 65,
+      "opener_page": 63,
+      "reference_pages": [
+        63,
+        65
+      ]
+    },
+    {
+      "id": "ch11",
+      "sequence_no": "11",
+      "source_part": "第二部分 生活原则",
+      "original_label": "3 做到头脑极度开放",
+      "title": "做到头脑极度开放",
+      "full_title": "第11章 做到头脑极度开放",
+      "start_page": 66,
+      "end_page": 69,
+      "opener_page": 66,
+      "reference_pages": [
+        66,
+        69
+      ]
+    },
+    {
+      "id": "ch12",
+      "sequence_no": "12",
+      "source_part": "第二部分 生活原则",
+      "original_label": "4 理解人与人大不相同",
+      "title": "理解人与人大不相同",
+      "full_title": "第12章 理解人与人大不相同",
+      "start_page": 70,
+      "end_page": 73,
+      "opener_page": 70,
+      "reference_pages": [
+        70,
+        73
+      ]
+    },
+    {
+      "id": "ch13",
+      "sequence_no": "13",
+      "source_part": "第二部分 生活原则",
+      "original_label": "5 学习如何有效决策",
+      "title": "学习如何有效决策",
+      "full_title": "第13章 学习如何有效决策",
+      "start_page": 74,
+      "end_page": 78,
+      "opener_page": 74,
+      "reference_pages": [
+        74,
+        78
+      ]
+    },
+    {
+      "id": "ch14",
+      "sequence_no": "14",
+      "source_part": "第三部分 工作原则",
+      "original_label": "1 相信极度求真和极度透明",
+      "title": "相信极度求真和极度透明",
+      "full_title": "第14章 相信极度求真和极度透明",
+      "start_page": 107,
+      "end_page": 110,
+      "opener_page": 107,
+      "reference_pages": [
+        107,
+        110
+      ]
+    },
+    {
+      "id": "ch15",
+      "sequence_no": "15",
+      "source_part": "第三部分 工作原则",
+      "original_label": "2 做有意义的工作，发展有意义的人际关系",
+      "title": "做有意义的工作，发展有意义的人际关系",
+      "full_title": "第15章 做有意义的工作，发展有意义的人际关系",
+      "start_page": 111,
+      "end_page": 113,
+      "opener_page": 111,
+      "reference_pages": [
+        111,
+        113
+      ]
+    },
+    {
+      "id": "ch16",
+      "sequence_no": "16",
+      "source_part": "第三部分 工作原则",
+      "original_label": "3 打造允许犯错，但不容忍罔顾教训、一错再错的文化",
+      "title": "打造允许犯错，但不容忍罔顾教训、一错再错的文化",
+      "full_title": "第16章 打造允许犯错，但不容忍罔顾教训、一错再错的文化",
+      "start_page": 114,
+      "end_page": 117,
+      "opener_page": 114,
+      "reference_pages": [
+        114,
+        117
+      ]
+    },
+    {
+      "id": "ch17",
+      "sequence_no": "17",
+      "source_part": "第三部分 工作原则",
+      "original_label": "4 求取共识并坚持",
+      "title": "求取共识并坚持",
+      "full_title": "第17章 求取共识并坚持",
+      "start_page": 118,
+      "end_page": 121,
+      "opener_page": 118,
+      "reference_pages": [
+        118,
+        121
+      ]
+    },
+    {
+      "id": "ch18",
+      "sequence_no": "18",
+      "source_part": "第三部分 工作原则",
+      "original_label": "5 做决策时要从观点的可信度出发",
+      "title": "做决策时要从观点的可信度出发",
+      "full_title": "第18章 做决策时要从观点的可信度出发",
+      "start_page": 122,
+      "end_page": 123,
+      "opener_page": 122,
+      "reference_pages": [
+        122,
+        123
+      ]
+    },
+    {
+      "id": "ch19",
+      "sequence_no": "19",
+      "source_part": "第三部分 工作原则",
+      "original_label": "6 知道如何超越分歧",
+      "title": "知道如何超越分歧",
+      "full_title": "第19章 知道如何超越分歧",
+      "start_page": 124,
+      "end_page": 126,
+      "opener_page": 124,
+      "reference_pages": [
+        124,
+        126
+      ]
+    },
+    {
+      "id": "ch20",
+      "sequence_no": "20",
+      "source_part": "第三部分 工作原则",
+      "original_label": "7 比做什么事更重要的是找对做事的人",
+      "title": "找对做事的人",
+      "full_title": "第20章 找对做事的人",
+      "start_page": 130,
+      "end_page": 130,
+      "opener_page": 130,
+      "reference_pages": [
+        130,
+        130
+      ]
+    },
+    {
+      "id": "ch21",
+      "sequence_no": "21",
+      "source_part": "第三部分 工作原则",
+      "original_label": "8 要用对人，因为用人不当的代价高昂",
+      "title": "要用对人",
+      "full_title": "第21章 要用对人",
+      "start_page": 131,
+      "end_page": 133,
+      "opener_page": 131,
+      "reference_pages": [
+        131,
+        133
+      ]
+    },
+    {
+      "id": "ch22",
+      "sequence_no": "22",
+      "source_part": "第三部分 工作原则",
+      "original_label": "9 持续培训、测试、评估和调配员工",
+      "title": "持续培训、测试、评估和调配员工",
+      "full_title": "第22章 持续培训、测试、评估和调配员工",
+      "start_page": 134,
+      "end_page": 145,
+      "opener_page": 134,
+      "reference_pages": [
+        134,
+        145
+      ]
+    },
+    {
+      "id": "ch23",
+      "sequence_no": "23",
+      "source_part": "第三部分 工作原则",
+      "original_label": "10 像操作一部机器那样进行管理以实现目标",
+      "title": "像机器那样进行管理",
+      "full_title": "第23章 像机器那样进行管理",
+      "start_page": 146,
+      "end_page": 148,
+      "opener_page": 146,
+      "reference_pages": [
+        146,
+        148
+      ]
+    },
+    {
+      "id": "ch24",
+      "sequence_no": "24",
+      "source_part": "第三部分 工作原则",
+      "original_label": "11 发现问题，不容忍问题",
+      "title": "发现问题，不容忍问题",
+      "full_title": "第24章 发现问题，不容忍问题",
+      "start_page": 149,
+      "end_page": 152,
+      "opener_page": 149,
+      "reference_pages": [
+        149,
+        152
+      ]
+    },
+    {
+      "id": "ch25",
+      "sequence_no": "25",
+      "source_part": "第三部分 工作原则",
+      "original_label": "12 诊断问题，探究根源",
+      "title": "诊断问题，探究根源",
+      "full_title": "第25章 诊断问题，探究根源",
+      "start_page": 153,
+      "end_page": 156,
+      "opener_page": 153,
+      "reference_pages": [
+        153,
+        156
+      ]
+    },
+    {
+      "id": "ch26",
+      "sequence_no": "26",
+      "source_part": "第三部分 工作原则",
+      "original_label": "13 改进机器，解决问题",
+      "title": "改进机器，解决问题",
+      "full_title": "第26章 改进机器，解决问题",
+      "start_page": 157,
+      "end_page": 159,
+      "opener_page": 157,
+      "reference_pages": [
+        157,
+        159
+      ]
+    },
+    {
+      "id": "ch27",
+      "sequence_no": "27",
+      "source_part": "第三部分 工作原则",
+      "original_label": "14 按既定计划行事",
+      "title": "按既定计划行事",
+      "full_title": "第27章 按既定计划行事",
+      "start_page": 160,
+      "end_page": 162,
+      "opener_page": 160,
+      "reference_pages": [
+        160,
+        162
+      ]
+    },
+    {
+      "id": "ch28",
+      "sequence_no": "28",
+      "source_part": "第三部分 工作原则",
+      "original_label": "15 运用工具和行为准则指导工作",
+      "title": "运用工具和行为准则指导工作",
+      "full_title": "第28章 运用工具和行为准则指导工作",
+      "start_page": 163,
+      "end_page": 166,
+      "opener_page": 163,
+      "reference_pages": [
+        163,
+        166
+      ]
+    },
+    {
+      "id": "ch29",
+      "sequence_no": "29",
+      "source_part": "第三部分 工作原则",
+      "original_label": "16 千万别忽视了公司治理",
+      "title": "千万别忽视了公司治理",
+      "full_title": "第29章 千万别忽视了公司治理",
+      "start_page": 167,
+      "end_page": 173,
+      "opener_page": 167,
+      "reference_pages": [
+        167,
+        173
+      ]
+    }
+  ],
+  "wrap_up_sections": [
+    {
+      "id": "wrap01",
+      "title": "生活原则总结",
+      "start_page": 79,
+      "end_page": 85
+    },
+    {
+      "id": "wrap02",
+      "title": "生活原则概要与列表",
+      "start_page": 86,
+      "end_page": 92
+    },
+    {
+      "id": "wrap03",
+      "title": "工作原则概要与列表",
+      "start_page": 93,
+      "end_page": 106
+    },
+    {
+      "id": "wrap04",
+      "title": "将工作原则融会贯通",
+      "start_page": 174,
+      "end_page": 180
+    },
+    {
+      "id": "wrap05",
+      "title": "结语",
+      "start_page": 181,
+      "end_page": 183
+    }
+  ],
+  "static_page_renders": [
+    {
+      "name": "book_cover_page",
+      "page": 2
+    },
+    {
+      "name": "book_toc_page",
+      "page": 3
+    },
+    {
+      "name": "book_introduction_page",
+      "page": 10
+    }
+  ]
+}

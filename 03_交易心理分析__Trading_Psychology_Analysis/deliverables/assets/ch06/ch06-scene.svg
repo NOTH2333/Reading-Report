@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#F7FBFF"/>
+
+    <defs>
+      <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#F7FBFF"/>
+        <stop offset="100%" stop-color="#DDE6EF"/>
+      </linearGradient>
+      <linearGradient id="hill" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#577590"/>
+        <stop offset="100%" stop-color="#90BE6D"/>
+      </linearGradient>
+    </defs>
+    <rect width="1600" height="900" fill="url(#sky)"/>
+    <circle cx="1320" cy="110" r="64" fill="#ffffff" opacity="0.6"/>
+    <path d="M0 640 C220 540 430 760 620 650 C760 570 860 520 980 600 C1140 710 1290 650 1600 570 L1600 900 L0 900 Z" fill="url(#hill)" opacity="0.22"/>
+    <rect x="96" y="92" width="620" height="716" rx="44" fill="#ffffff" opacity="0.82"/>
+    <text x="146" y="180" font-size="58" font-family="Microsoft YaHei" font-weight="700" fill="#2D4255">第 6 章</text>
+    <text x="146" y="250" font-size="44" font-family="Microsoft YaHei" font-weight="700" fill="#243b53">站到河流旁，而不是站在水里喊</text>
+    <rect x="150" y="320" width="460" height="220" rx="28" fill="#DDE6EF" opacity="0.95"/>
+    <circle cx="250" cy="408" r="66" fill="#577590"/>
+    <rect x="205" y="476" width="92" height="146" rx="26" fill="#577590"/>
+    <rect x="330" y="350" width="240" height="170" rx="18" fill="#ffffff" stroke="#90BE6D" stroke-width="6"/>
+    <line x1="330" y1="398" x2="570" y2="398" stroke="#90BE6D" stroke-width="6"/>
+    <path d="M364 443 L424 404 L483 446 L533 414" stroke="#577590" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    
+        <rect x="150" y="610" width="190" height="62" rx="20" fill="#ffffff" opacity="0.92"/>
+        <text x="245" y="649" text-anchor="middle" font-size="28" font-family="Microsoft YaHei" fill="#243b53">河流</text>
+        <rect x="380" y="610" width="190" height="62" rx="20" fill="#ffffff" opacity="0.92"/>
+        <text x="475" y="649" text-anchor="middle" font-size="28" font-family="Microsoft YaHei" fill="#243b53">观察者</text>
+        <rect x="150" y="704" width="190" height="62" rx="20" fill="#ffffff" opacity="0.92"/>
+        <text x="245" y="743" text-anchor="middle" font-size="28" font-family="Microsoft YaHei" fill="#243b53">不确定</text>
+        <rect x="380" y="704" width="190" height="62" rx="20" fill="#ffffff" opacity="0.92"/>
+        <text x="475" y="743" text-anchor="middle" font-size="28" font-family="Microsoft YaHei" fill="#243b53">无限组合</text>
+    <rect x="820" y="180" width="650" height="360" rx="40" fill="#ffffff" opacity="0.92" stroke="#577590" stroke-width="6"/>
+    <text x="930" y="280" font-size="34" font-family="Microsoft YaHei" fill="#1f2933">市场像一条不断流动的河。你越想命令水怎么走，</text><text x="930" y="328" font-size="34" font-family="Microsoft YaHei" fill="#1f2933">越容易被冲倒；你越理解水流本身的特性，</text><text x="930" y="376" font-size="34" font-family="Microsoft YaHei" fill="#1f2933">越知道怎样顺着它行动。</text>
+    <rect x="880" y="610" width="520" height="150" rx="34" fill="#577590" opacity="0.12"/>
+    <text x="920" y="670" font-size="36" font-family="Microsoft YaHei" font-weight="700" fill="#2D4255">本章主线</text>
+    <text x="920" y="722" font-size="30" font-family="Microsoft YaHei" fill="#1f2933">第 6 章逼读者从个人情绪里退一步，用市场的视角理解市场：市场没有义务延续你上一笔的结果，也没有义务配合你的期待。它唯一稳定的特点，就是它可以用几乎无限种方式表达自己。</text>
+  
+</svg>

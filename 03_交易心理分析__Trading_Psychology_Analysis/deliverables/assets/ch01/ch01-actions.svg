@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#FFF7EF"/>
+
+    <text x="120" y="105" font-size="46" font-family="Microsoft YaHei" font-weight="700" fill="#7D2E22">行动清单</text>
+    <text x="120" y="150" font-size="28" font-family="Microsoft YaHei" fill="#486581">把本章道理压缩成可以直接执行的动作。</text>
+    <rect x="110" y="190" width="1300" height="560" rx="42" fill="#F7D7CC" opacity="0.72"/>
+    
+      <circle cx="195" cy="193" r="42" fill="#E76F51"/>
+      <text x="195" y="203" text-anchor="middle" font-size="34" font-family="Georgia" font-weight="700" fill="#ffffff">1</text>
+      <rect x="260" y="147" width="1080" height="102" rx="30" fill="#ffffff" opacity="0.92"/>
+      <text x="340" y="213" font-size="28" font-family="Microsoft YaHei" fill="#243b53">先分清“我在解释市场”还是“我在跟市场争论”。</text>
+      <circle cx="195" cy="343" r="42" fill="#E76F51"/>
+      <text x="195" y="353" text-anchor="middle" font-size="34" font-family="Georgia" font-weight="700" fill="#ffffff">2</text>
+      <rect x="260" y="297" width="1080" height="102" rx="30" fill="#ffffff" opacity="0.92"/>
+      <text x="340" y="363" font-size="28" font-family="Microsoft YaHei" fill="#243b53">每次做交易前，写下自己的优势来自哪里，而不是只写预测方向。</text>
+      <circle cx="195" cy="493" r="42" fill="#E76F51"/>
+      <text x="195" y="503" text-anchor="middle" font-size="34" font-family="Georgia" font-weight="700" fill="#ffffff">3</text>
+      <rect x="260" y="447" width="1080" height="102" rx="30" fill="#ffffff" opacity="0.92"/>
+      <text x="340" y="513" font-size="28" font-family="Microsoft YaHei" fill="#243b53">把一次交易看成样本，不把单笔输赢当成能力判决书。</text>
+      <circle cx="195" cy="643" r="42" fill="#E76F51"/>
+      <text x="195" y="653" text-anchor="middle" font-size="34" font-family="Georgia" font-weight="700" fill="#ffffff">4</text>
+      <rect x="260" y="597" width="1080" height="102" rx="30" fill="#ffffff" opacity="0.92"/>
+      <text x="340" y="663" font-size="28" font-family="Microsoft YaHei" fill="#243b53">当你发现自己一直在补知识却没补执行力时，提醒自己问题可能已经转到心理层。</text>
+  
+</svg>

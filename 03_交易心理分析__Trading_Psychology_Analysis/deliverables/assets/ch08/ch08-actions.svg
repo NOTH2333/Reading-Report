@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#FFF8FA"/>
+
+    <text x="120" y="105" font-size="46" font-family="Microsoft YaHei" font-weight="700" fill="#6E2C39">行动清单</text>
+    <text x="120" y="150" font-size="28" font-family="Microsoft YaHei" fill="#486581">把本章道理压缩成可以直接执行的动作。</text>
+    <rect x="110" y="190" width="1300" height="560" rx="42" fill="#F5DCE2" opacity="0.72"/>
+    
+      <circle cx="195" cy="193" r="42" fill="#B56576"/>
+      <text x="195" y="203" text-anchor="middle" font-size="34" font-family="Georgia" font-weight="700" fill="#ffffff">1</text>
+      <rect x="260" y="147" width="1080" height="102" rx="30" fill="#ffffff" opacity="0.92"/>
+      <text x="340" y="213" font-size="28" font-family="Microsoft YaHei" fill="#243b53">把五个基本事实写成自己的语言，确认自己真的懂每一条。</text>
+      <circle cx="195" cy="343" r="42" fill="#B56576"/>
+      <text x="195" y="353" text-anchor="middle" font-size="34" font-family="Georgia" font-weight="700" fill="#ffffff">2</text>
+      <rect x="260" y="297" width="1080" height="102" rx="30" fill="#ffffff" opacity="0.92"/>
+      <text x="340" y="363" font-size="28" font-family="Microsoft YaHei" fill="#243b53">检查常用规则背后是否有对应事实支撑，而不是只靠习惯复制。</text>
+      <circle cx="195" cy="493" r="42" fill="#B56576"/>
+      <text x="195" y="503" text-anchor="middle" font-size="34" font-family="Georgia" font-weight="700" fill="#ffffff">3</text>
+      <rect x="260" y="447" width="1080" height="102" rx="30" fill="#ffffff" opacity="0.92"/>
+      <text x="340" y="513" font-size="28" font-family="Microsoft YaHei" fill="#243b53">当你出现明显内耗时，先找是哪个旧信念在和当前原则冲突。</text>
+      <circle cx="195" cy="643" r="42" fill="#B56576"/>
+      <text x="195" y="653" text-anchor="middle" font-size="34" font-family="Georgia" font-weight="700" fill="#ffffff">4</text>
+      <rect x="260" y="597" width="1080" height="102" rx="30" fill="#ffffff" opacity="0.92"/>
+      <text x="340" y="663" font-size="28" font-family="Microsoft YaHei" fill="#243b53">把‘我要进入状态’改写成‘我要先把事实接受清楚’。</text>
+  
+</svg>

@@ -1,0 +1,170 @@
+{
+  "book_id": "black_swan",
+  "title": "《黑天鹅》",
+  "source_pdf": "G:\\OBSIDIAN\\黑天鹅：如何应对不可预知的未来 = The Black Swan The Impact of the Highly Improbable ( etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "page_count": 431,
+  "chapters": [
+    {
+      "id": "ch01",
+      "sequence_no": "01",
+      "source_part": "第一部分",
+      "original_label": "第一章 自我欺骗的人类",
+      "title": "自我欺骗的人类",
+      "start_page": 21,
+      "end_page": 39
+    },
+    {
+      "id": "ch02",
+      "sequence_no": "02",
+      "source_part": "第一部分",
+      "original_label": "第二章 出版业中的黑天鹅",
+      "title": "出版业中的黑天鹅",
+      "start_page": 40,
+      "end_page": 42
+    },
+    {
+      "id": "ch03",
+      "sequence_no": "03",
+      "source_part": "第一部分",
+      "original_label": "第三章 极端斯坦与平均斯坦",
+      "title": "极端斯坦与平均斯坦",
+      "start_page": 43,
+      "end_page": 55
+    },
+    {
+      "id": "ch04",
+      "sequence_no": "04",
+      "source_part": "第一部分",
+      "original_label": "第四章 1001天如何避免成为失败者",
+      "title": "1001天如何避免成为失败者",
+      "start_page": 56,
+      "end_page": 69
+    },
+    {
+      "id": "ch05",
+      "sequence_no": "05",
+      "source_part": "第一部分",
+      "original_label": "第五章 不能只靠过去的经验来判断",
+      "title": "不能只靠过去的经验来判断",
+      "start_page": 70,
+      "end_page": 81
+    },
+    {
+      "id": "ch06",
+      "sequence_no": "06",
+      "source_part": "第一部分",
+      "original_label": "第六章 叙述谬误",
+      "title": "叙述谬误",
+      "start_page": 82,
+      "end_page": 107
+    },
+    {
+      "id": "ch07",
+      "sequence_no": "07",
+      "source_part": "第一部分",
+      "original_label": "第七章 活在希望的小屋里",
+      "title": "活在希望的小屋里",
+      "start_page": 108,
+      "end_page": 124
+    },
+    {
+      "id": "ch08",
+      "sequence_no": "08",
+      "source_part": "第一部分",
+      "original_label": "第八章 永不消失的运气——沉默的证据",
+      "title": "永不消失的运气——沉默的证据",
+      "start_page": 125,
+      "end_page": 148
+    },
+    {
+      "id": "ch09",
+      "sequence_no": "09",
+      "source_part": "第一部分",
+      "original_label": "第九章 游戏谬误——愚人的不确定性",
+      "title": "游戏谬误——愚人的不确定性",
+      "start_page": 149,
+      "end_page": 161
+    },
+    {
+      "id": "ch10",
+      "sequence_no": "10",
+      "source_part": "第二部分",
+      "original_label": "第十章 预测之耻",
+      "title": "预测之耻",
+      "start_page": 165,
+      "end_page": 195
+    },
+    {
+      "id": "ch11",
+      "sequence_no": "11",
+      "source_part": "第二部分",
+      "original_label": "第十一章 怎样寻找鸟粪",
+      "title": "怎样寻找鸟粪",
+      "start_page": 196,
+      "end_page": 223
+    },
+    {
+      "id": "ch12",
+      "sequence_no": "12",
+      "source_part": "第二部分",
+      "original_label": "第十二章 认知斯坦——一个梦",
+      "title": "认知斯坦——一个梦",
+      "start_page": 224,
+      "end_page": 234
+    },
+    {
+      "id": "ch13",
+      "sequence_no": "13",
+      "source_part": "第二部分",
+      "original_label": "第十三章 假如你不会预测怎么办",
+      "title": "假如你不会预测怎么办",
+      "start_page": 235,
+      "end_page": 246
+    },
+    {
+      "id": "ch14",
+      "sequence_no": "14",
+      "source_part": "第三部分",
+      "original_label": "第十四章 从平均斯坦到极端斯坦，再回到平均斯坦",
+      "title": "从平均斯坦到极端斯坦，再回到平均斯坦",
+      "start_page": 249,
+      "end_page": 263
+    },
+    {
+      "id": "ch15",
+      "sequence_no": "15",
+      "source_part": "第三部分",
+      "original_label": "第十五章 钟形曲线——智力大骗局",
+      "title": "钟形曲线——智力大骗局",
+      "start_page": 264,
+      "end_page": 289
+    },
+    {
+      "id": "ch16",
+      "sequence_no": "16",
+      "source_part": "第三部分",
+      "original_label": "第十六章 随机的美学",
+      "title": "随机的美学",
+      "start_page": 290,
+      "end_page": 312
+    },
+    {
+      "id": "ch17",
+      "sequence_no": "17",
+      "source_part": "第三部分",
+      "original_label": "第十七章 洛克的疯子——在错误的地方出现的钟形曲线",
+      "title": "洛克的疯子——在错误的地方出现的钟形曲线",
+      "start_page": 313,
+      "end_page": 325
+    },
+    {
+      "id": "ch18",
+      "sequence_no": "18",
+      "source_part": "第三部分",
+      "original_label": "第十八章 骗子的不确定性",
+      "title": "骗子的不确定性",
+      "start_page": 326,
+      "end_page": 332
+    }
+  ]
+}

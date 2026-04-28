@@ -1,0 +1,233 @@
+{
+  "book_id": "antifragile",
+  "title": "《反脆弱》",
+  "source_pdf": "G:\\OBSIDIAN\\反脆弱：从不确定性中获益 = Antifragile Things That Gain from Disorder ([美] 纳西姆•尼古拉斯•塔勒布 (Nassim Nicholas Taleb) 著 etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "page_count": 568,
+  "chapters": [
+    {
+      "id": "ch01",
+      "sequence_no": "01",
+      "source_part": "第一卷",
+      "original_label": "第1章 达摩克利斯之剑和九头蛇怪",
+      "title": "达摩克利斯之剑和九头蛇怪",
+      "start_page": 51,
+      "end_page": 63
+    },
+    {
+      "id": "ch02",
+      "sequence_no": "02",
+      "source_part": "第一卷",
+      "original_label": "第2章 随处可见的过度补偿和过度反应",
+      "title": "随处可见的过度补偿和过度反应",
+      "start_page": 64,
+      "end_page": 81
+    },
+    {
+      "id": "ch03",
+      "sequence_no": "03",
+      "source_part": "第一卷",
+      "original_label": "第3章 猫与洗衣机",
+      "title": "猫与洗衣机",
+      "start_page": 82,
+      "end_page": 97
+    },
+    {
+      "id": "ch04",
+      "sequence_no": "04",
+      "source_part": "第一卷",
+      "original_label": "第4章 杀死我的东西却让其他人更强壮",
+      "title": "杀死我的东西却让其他人更强壮",
+      "start_page": 98,
+      "end_page": 119
+    },
+    {
+      "id": "ch05",
+      "sequence_no": "05",
+      "source_part": "第二卷",
+      "original_label": "第5章 露天市场与办公楼",
+      "title": "露天市场与办公楼",
+      "start_page": 123,
+      "end_page": 145
+    },
+    {
+      "id": "ch06",
+      "sequence_no": "06",
+      "source_part": "第二卷",
+      "original_label": "第6章 告诉他们我爱随机性",
+      "title": "告诉他们我爱随机性",
+      "start_page": 146,
+      "end_page": 159
+    },
+    {
+      "id": "ch07",
+      "sequence_no": "07",
+      "source_part": "第二卷",
+      "original_label": "第7章 天真的干预",
+      "title": "天真的干预",
+      "start_page": 160,
+      "end_page": 190
+    },
+    {
+      "id": "ch08",
+      "sequence_no": "08",
+      "source_part": "第二卷",
+      "original_label": "第8章 预测是现代化的产物",
+      "title": "预测是现代化的产物",
+      "start_page": 191,
+      "end_page": 197
+    },
+    {
+      "id": "ch09",
+      "sequence_no": "09",
+      "source_part": "第三卷",
+      "original_label": "第9章 胖子托尼与脆弱推手",
+      "title": "胖子托尼与脆弱推手",
+      "start_page": 200,
+      "end_page": 211
+    },
+    {
+      "id": "ch10",
+      "sequence_no": "10",
+      "source_part": "第三卷",
+      "original_label": "第10章 塞内加的不利因素和有利因素",
+      "title": "塞内加的不利因素和有利因素",
+      "start_page": 212,
+      "end_page": 222
+    },
+    {
+      "id": "ch11",
+      "sequence_no": "11",
+      "source_part": "第三卷",
+      "original_label": "第11章 千万别嫁给摇滚明星",
+      "title": "千万别嫁给摇滚明星",
+      "start_page": 223,
+      "end_page": 234
+    },
+    {
+      "id": "ch12",
+      "sequence_no": "12",
+      "source_part": "第四卷",
+      "original_label": "第12章 泰勒斯的甜葡萄",
+      "title": "泰勒斯的甜葡萄",
+      "start_page": 240,
+      "end_page": 257
+    },
+    {
+      "id": "ch13",
+      "sequence_no": "13",
+      "source_part": "第四卷",
+      "original_label": "第13章 教鸟儿如何飞行",
+      "title": "教鸟儿如何飞行",
+      "start_page": 258,
+      "end_page": 276
+    },
+    {
+      "id": "ch14",
+      "sequence_no": "14",
+      "source_part": "第四卷",
+      "original_label": "第14章 当两件事不是同一回事时",
+      "title": "当两件事不是同一回事时",
+      "start_page": 277,
+      "end_page": 295
+    },
+    {
+      "id": "ch15",
+      "sequence_no": "15",
+      "source_part": "第四卷",
+      "original_label": "第15章 失败者撰写的历史",
+      "title": "失败者撰写的历史",
+      "start_page": 296,
+      "end_page": 327
+    },
+    {
+      "id": "ch16",
+      "sequence_no": "16",
+      "source_part": "第四卷",
+      "original_label": "第16章 混乱中的秩序",
+      "title": "混乱中的秩序",
+      "start_page": 328,
+      "end_page": 337
+    },
+    {
+      "id": "ch17",
+      "sequence_no": "17",
+      "source_part": "第四卷",
+      "original_label": "第17章 胖子托尼与苏格拉底辩论",
+      "title": "胖子托尼与苏格拉底辩论",
+      "start_page": 338,
+      "end_page": 355
+    },
+    {
+      "id": "ch18",
+      "sequence_no": "18",
+      "source_part": "第五卷",
+      "original_label": "第18章 一块大石头与一千颗小石子的区别",
+      "title": "一块大石头与一千颗小石子的区别",
+      "start_page": 362,
+      "end_page": 390
+    },
+    {
+      "id": "ch19",
+      "sequence_no": "19",
+      "source_part": "第五卷",
+      "original_label": "第19章 炼金石与反炼金石",
+      "title": "炼金石与反炼金石",
+      "start_page": 391,
+      "end_page": 403
+    },
+    {
+      "id": "ch20",
+      "sequence_no": "20",
+      "source_part": "第六卷",
+      "original_label": "第20章 时间与脆弱性",
+      "title": "时间与脆弱性",
+      "start_page": 416,
+      "end_page": 451
+    },
+    {
+      "id": "ch21",
+      "sequence_no": "21",
+      "source_part": "第六卷",
+      "original_label": "第21章 医疗、凸性和不透明",
+      "title": "医疗、凸性和不透明",
+      "start_page": 452,
+      "end_page": 478
+    },
+    {
+      "id": "ch22",
+      "sequence_no": "22",
+      "source_part": "第六卷",
+      "original_label": "第22章 活得长寿，但不要太长",
+      "title": "活得长寿，但不要太长",
+      "start_page": 479,
+      "end_page": 497
+    },
+    {
+      "id": "ch23",
+      "sequence_no": "23",
+      "source_part": "第七卷",
+      "original_label": "第23章 切身利害：反脆弱性和牺牲他人的可选择性",
+      "title": "切身利害：反脆弱性和牺牲他人的可选择性",
+      "start_page": 500,
+      "end_page": 544
+    },
+    {
+      "id": "ch24",
+      "sequence_no": "24",
+      "source_part": "第七卷",
+      "original_label": "第24章 给职业戴上伦理光环",
+      "title": "给职业戴上伦理光环",
+      "start_page": 545,
+      "end_page": 562
+    },
+    {
+      "id": "ch25",
+      "sequence_no": "25",
+      "source_part": "第七卷",
+      "original_label": "第25章 结语",
+      "title": "结语",
+      "start_page": 563,
+      "end_page": 566
+    }
+  ]
+}

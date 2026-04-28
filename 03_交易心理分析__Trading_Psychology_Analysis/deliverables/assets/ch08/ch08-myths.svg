@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#FFF8FA"/>
+
+    <text x="110" y="100" font-size="46" font-family="Microsoft YaHei" font-weight="700" fill="#6E2C39">误区与修正</text>
+    <text x="110" y="145" font-size="28" font-family="Microsoft YaHei" fill="#486581">把“听上去很像对的话”翻回书里真正的意思。</text>
+    
+      <rect x="110" y="180" width="580" height="136" rx="28" fill="#FEE2E2"/>
+      <rect x="810" y="180" width="580" height="136" rx="28" fill="#DCFCE7"/>
+      <text x="155" y="220" font-size="26" font-family="Microsoft YaHei" font-weight="700" fill="#991B1B">常见误区</text>
+      <text x="855" y="220" font-size="26" font-family="Microsoft YaHei" font-weight="700" fill="#166534">作者真正想说</text>
+      <text x="175" y="252" font-size="28" font-family="Microsoft YaHei" fill="#7f1d1d">信念很抽象，交易主要还是看技巧。</text>
+      <text x="865" y="252" font-size="28" font-family="Microsoft YaHei" fill="#14532d">技巧能不能稳定运行，取决于信念系统是否支持它。</text><text x="865" y="286" font-size="28" font-family="Microsoft YaHei" fill="#14532d">底层冲突不解决，技巧就会在关键时刻失效。</text>
+      <path d="M710 248 L790 248" stroke="#B56576" stroke-width="8" stroke-linecap="round"/>
+      <path d="M772 226 L798 248 L772 270" fill="none" stroke="#B56576" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="110" y="370" width="580" height="136" rx="28" fill="#FEE2E2"/>
+      <rect x="810" y="370" width="580" height="136" rx="28" fill="#DCFCE7"/>
+      <text x="155" y="410" font-size="26" font-family="Microsoft YaHei" font-weight="700" fill="#991B1B">常见误区</text>
+      <text x="855" y="410" font-size="26" font-family="Microsoft YaHei" font-weight="700" fill="#166534">作者真正想说</text>
+      <text x="175" y="442" font-size="28" font-family="Microsoft YaHei" fill="#7f1d1d">状态是一种天赋，来了就有，不来就没有。</text>
+      <text x="865" y="442" font-size="28" font-family="Microsoft YaHei" fill="#14532d">状态更多是正确信念长期运行后的自然结果，</text><text x="865" y="476" font-size="28" font-family="Microsoft YaHei" fill="#14532d">不是靠激情召唤出来的。</text>
+      <path d="M710 438 L790 438" stroke="#B56576" stroke-width="8" stroke-linecap="round"/>
+      <path d="M772 416 L798 438 L772 460" fill="none" stroke="#B56576" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="110" y="560" width="580" height="136" rx="28" fill="#FEE2E2"/>
+      <rect x="810" y="560" width="580" height="136" rx="28" fill="#DCFCE7"/>
+      <text x="155" y="600" font-size="26" font-family="Microsoft YaHei" font-weight="700" fill="#991B1B">常见误区</text>
+      <text x="855" y="600" font-size="26" font-family="Microsoft YaHei" font-weight="700" fill="#166534">作者真正想说</text>
+      <text x="175" y="632" font-size="28" font-family="Microsoft YaHei" fill="#7f1d1d">我已经同意这些道理，所以它们已经变成我的信念了。</text>
+      <text x="865" y="632" font-size="28" font-family="Microsoft YaHei" fill="#14532d">同意不等于安装。真正安装好的信念，会在压力时自动保护你的行为。</text>
+      <path d="M710 628 L790 628" stroke="#B56576" stroke-width="8" stroke-linecap="round"/>
+      <path d="M772 606 L798 628 L772 650" fill="none" stroke="#B56576" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#F4FFFD"/>
+
+    <text x="120" y="110" font-size="50" font-family="Microsoft YaHei" font-weight="700" fill="#234E52">五个基础事实</text>
+    <text x="120" y="155" font-size="28" font-family="Microsoft YaHei" fill="#486581">第 7-8 章的核心。真正的交易者心态，是围绕这些事实建立起来的。</text>
+    
+      <circle cx="180" cy="170" r="32" fill="#2A9D8F"/>
+      <text x="180" y="181" text-anchor="middle" font-size="26" font-family="Georgia" font-weight="700" fill="#ffffff">1</text>
+      <rect x="250" y="132" width="1110" height="78" rx="24" fill="#ffffff"/>
+      <text x="285" y="181" font-size="30" font-family="Microsoft YaHei" fill="#1f2933">你不需要知道下一步会发生什么，仍然可以赚钱。</text>
+      <circle cx="180" cy="295" r="32" fill="#2A9D8F"/>
+      <text x="180" y="306" text-anchor="middle" font-size="26" font-family="Georgia" font-weight="700" fill="#ffffff">2</text>
+      <rect x="250" y="257" width="1110" height="78" rx="24" fill="#ffffff"/>
+      <text x="285" y="306" font-size="30" font-family="Microsoft YaHei" fill="#1f2933">任何事情都可能发生。</text>
+      <circle cx="180" cy="420" r="32" fill="#2A9D8F"/>
+      <text x="180" y="431" text-anchor="middle" font-size="26" font-family="Georgia" font-weight="700" fill="#ffffff">3</text>
+      <rect x="250" y="382" width="1110" height="78" rx="24" fill="#ffffff"/>
+      <text x="285" y="431" font-size="30" font-family="Microsoft YaHei" fill="#1f2933">每个时刻都是独特的。</text>
+      <circle cx="180" cy="545" r="32" fill="#2A9D8F"/>
+      <text x="180" y="556" text-anchor="middle" font-size="26" font-family="Georgia" font-weight="700" fill="#ffffff">4</text>
+      <rect x="250" y="507" width="1110" height="78" rx="24" fill="#ffffff"/>
+      <text x="285" y="556" font-size="30" font-family="Microsoft YaHei" fill="#1f2933">优势只是表示某种结果概率更高，不是保证。</text>
+      <circle cx="180" cy="670" r="32" fill="#2A9D8F"/>
+      <text x="180" y="681" text-anchor="middle" font-size="26" font-family="Georgia" font-weight="700" fill="#ffffff">5</text>
+      <rect x="250" y="632" width="1110" height="78" rx="24" fill="#ffffff"/>
+      <text x="285" y="681" font-size="30" font-family="Microsoft YaHei" fill="#1f2933">每一次样本都只是整体统计的一部分。</text>
+  
+</svg>

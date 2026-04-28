@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#FBF8FD"/>
+
+    <text x="110" y="100" font-size="46" font-family="Microsoft YaHei" font-weight="700" fill="#3F3046">误区与修正</text>
+    <text x="110" y="145" font-size="28" font-family="Microsoft YaHei" fill="#486581">把“听上去很像对的话”翻回书里真正的意思。</text>
+    
+      <rect x="110" y="180" width="580" height="136" rx="28" fill="#FEE2E2"/>
+      <rect x="810" y="180" width="580" height="136" rx="28" fill="#DCFCE7"/>
+      <text x="155" y="220" font-size="26" font-family="Microsoft YaHei" font-weight="700" fill="#991B1B">常见误区</text>
+      <text x="855" y="220" font-size="26" font-family="Microsoft YaHei" font-weight="700" fill="#166534">作者真正想说</text>
+      <text x="175" y="252" font-size="28" font-family="Microsoft YaHei" fill="#7f1d1d">我都这么多年这样想了，说明它一定是事实。</text>
+      <text x="865" y="252" font-size="28" font-family="Microsoft YaHei" fill="#14532d">持续时间能强化信念，但不能自动把它升级成真相。</text>
+      <path d="M710 248 L790 248" stroke="#6D597A" stroke-width="8" stroke-linecap="round"/>
+      <path d="M772 226 L798 248 L772 270" fill="none" stroke="#6D597A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="110" y="370" width="580" height="136" rx="28" fill="#FEE2E2"/>
+      <rect x="810" y="370" width="580" height="136" rx="28" fill="#DCFCE7"/>
+      <text x="155" y="410" font-size="26" font-family="Microsoft YaHei" font-weight="700" fill="#991B1B">常见误区</text>
+      <text x="855" y="410" font-size="26" font-family="Microsoft YaHei" font-weight="700" fill="#166534">作者真正想说</text>
+      <text x="175" y="442" font-size="28" font-family="Microsoft YaHei" fill="#7f1d1d">我就是这种性格，所以没法改变。</text>
+      <text x="865" y="442" font-size="28" font-family="Microsoft YaHei" fill="#14532d">很多你以为是性格的东西，其实是被重复强化过的信念模式。</text>
+      <path d="M710 438 L790 438" stroke="#6D597A" stroke-width="8" stroke-linecap="round"/>
+      <path d="M772 416 L798 438 L772 460" fill="none" stroke="#6D597A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="110" y="560" width="580" height="136" rx="28" fill="#FEE2E2"/>
+      <rect x="810" y="560" width="580" height="136" rx="28" fill="#DCFCE7"/>
+      <text x="155" y="600" font-size="26" font-family="Microsoft YaHei" font-weight="700" fill="#991B1B">常见误区</text>
+      <text x="855" y="600" font-size="26" font-family="Microsoft YaHei" font-weight="700" fill="#166534">作者真正想说</text>
+      <text x="175" y="632" font-size="28" font-family="Microsoft YaHei" fill="#7f1d1d">只要听懂一个新道理，旧信念就会自动让路。</text>
+      <text x="865" y="632" font-size="28" font-family="Microsoft YaHei" fill="#14532d">旧信念有轨道效应，需要被观察、拆解、重写和反复练习，</text><text x="865" y="666" font-size="28" font-family="Microsoft YaHei" fill="#14532d">才会慢慢松动。</text>
+      <path d="M710 628 L790 628" stroke="#6D597A" stroke-width="8" stroke-linecap="round"/>
+      <path d="M772 606 L798 628 L772 650" fill="none" stroke="#6D597A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  
+</svg>

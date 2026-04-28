@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python fix_antifragile.py)",
+      "Bash(python -c \":*)",
+      "Bash(python build_antifragile_spec.py)",
+      "Bash(python g:/OBSIDIAN/scripts/build_antifragile_full_spec.py)",
+      "Bash(ls g:/OBSIDIAN/scripts/*.py)",
+      "Bash(python -c \"from dual_book_specs import BOOK_PROJECTS; print\\(list\\(BOOK_PROJECTS.keys\\(\\)\\)\\)\")",
+      "Bash(python g:/OBSIDIAN/scripts/fix_antifragile.py)",
+      "Bash(python -c \"import ast; ast.parse\\(open\\(''g:/OBSIDIAN/scripts/book_specs_antifragile.py'', encoding=''utf-8''\\).read\\(\\)\\); print\\(''ok''\\)\")",
+      "Bash(pip list:*)",
+      "Bash(python3:*)",
+      "Bash(powershell -Command \"\\(Get-ChildItem -Path 'G:\\\\OBSIDIAN' -Recurse -File | Measure-Object -Property Length -Sum\\).Sum / 1MB\")"
+    ]
+  }
+}

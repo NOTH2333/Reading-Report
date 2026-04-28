@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#FBF8FD"/>
+
+    <text x="120" y="105" font-size="46" font-family="Microsoft YaHei" font-weight="700" fill="#3F3046">行动清单</text>
+    <text x="120" y="150" font-size="28" font-family="Microsoft YaHei" fill="#486581">把本章道理压缩成可以直接执行的动作。</text>
+    <rect x="110" y="190" width="1300" height="560" rx="42" fill="#E6DDEA" opacity="0.72"/>
+    
+      <circle cx="195" cy="193" r="42" fill="#6D597A"/>
+      <text x="195" y="203" text-anchor="middle" font-size="34" font-family="Georgia" font-weight="700" fill="#ffffff">1</text>
+      <rect x="260" y="147" width="1080" height="102" rx="30" fill="#ffffff" opacity="0.92"/>
+      <text x="340" y="213" font-size="28" font-family="Microsoft YaHei" fill="#243b53">写下自己最常说的三句交易口头禅，看看它们背后藏着什么信念。</text>
+      <circle cx="195" cy="343" r="42" fill="#6D597A"/>
+      <text x="195" y="353" text-anchor="middle" font-size="34" font-family="Georgia" font-weight="700" fill="#ffffff">2</text>
+      <rect x="260" y="297" width="1080" height="102" rx="30" fill="#ffffff" opacity="0.92"/>
+      <text x="340" y="363" font-size="28" font-family="Microsoft YaHei" fill="#243b53">遇到强烈确定感时，补一句：‘这可能只是我现在的信念，</text><text x="340" y="393" font-size="28" font-family="Microsoft YaHei" fill="#243b53">不一定是全部真相。’</text>
+      <circle cx="195" cy="493" r="42" fill="#6D597A"/>
+      <text x="195" y="503" text-anchor="middle" font-size="34" font-family="Georgia" font-weight="700" fill="#ffffff">3</text>
+      <rect x="260" y="447" width="1080" height="102" rx="30" fill="#ffffff" opacity="0.92"/>
+      <text x="340" y="513" font-size="28" font-family="Microsoft YaHei" fill="#243b53">找出一种你多年坚持、后来被事实推翻的生活经验，</text><text x="340" y="543" font-size="28" font-family="Microsoft YaHei" fill="#243b53">提醒自己信念可以改变。</text>
+      <circle cx="195" cy="643" r="42" fill="#6D597A"/>
+      <text x="195" y="653" text-anchor="middle" font-size="34" font-family="Georgia" font-weight="700" fill="#ffffff">4</text>
+      <rect x="260" y="597" width="1080" height="102" rx="30" fill="#ffffff" opacity="0.92"/>
+      <text x="340" y="663" font-size="28" font-family="Microsoft YaHei" fill="#243b53">在复盘里把‘事实’和‘我当时的解释’分开记录。</text>
+  
+</svg>

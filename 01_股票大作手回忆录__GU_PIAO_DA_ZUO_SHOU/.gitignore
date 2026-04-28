@@ -1,0 +1,7 @@
+node_modules/
+tmp/
+source/pdfs/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd

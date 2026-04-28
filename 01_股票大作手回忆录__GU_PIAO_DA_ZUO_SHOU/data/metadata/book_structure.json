@@ -1,0 +1,701 @@
+{
+  "source": {
+    "annotated_pdf": "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\source\\pdfs\\股票大作手回忆录（丁圣元注疏版） ((美) 埃德温·勒菲弗, 丁圣元) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "original_pdf": "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\source\\pdfs\\股票大作手回忆录 ((美)埃德温·勒菲弗) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "annotated_page_count": 340
+  },
+  "entries": [
+    {
+      "index": 1,
+      "kind": "front_matter",
+      "title": "版权页",
+      "short_title": "版权页",
+      "start_page": 3,
+      "end_page": 4,
+      "page_count": 2,
+      "image_pages": [],
+      "extracted_images": [],
+      "quotes": [
+        "图书在版编目（CIP）数据 股票大作手回忆录：丁圣元注疏版/（美）埃德温·勒菲弗著；",
+        "丁圣 元译. -- 北京：人民邮电出版社，2022.1 ISBN 978-7-115-57774-0 Ⅰ. ①股… Ⅱ. ①埃… ②丁… Ⅲ. ①股票投资一经验一美国 Ⅳ. ①F837.125 中国版本图书馆CIP数据核字（2021）第225632号 著 ［美］埃德温·勒菲弗(Edwin Lefèvre) 译 丁圣元 注 疏 丁圣元 责任编辑 王飞龙 责任印制 胡 南 人民邮电出版社出版发行 北京市丰台区成寿寺路11号 邮编 100164 电子邮件 315@ptpress.com.cn 网址 https：//www.ptpress.com.cn 开本：720×960 1/16 印张：18 2022年1月第1版 字数：260千字 2022年1月北京第1次印刷 定价：59.80元 读者服务热线：（010）81055656 印装质量热线：（010） 反盗版热线：（010）81055315 广告经营许可证：京东市监广登字20170147号"
+      ],
+      "text_path": "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\data\\chapter_texts\\01_front_matter.txt"
+    },
+    {
+      "index": 2,
+      "kind": "front_matter",
+      "title": "内 容 提 要",
+      "short_title": "内 容 提 要",
+      "start_page": 5,
+      "end_page": 5,
+      "page_count": 1,
+      "image_pages": [],
+      "extracted_images": [],
+      "quotes": [
+        "丁圣 元先生在研读、翻译原著的基础上，搜集历史数据和文献资料，在本书 中增加了数十张数据图表，加入了近万字的注解和附录，使读者可以跨 越时空的障碍，更透彻地理解股票交易中趋势分析的基本思路和实战方 法。",
+        "内 容 提 要 本书原著由埃德温·勒菲弗对华尔街知名的股票交易家杰西·劳雷斯 顿·利弗莫尔的访谈文章编辑而成，书中主人公以拉里·利文斯顿为化 名，以第一人称回顾了自己的成长经历，总结了自己的交易思想。"
+      ],
+      "text_path": "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\data\\chapter_texts\\02_front_matter.txt"
+    },
+    {
+      "index": 3,
+      "kind": "front_matter",
+      "title": "献言",
+      "short_title": "献言",
+      "start_page": 6,
+      "end_page": 6,
+      "page_count": 1,
+      "image_pages": [],
+      "extracted_images": [],
+      "quotes": [],
+      "text_path": "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\data\\chapter_texts\\03_front_matter.txt"
+    },
+    {
+      "index": 4,
+      "kind": "front_matter",
+      "title": "译者前言",
+      "short_title": "译者前言",
+      "start_page": 7,
+      "end_page": 17,
+      "page_count": 11,
+      "image_pages": [],
+      "extracted_images": [],
+      "quotes": [
+        "在投机时，如果市场对你不 利，每一天你都希望这是最后一天，盲目听从希望的摆布，不接受最初 的损失，到头来，亏损反而变本加厉。",
+        "最终，他领悟到市场 是按照最小阻力路线演变的，这就是趋势；",
+        "概言之，这根绳子就是大势，我们都在趋势中。",
+        "* * * 投资交易应当服从趋势，市场参与者应当选择市场技术分析，而不 是基本分析。",
+        "具体事件不同了，行情依最小阻力路线演变的趋势特 征却不会改变。",
+        "在技术分析领域，趋势是核心概念，而行为要领就是服从纪律。"
+      ],
+      "text_path": "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\data\\chapter_texts\\04_front_matter.txt"
+    },
+    {
+      "index": 5,
+      "kind": "chapter",
+      "title": "1 行情纸带悟模式，对赌行里试牛刀",
+      "short_title": "行情纸带悟模式，对赌行里试牛刀",
+      "start_page": 18,
+      "end_page": 32,
+      "page_count": 15,
+      "image_pages": [
+        19,
+        23
+      ],
+      "extracted_images": [
+        "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\output\\assets\\book_extracts\\page_019_img_1.jpeg",
+        "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\output\\assets\\book_extracts\\page_023_img_1.png"
+      ],
+      "quotes": [
+        "事实上，我这一套在对赌行里 玩起来如鱼得水，因为交易者在这里所做的一切，就是赌报价机纸带上 打印出来的市场波动。",
+        "股票市场恰似战场，报价机的行情纸带便是你的望远镜。",
+        "不过，我真的不知 道为什么应该撤离市场，所以我就站在那儿，斜倚着柜台边，不让柜员 看见我手上拿着的单子。",
+        "事实上，正因为我牢记股市的 变化方式，才能从自己的市场经历中得到启发，并将其转化为投资收 益。",
+        "但 凡出现了无法解释的急剧下跌、随后市场又立即返回的情况，当时的报 纸经常称之为“对赌行偷袭”。",
+        "周二周三之后，我再查看行情 纸带，核对它的实际演变过程。"
+      ],
+      "text_path": "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\data\\chapter_texts\\05_chapter.txt"
+    },
+    {
+      "index": 6,
+      "kind": "chapter",
+      "title": "2 首战纽约遭挫败，重回对赌筹本钱",
+      "short_title": "首战纽约遭挫败，重回对赌筹本钱",
+      "start_page": 33,
+      "end_page": 48,
+      "page_count": 16,
+      "image_pages": [],
+      "extracted_images": [],
+      "quotes": [
+        "然而，即使我阅读纸带像高手 一样，也不能幸免于亏损。",
+        "以我当时赚钱的 速度，一星期下来大概成绩不坏。",
+        "后来一天，我觉得很有把握，看出市场 马上就要向下突破，于是悄悄给老麦克戴维特递了话，尽他们允许的最 大额度卖出。",
+        "导致我亏损 的原因并不在于现在我做的是合法交易，而在于我在操作过程中其实是 一知半解。",
+        "我的交易计划足够 可靠，而且赢利的时候多过赔钱的时候。",
+        "我的纸带阅读术只适用于对赌行的交易方式。"
+      ],
+      "text_path": "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\data\\chapter_texts\\06_chapter.txt"
+    },
+    {
+      "index": 7,
+      "kind": "chapter",
+      "title": "3 行情纸带拖后腿，五万美元得复失",
+      "short_title": "行情纸带拖后腿，五万美元得复失",
+      "start_page": 49,
+      "end_page": 57,
+      "page_count": 9,
+      "image_pages": [
+        53,
+        55
+      ],
+      "extracted_images": [
+        "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\output\\assets\\book_extracts\\page_053_img_1.jpeg",
+        "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\output\\assets\\book_extracts\\page_055_img_1.jpeg"
+      ],
+      "quotes": [
+        "我这一辈子都在犯错误，但是对我来说，亏损从来都不仅仅意味着损 失，更重要的是其中的教训。",
+        "但是，每次做空，每次都赔钱，如果不是每次都跑得很 快的话，恐怕亏损还要多得多。",
+        "纸带机远远落后于实际市场 行情，最新报告来得太慢，因为数量惊人的交易业务蜂拥而来。",
+        "3 行情纸带拖后腿，五万美元得复 失 人要花很长时间才能从自己的错误中学到所有应得的教训。",
+        "我 的纸带阅读技巧得心应手，我认为绝大多数股票的推升过程已经陷入停 顿状态，但是从“小北太”的表现来看，它还有望进一步走高。",
+        "不过，我赔钱的情形同其他在华尔街赔钱 的人没什么两样。"
+      ],
+      "text_path": "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\data\\chapter_texts\\07_chapter.txt"
+    },
+    {
+      "index": 8,
+      "kind": "chapter",
+      "title": "4 回老家“疗伤”反省，冒牌行再谋本金",
+      "short_title": "回老家“疗伤”反省，冒牌行再谋本金",
+      "start_page": 58,
+      "end_page": 72,
+      "page_count": 15,
+      "image_pages": [
+        65
+      ],
+      "extracted_images": [
+        "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\output\\assets\\book_extracts\\page_065_img_1.jpeg"
+      ],
+      "quotes": [
+        "因为肥羊们在股票市场赌博时总是 赔钱，他们算不上真正的投机者。",
+        "不过，我清楚为什么赔钱，也清楚怎样赔的钱—— 因为不顾市场状况始终不停地交易；",
+        "因为纸带报价机落后于市场，并且在 这个可怕的日子，市场波动空前惨烈。",
+        "从1902年11月开始，市场 波动增大，1903年市场是明显的下降趋势，最大跌幅超过1/3。",
+        "’” “哦，”他说，“无论如何，客户注定是要赔钱的，不论他们买什 么、以什么方式买、在哪儿买或者什么时候买。",
+        "不过，市场状况并不 总适合我的交易套路，换句话说，他们愿意接受的交易规模有限，弄得 我缚手缚脚，不能痛下杀手，一下子赚一大笔。"
+      ],
+      "text_path": "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\data\\chapter_texts\\08_chapter.txt"
+    },
+    {
+      "index": 9,
+      "kind": "chapter",
+      "title": "5 梅开三度华尔街，水滴石穿悟大势（大势！大势！大势！）",
+      "short_title": "梅开三度华尔街，水滴石穿悟大势(大势！大势！大势！)",
+      "start_page": 73,
+      "end_page": 85,
+      "page_count": 13,
+      "image_pages": [
+        82
+      ],
+      "extracted_images": [
+        "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\output\\assets\\book_extracts\\page_082_img_1.jpeg"
+      ],
+      "quotes": [
+        "不理会市场大幅运动，一门心思抢进抢出，是我的一项致命错误。",
+        "市场一 点一滴地教诲我，博取小幅波动与预期必将发生的上涨行情和下跌行情 之间具有本质区别，赌博和投机之间具有本质区别。",
+        "我的大部分盈利在某 种程度上还是得自阅读行情纸带的技巧，因为当时的市场环境相当适合 我的操作风格。",
+        "这些就是我学到的全部内容——研判总体 市场状况，按大势建立头寸，并坚持到底。",
+        "） 有些投机者专门通过报价纸带来侦察行情——人们常常称他们 为“纸带虫子”——要是水平不济的话，他们往往只会做多或只会做 空，这就出毛病了。",
+        "”本意乃是告诫他们，大钱不是从哪一次或哪几次行情起伏中产生 的，而是从主要趋势中产生的，就是说，大钱不在于阅读行情纸带，而 在于全面估量总体市场及其趋势。"
+      ],
+      "text_path": "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\data\\chapter_texts\\09_chapter.txt"
+    },
+    {
+      "index": 10,
+      "kind": "chapter",
+      "title": "6 自信直觉如天助，听信他人对改错",
+      "short_title": "自信直觉如天助，听信他人对改错",
+      "start_page": 86,
+      "end_page": 99,
+      "page_count": 14,
+      "image_pages": [
+        86,
+        92
+      ],
+      "extracted_images": [
+        "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\output\\assets\\book_extracts\\page_086_img_1.jpeg",
+        "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\output\\assets\\book_extracts\\page_092_img_1.jpeg"
+      ],
+      "quotes": [
+        "但是我告诉 你，市场不同意你的看法，行情纸带不撒谎，对吧？",
+        "他告诉我：“那真是个了不起的直觉，小伙子。",
+        "” 接下来那天，更翔实的灾情报告见报了，市场开始滑落，但是即使 到这时候，下跌过程仍然没有理当出现的那么猛烈。",
+        "不过，我还是信心十足地感觉自己卖空是正确的， 而当感觉自己是正确的时候，我从不会失去耐心。",
+        "也可能我是被埃德 ·哈丁的一片好心打动了——他煞费苦心地保护我，以免铸成他确信无 疑的巨大错误。",
+        "事情明摆着，我曾经准确地解读报价纸带，但是竟然愚不可及，让埃德 ·哈丁动摇了自己的决心。"
+      ],
+      "text_path": "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\data\\chapter_texts\\10_chapter.txt"
+    },
+    {
+      "index": 11,
+      "kind": "chapter",
+      "title": "7 顺势操作先试探，步步为营渐建仓",
+      "short_title": "顺势操作先试探，步步为营渐建仓",
+      "start_page": 100,
+      "end_page": 107,
+      "page_count": 8,
+      "image_pages": [],
+      "extracted_images": [],
+      "quotes": [
+        "他必须耐心等待，直到市场 行情有胃口接纳这么大笔股票的时候。",
+        "当时机成熟时，他判断市场购买 力已经具备了，这是先决条件。",
+        "等待并观察，这正是你的纸带阅读技巧派用场的时候——帮 你抉择合适的时机来行动。",
+        "” 他停住话头，全神贯注地察看着纸带，贴士客也走近身，看看执事 在看什么，他知道那位老人老谋深算。",
+        "”执事向他保证，同时站在报 价机旁，眼睛盯着纸带。",
+        "噢，我倒不是那么懒，不过，我觉得琢磨个股比推敲总体市场更轻 松，所以过去总是从个股的波动入手，而不是从总体市场运动着眼。"
+      ],
+      "text_path": "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\data\\chapter_texts\\11_chapter.txt"
+    },
+    {
+      "index": 12,
+      "kind": "chapter",
+      "title": "8 今是昨非识大局，操之过急悟时机（时机！时机！时机！）",
+      "short_title": "今是昨非识大局，操之过急悟时机(时机！时机！时机！)",
+      "start_page": 108,
+      "end_page": 119,
+      "page_count": 12,
+      "image_pages": [],
+      "extracted_images": [],
+      "quotes": [
+        "就这样，我终 于体会到，在熊市行情中持有空头头寸确实没错，但是不论什么时候， 都应该先研读行情纸带，抉择恰当的入市时机。",
+        "我不是凭自己阅读纸带的本事 或者自己的直觉和机会对抗。",
+        "我从关注一个报价接着一个报 价的歧途，回归到执行上述基本原则的正道，从日常波动回归到市场基 本趋势。",
+        "我没有耐心判断当时到底是不是正确的入 市时机，便一猛子扎进空头一边。",
+        "我的唯一 要点是：择善固执，绝不允许自己站在市场错误的一边。",
+        "我的眼中不再只见行情纸带，而是要见市场全豹。"
+      ],
+      "text_path": "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\data\\chapter_texts\\12_chapter.txt"
+    },
+    {
+      "index": 13,
+      "kind": "chapter",
+      "title": "9 紧缩银根酿恐慌，修成正果当股王",
+      "short_title": "紧缩银根酿恐慌，修成正果当股王",
+      "start_page": 120,
+      "end_page": 138,
+      "page_count": 19,
+      "image_pages": [
+        126,
+        131,
+        137
+      ],
+      "extracted_images": [
+        "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\output\\assets\\book_extracts\\page_126_img_1.jpeg",
+        "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\output\\assets\\book_extracts\\page_131_img_1.jpeg",
+        "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\output\\assets\\book_extracts\\page_137_img_1.jpeg"
+      ],
+      "quotes": [
+        "在投机者身上，这样的态度乃是致命的错误。",
+        "此时此刻，纸带说买进力量强于卖出力量，因此，市场普遍性的上 涨态势或许会再延续一段。",
+        "纸带阅读技巧是这个行当的重要组成部分，选择正 确的时机入市同样重要，坚定持有头寸也同样重要。",
+        "“我听说过那些伙计，”他说，“他们盯着纸带，眼里看到的却不 是价格，而是一张股票到站、出站的铁路时刻表。",
+        "” 当货币经纪商发现在货币市场不论报出什么价格都拿不到一分钱的 时候，我知道那一刻终于到了。",
+        "不过，他终 于学乖了，1907年既看空，又有耐心等待时机，还能采取逐步建仓的 试错方法，终于获得巨大赢利。"
+      ],
+      "text_path": "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\data\\chapter_texts\\13_chapter.txt"
+    },
+    {
+      "index": 14,
+      "kind": "chapter",
+      "title": "10 守候行情关键时刻，明察最小阻力路线",
+      "short_title": "守候行情关键时刻，明察最小阻力路线",
+      "start_page": 139,
+      "end_page": 152,
+      "page_count": 14,
+      "image_pages": [],
+      "extracted_images": [],
+      "quotes": [
+        "如 果一位交易者始终对投机原则坚持不悖，也就是说，总是等待市场本身 确定其最小阻力路线之后，仅当纸带说“涨！",
+        "“最小阻力路线”大体上就是指市场“趋势”。",
+        "他应当耐心等待，直到行情纸带告诉他时机已经成熟。",
+        "我们观察市场——观察行情纸带记录的价格轨迹，目的只有一个： 判断市场方向，也就是价格走势。",
+        "然而，我要告诉你一件咄咄怪 事：有时股票投机者明知故犯，在犯错误的时候，其实知道自己正在犯 错误。",
+        "一般美国人都不 是轻信的人，但是，走进经纪商营业厅看着行情纸带的时候除外——不 论是股票市场还是大宗商品市场。"
+      ],
+      "text_path": "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\data\\chapter_texts\\14_chapter.txt"
+    },
+    {
+      "index": 15,
+      "kind": "chapter",
+      "title": "11 声东击西巧出货，巨额棉花借东风",
+      "short_title": "声东击西巧出货，巨额棉花借东风",
+      "start_page": 153,
+      "end_page": 163,
+      "page_count": 11,
+      "image_pages": [],
+      "extracted_images": [],
+      "quotes": [
+        "正是他看待事物的方式决定了他在投机市场上挣钱还 是赔钱。",
+        "我在小麦 上挣到的利润冲抵了我在玉米上的大部分亏损，在谷物市场所有交易的 总体亏损仅有25000美元。",
+        "要是能够按照当时的市场价格平掉自己的1000万蒲式耳，我会很开心 地立即照办的，虽然亏损还是比较大。",
+        "”老一辈们告诉我，他最大的几次赢利都是在做多的时候取得 的，显然，他并非根据自己的偏好而是根据市场条件来交易的。",
+        "一两天之后，一位在全世界棉花市场都可以称雄的仁兄碰到我， 说：“这一定是你有史以来干得最滑头的一次，利文斯顿。",
+        "但是，需求主要来自斯特拉顿，而供给根本还 没有到达市场，因为玉米运输遇到了交通严重“梗阻”的情况。"
+      ],
+      "text_path": "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\data\\chapter_texts\\15_chapter.txt"
+    },
+    {
+      "index": 16,
+      "kind": "chapter",
+      "title": "12 巧舌如簧蔽主见，数百万金付东流",
+      "short_title": "巧舌如簧蔽主见，数百万金付东流",
+      "start_page": 164,
+      "end_page": 179,
+      "page_count": 16,
+      "image_pages": [],
+      "extracted_images": [],
+      "quotes": [
+        "似乎令人难以相信，以我对这个行当了解之透彻，以我在股票和大 宗商品市场投机的12～14年的经验，我竟然做出了一个完全错误的抉 择。",
+        "”我必须证明我对市场的 看法到底是正确的还是错误的，而证据只能从我的经纪商月底提供的对 账单上读出来。",
+        "如果你对经纪商营业厅里的普通客户有所了解，就会 同意我的下列看法：在华尔街，抱着让股票市场替你支付账单的念头去 交易，正是最常见的亏损因由。",
+        "我对赔钱早就习以为常，以至于从来想不到错误本身那一面。",
+        "我竟然允许自己被人说 服不接受亏损、不采取止损措施，而是持仓对抗市场。",
+        "在华尔街，但凡有人企图从市场挣出一笔钱来支 付一辆汽车、一条项链、一艘快艇、一幅画作，没有不赔钱的。"
+      ],
+      "text_path": "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\data\\chapter_texts\\16_chapter.txt"
+    },
+    {
+      "index": 17,
+      "kind": "chapter",
+      "title": "13 诡计羁绊遭利用，翻本良机过眼云",
+      "short_title": "诡计羁绊遭利用，翻本良机过眼云",
+      "start_page": 180,
+      "end_page": 195,
+      "page_count": 16,
+      "image_pages": [
+        187,
+        188,
+        192,
+        194
+      ],
+      "extracted_images": [
+        "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\output\\assets\\book_extracts\\page_187_img_1.jpeg",
+        "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\output\\assets\\book_extracts\\page_188_img_1.png",
+        "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\output\\assets\\book_extracts\\page_192_img_1.jpeg",
+        "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\output\\assets\\book_extracts\\page_194_img_1.jpeg"
+      ],
+      "quotes": [
+        "无论什么时候在股票市场 赔钱，我总是把它理解成自己又学到了新东西，因为在赔钱的同时也增 长了经验，赔出去的钱实际上是付出的学费。",
+        "亏损也就罢了，只是事前本来已经看出市场前景，那么这样的亏损 才真正令人痛彻骨髓。",
+        "感恩图报诚然品行高 贵，但是，在股票市场上来不得，因为行情纸带不讲什么义气，更有甚 者，它不奖励为人忠诚。",
+        "要想在投机市场把交易做好，就必须彻底反省自己。",
+        "” 这里正是我犯错误的地方，我对这个错误追悔莫及的程度超过了自 己华尔街生涯里的其他所有错误。",
+        "丹 尼尔·威廉森或许会三言两语地对我说：“我们通过另外某某交易的获 利来弥补你在南大西洋铁路上的亏损。"
+      ],
+      "text_path": "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\data\\chapter_texts\\17_chapter.txt"
+    },
+    {
+      "index": 18,
+      "kind": "chapter",
+      "title": "14 行情惨淡债务缠身，苦熬五年东山再起",
+      "short_title": "行情惨淡债务缠身，苦熬五年东山再起",
+      "start_page": 196,
+      "end_page": 212,
+      "page_count": 17,
+      "image_pages": [
+        205,
+        209
+      ],
+      "extracted_images": [
+        "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\output\\assets\\book_extracts\\page_205_img_1.jpeg",
+        "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\output\\assets\\book_extracts\\page_209_img_1.jpeg"
+      ],
+      "quotes": [
+        "事实上，我已经不再是昨日的我了，因为那 时候时常受到骚扰，时常站在市场的错误一边，现在的我身心放松，站 在市场正确的一边。",
+        "此时，我 对市场还没有转向看空，因为纸带没有告诉我这么做。",
+        "单说一点，在这样的急跌行情中，市场流动性极佳，你可 以轻松转身，这正是把纸面利润转化为真金白银的大好时机。",
+        "对市场上的其他股票来说，趋势依然确定无疑地向上。",
+        "然而，正如我在前面所说，根据 我30年的交易经验，此类突发事件通常符合市场最小阻力路线的方向， 而我正是根据市场最小阻力路线来建立头寸的。",
+        "让我解释一下：我欠下的债务超过100万美元——全都是股票市场 的亏损，记得吧。"
+      ],
+      "text_path": "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\data\\chapter_texts\\18_chapter.txt"
+    },
+    {
+      "index": 19,
+      "kind": "chapter",
+      "title": "15 政府干预拉偏架，投资意外添新样",
+      "short_title": "政府干预拉偏架，投资意外添新样",
+      "start_page": 213,
+      "end_page": 221,
+      "page_count": 9,
+      "image_pages": [
+        216,
+        220
+      ],
+      "extracted_images": [
+        "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\output\\assets\\book_extracts\\page_216_img_1.jpeg",
+        "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\output\\assets\\book_extracts\\page_220_img_1.jpeg"
+      ],
+      "quotes": [
+        "他们坚称，职业投机客——劳伦斯·利文斯顿便是其 中之一，已经垄断了或者快要垄断咖啡市场。",
+        "对犯错误的惩罚就是赔钱，而对行动正确的奖赏就是挣钱。",
+        "不过，当时市场乏善可陈， 维持在平淡状态，而行情也不像我预期的那样有所上涨。",
+        "之所以如此放手购买期权，是因为我看不出有什么道理 会发生亏损。",
+        "从此以后，我在投机事业绊脚石那长长的名单上添上了这个新名 目，这份名单必须始终放在眼前。",
+        "华尔街的职业人员与报纸写手养成了遇事归咎于我的习 惯，当价格无可避免地快速下跌的时候，他们总是指责我打压市场。"
+      ],
+      "text_path": "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\data\\chapter_texts\\19_chapter.txt"
+    },
+    {
+      "index": 20,
+      "kind": "chapter",
+      "title": "16 心机费尽传贴士，行情作准拒上当",
+      "short_title": "心机费尽传贴士，行情作准拒上当",
+      "start_page": 222,
+      "end_page": 237,
+      "page_count": 16,
+      "image_pages": [],
+      "extracted_images": [],
+      "quotes": [
+        "“可是我当初曾经明确告诉你不希望亏损超过500美元。",
+        "” “但是账户里已经形成的亏损有……”他开始劝说。",
+        "” 她向他致谢，然后告诉他，她对投机股票的行当一无所知。",
+        "” 她递给他那500美元，告诉他：“请听好，我不希望亏损的钱超过 这个数字。",
+        "他知道市场活动总 会吸引我的注意，而我又以大手笔交易著称。",
+        "她了解我对外行从事股票投机的看法，不敢对我提起这件 事。"
+      ],
+      "text_path": "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\data\\chapter_texts\\20_chapter.txt"
+    },
+    {
+      "index": 21,
+      "kind": "chapter",
+      "title": "17 长期训练成本能，专业素养助获利",
+      "short_title": "长期训练成本能，专业素养助获利",
+      "start_page": 238,
+      "end_page": 251,
+      "page_count": 14,
+      "image_pages": [
+        245
+      ],
+      "extracted_images": [
+        "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\output\\assets\\book_extracts\\page_245_img_1.jpeg"
+      ],
+      "quotes": [
+        "多年的 交易经验告诉我，市场最小阻力路线已经从上升改变为下降了。",
+        "我当 初不曾因为自己犯下这么大的错误而自怨自艾，后来也不因为自己在费 城轧平所有头寸弥补了巨大的亏损而沾沾自喜。",
+        "无论如何，一天前促使我接受巨额亏损平仓出市的理由现在不再成 立了，因为市场没有照例出现立即并且力度强劲的上涨。",
+        "这次突如其来的念头其实扎根于我确信卖出 棉花的时机终于到来的判断，不管之前我所犯的错误有多么严重。",
+        "他宣称，利文斯 顿只要盲目地遵循一定的神秘冲动，便可以精确地选择退出股票市场的 时机。",
+        "最终，大概在我到达温泉城的几天之后，我的账面亏损已经达到 100万美元，这还未把市场继续上涨的倾向考虑在内。"
+      ],
+      "text_path": "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\data\\chapter_texts\\21_chapter.txt"
+    },
+    {
+      "index": 22,
+      "kind": "chapter",
+      "title": "18 市场历史重演，交易照方抓药",
+      "short_title": "市场历史重演，交易照方抓药",
+      "start_page": 252,
+      "end_page": 258,
+      "page_count": 7,
+      "image_pages": [],
+      "extracted_images": [],
+      "quotes": [
+        "从这天早晨的报纸来看，热带贸易公司的表现脱离大势，十分出 格，很适合拿它开刀，把我对整个市场看空的想法转化为具体行动。",
+        "对我来 说，我从不害怕自己是错误的，因为除非市场证明我是错误的，否则我 绝不会认为自己是错误的。",
+        "我对总体市场是看空的，这并没有受到一般意义上的投机理论的 挑战，但是，在这只特定股票上，必须应对其独特交易状况带来的挑 战。",
+        "我没有对抗市场趋势，也没有违背市场基本条件。",
+        "正是市场 上涨时或者下跌时所表现出的特征，决定了我的头寸到底是正确的还是 错误的。",
+        "总体市场形成明显回落的条件已经成熟，因为大势之 前经历了一段毫无阻碍的上涨过程，目前已经不再走牛。"
+      ],
+      "text_path": "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\data\\chapter_texts\\22_chapter.txt"
+    },
+    {
+      "index": 23,
+      "kind": "chapter",
+      "title": "19 市场操纵故事多，卖空逼空大斗法",
+      "short_title": "市场操纵故事多，卖空逼空大斗法",
+      "start_page": 259,
+      "end_page": 265,
+      "page_count": 7,
+      "image_pages": [],
+      "extracted_images": [],
+      "quotes": [
+        "这种时候根本 不讲究任何细节，因此浪费时间讨论到底是操纵市场还是正常投机是没 有意义的。",
+        "本书主人 公“我”习惯于大手笔交易，有深厚的大额交易市场经验。",
+        "” 在景气的时候，公众参与市场的热情达到了最高潮。",
+        "他们告诉我，杰罗姆说的市场贴士简直是金口玉言，被视 为和银行存款一样可靠。",
+        "我认为，对整个交易行业最精辟的总结出自托马斯·F.伍德洛克 （Thomas F. Woodlock），他写道：“指导股票投机成功的原则建立 在以下假定之上：未来，人们将继续重复过去曾经犯下的错误。",
+        "这不是因为我拥有什么神秘的盘口感觉，而是因为当 买进某只股票之后，市场出现了不再适宜做空的新特点的时刻，我一般 都能够立即辨别出来。"
+      ],
+      "text_path": "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\data\\chapter_texts\\23_chapter.txt"
+    },
+    {
+      "index": 24,
+      "kind": "chapter",
+      "title": "20 批量分销需操作，股票交易遵同理",
+      "short_title": "批量分销需操作，股票交易遵同理",
+      "start_page": 266,
+      "end_page": 276,
+      "page_count": 11,
+      "image_pages": [],
+      "extracted_images": [],
+      "quotes": [
+        "虽然如 此，公允地说，无论在我们金融史的哪个阶段，基恩都能够成为一位伟 大的市场操作者，因为他是一位伟大的股票作手，彻底精通投机的行 当。",
+        "之所以要重申这一点，既因为这是一项基本规则，也 因为公众显然相信股票派发统统发生在市场顶部。",
+        "事实上，你最好 牢记一条市场操作规则，基恩和他之前那些精明的先行者们对这条规则 烂熟于心。",
+        "毫无疑问，市场操作者必须在投机者中间寻求买主。",
+        "毫无疑问，广告推销是一门艺术，而市场操作则是以行情纸带为媒 介的广告推销艺术。",
+        "规则如下：通过操作把股票价格尽可能推升到高位，然后在 市场下跌的过程中把股票卖给公众。"
+      ],
+      "text_path": "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\data\\chapter_texts\\24_chapter.txt"
+    },
+    {
+      "index": 25,
+      "kind": "chapter",
+      "title": "21 帝国钢铁大成功，石油产品不如意",
+      "short_title": "帝国钢铁大成功，石油产品不如意",
+      "start_page": 277,
+      "end_page": 291,
+      "page_count": 15,
+      "image_pages": [],
+      "extracted_images": [],
+      "quotes": [
+        "股票操作者必须在投机者之中找到主要的市场，只要能够有合理的 机会为他们投入的资本带来较大的回报，他们愿意承担比常规业务更高 的风险。",
+        "或许你会纳 闷，为什么我要一再重复这一点，或者总是喋喋不休地强调从不和行情 纸带争辩、从不对市场发脾气云云。",
+        "据我理解，他说当初我之所以向他提出卖出的建议，是因为我自 己做空了其他股票，而当时市场大势还是上升的。",
+        "现在我已经对这类股票市场交易中可防备的风险做好了准备，下面 便可以推进项目了。",
+        "他们在市场上涨途中发出卖出指令，然后随着股价趋势的改变，再 次改变想法。",
+        "他的成功可以部分归因于上述因素，但 是更主要的是总体市场的大势对路，公众的思想状态对路。"
+      ],
+      "text_path": "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\data\\chapter_texts\\25_chapter.txt"
+    },
+    {
+      "index": 26,
+      "kind": "chapter",
+      "title": "22 老鸟使诈大派贴士，大众受骗狂热跟风",
+      "short_title": "老鸟使诈大派贴士，大众受骗狂热跟风",
+      "start_page": 292,
+      "end_page": 310,
+      "page_count": 19,
+      "image_pages": [],
+      "extracted_images": [],
+      "quotes": [
+        "市场曾经不止一次教我明白一个道理， 投机者情绪失控，不啻自绝生路。",
+        "” 乔希礼貌地停止大嚼，咽下口中的食物，回道：“我在柜台市场从 来没有交易过这只股票。",
+        "” 前面说过，市面上曾经流传过各种各样关于我在股票市场成功交易 的流言。",
+        "我总是觉得战时的繁荣和其他繁荣存在一项最别致的差别，此时， 在股票市场的喧闹之中崛起了一派全新的角色——“愣头青”银行家。",
+        "之所以我不得不推升股价，是因为两方面缘由：首先，为该股票打 开市场；",
+        "公关工作 处理得太好了，而且我们不知其名的那位董事曾经许诺的股票价格看起 来十拿九稳，于是市场对新股票产生了巨大需求。"
+      ],
+      "text_path": "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\data\\chapter_texts\\26_chapter.txt"
+    },
+    {
+      "index": 27,
+      "kind": "chapter",
+      "title": "23 内部人巧借“空头打压”暗度陈仓，圈外人偏信“权威解释”高位套牢",
+      "short_title": "内部人巧借“空头打压”暗度陈仓，圈外人偏信“权威解释”高位套牢",
+      "start_page": 311,
+      "end_page": 319,
+      "page_count": 9,
+      "image_pages": [],
+      "extracted_images": [],
+      "quotes": [
+        "无 论怎样强调风险，也不可能阻止投机行为。",
+        "有时候，他们甚至声称对股票市场朝三暮四的波动或者股票投机者 不可理喻的行为并不特别在意。",
+        "一位“首要的内部人士”坚定地断言一切正 常，行情下跌仅仅是空头卖空的结果，空头们企图影响总体市场。",
+        "他们口中所称的“空头打压”，往往正是根据对实际市场环 境的准确把握而实施的合理卖出。",
+        "听听这一条：“一位地位 显赫的银行家表示，现在预期市场下跌为时过早。",
+        "因为公众在一定程度上是始终“在市”的，所以无论何时， 公众之中总是有人亏损的。"
+      ],
+      "text_path": "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\data\\chapter_texts\\27_chapter.txt"
+    },
+    {
+      "index": 28,
+      "kind": "chapter",
+      "title": "24 到处陷阱须谨慎，盛宴终散记忠告",
+      "short_title": "到处陷阱须谨慎，盛宴终散记忠告",
+      "start_page": 320,
+      "end_page": 324,
+      "page_count": 5,
+      "image_pages": [
+        324
+      ],
+      "extracted_images": [
+        "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\output\\assets\\book_extracts\\page_324_img_1.jpeg"
+      ],
+      "quotes": [
+        "不论交易经验多么丰富，发生交易亏损的可能性始终挥之不去，因 为投机事业不可能百分之百安全。",
+        "当然，证券发行人、市场操纵者以及其他从匿名的乐观建议中获益 的人士都会对你说，谁听信传言和不具名的说法来交易，结果亏损就只 能怨自己。",
+        "他们将会帮助他开辟市场，这么一来，这位好心的内部人 就能够把他那堆“宝货”以高价倾销给可怜的公众。",
+        "本着身 为股票作手的多年经验，我确信不疑，没有人能够始终如一、持续不断 地打败股票市场，虽然有些人可能在特定场合下、在某只股票上获得利 润。",
+        "这样的场面屡见不鲜，内部人跑去找到经纪公司的头头，对他 说：“我想请你为我的股票开拓市场，帮我卖出5万股。",
+        "不仅如此，该股票具备公开市场的官方凭据以及不时发生的 价格变化，这都对公众构成了诱惑。"
+      ],
+      "text_path": "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\data\\chapter_texts\\28_chapter.txt"
+    },
+    {
+      "index": 29,
+      "kind": "appendix",
+      "title": "附录一 杰西·劳雷斯顿·利弗莫尔年表——利弗莫尔的交易生涯",
+      "short_title": "附录一 杰西·劳雷斯顿·利弗莫尔年表——利弗莫尔的交易生涯",
+      "start_page": 325,
+      "end_page": 331,
+      "page_count": 7,
+      "image_pages": [
+        325,
+        326,
+        327,
+        328,
+        329,
+        330
+      ],
+      "extracted_images": [
+        "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\output\\assets\\book_extracts\\page_325_img_1.jpeg",
+        "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\output\\assets\\book_extracts\\page_326_img_1.jpeg",
+        "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\output\\assets\\book_extracts\\page_327_img_1.jpeg",
+        "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\output\\assets\\book_extracts\\page_328_img_1.jpeg",
+        "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\output\\assets\\book_extracts\\page_329_img_1.jpeg",
+        "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\output\\assets\\book_extracts\\page_330_img_1.jpeg",
+        "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\output\\assets\\book_extracts\\page_330_img_2.jpeg"
+      ],
+      "quotes": [
+        "在20世纪40年代之后的半个世纪里，虽然市场仍 然时常起起落落，但是总体上表现为明确的超长期上升趋势。",
+        "不过，本年表提炼了上述来源中最具一致性的信息。",
+        "本表参照了Jesse-Livermore网站的有关内容。",
+        "由 于利弗莫尔的年龄与本书提到的一些日期不尽相同，因此本年表中的日 期并不完全确定。",
+        "该网站是探讨利弗莫尔 交易经验的重要信息来源之一。",
+        "在利弗莫尔的时代，市 场以大起大落为基本特点，并且在1929年之前的超级牛市与之后的大 崩溃中达到了高潮。"
+      ],
+      "text_path": "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\data\\chapter_texts\\29_appendix.txt"
+    },
+    {
+      "index": 30,
+      "kind": "appendix",
+      "title": "附录二 杰西·劳雷斯顿·利弗莫尔的股票交易规则",
+      "short_title": "附录二 杰西·劳雷斯顿·利弗莫尔的股票交易规则",
+      "start_page": 332,
+      "end_page": 333,
+      "page_count": 2,
+      "image_pages": [],
+      "extracted_images": [],
+      "quotes": [
+        "• 当事态明朗、原来从中获利的趋势已经终结时，了结交易。",
+        "• 等市场变化方向证明你的观点后再交易不迟，要交易则兵贵神 速。",
+        "• 绝不平摊亏损的头寸，比如不要在某只股票已经被套时还继续买 进。",
+        "交易方 向与总体市场保持一致，总体市场上涨，做多；",
+        "附录二 杰西·劳雷斯顿·利弗莫尔的 股票交易规则 • 买进上涨中的股票，卖出下跌中的股票。",
+        "• 不要天天交易，只有行情明显看涨或看跌的时候才交易。"
+      ],
+      "text_path": "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\data\\chapter_texts\\30_appendix.txt"
+    },
+    {
+      "index": 31,
+      "kind": "appendix",
+      "title": "附录三 市场最小阻力路线",
+      "short_title": "附录三 市场最小阻力路线",
+      "start_page": 334,
+      "end_page": 340,
+      "page_count": 7,
+      "image_pages": [
+        337,
+        338,
+        339
+      ],
+      "extracted_images": [
+        "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\output\\assets\\book_extracts\\page_337_img_1.jpeg",
+        "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\output\\assets\\book_extracts\\page_338_img_1.jpeg",
+        "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\output\\assets\\book_extracts\\page_339_img_1.jpeg"
+      ],
+      "quotes": [
+        "最小阻力路线即行情趋势 市场犹如有一定坡度但坡度不明显的地面。",
+        "上文中的“重力”方向就是趋势方向，最小阻力路线便是行情趋势 的方向。",
+        "坡度代表着趋势的驱动 因素，倒水试验的水流过程相当于市场演变的过程。",
+        "上升趋势的定义是市场行情走出了更高的高点、更高的低点（附图 3.1）。",
+        "附图3.1 上升趋势定义的示意图 下降趋势的定义是市场行情走出了更低的低点、更低的高点（附图 3.2）。",
+        "附图3.2 下降趋势的示意图 横向趋势的定义是市场行情走势既无明显的新高，也无明显的新低 （附图3.3）。"
+      ],
+      "text_path": "G:\\OBSIDIAN\\GU PIAO DA ZUO SHOU\\data\\chapter_texts\\31_appendix.txt"
+    }
+  ]
+}

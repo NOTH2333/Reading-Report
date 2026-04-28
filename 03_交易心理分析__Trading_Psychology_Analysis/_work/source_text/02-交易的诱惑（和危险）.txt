@@ -1,0 +1,804 @@
+Chapter 2 the lure (and the dangers) of
+trading
+
+第  02 章  交易的诱惑（和危险）
+in january 1994, i was asked to speak at a trading conference in chicago,
+sponsored by futures magazine. at one of the luncheons i happened to be
+sitting next to an editor for one of the major publishers of books about
+trading. we were having a lively conversation about why so few people
+become successful at trading, even people who are otherwise very
+accomplished. at one point, the editor asked me if a possible explanation for
+this phenomenon might be that people were getting into trading for the
+wrong reasons.
+1994 年 1 ⽉，有⼈邀请我到《期货》杂志在芝加哥举办的交易会议上演
+讲。其中⼀次午餐时，我碰巧坐在⼀个⼤型的出版交易书的出版社的
+编辑旁边。我们当时在随便谈话，话题是即使⼈们在其它⾏业很有成
+就，为何很少有⼈能交易成功。当时编辑问我，⼈们因为错误的原因
+进⾏交易算不算可能的答案。
+the attraction
+吸引
+i had to pause for a moment to think about this. i agree that many of the
+typical reasons people are motivated to trade - the action, euphoria, desire
+to be a hero, the attention one can draw to himself by winning, or the self-
+pity that comes from losing - create problems that will ultimately detract
+from a trader's performance and overall success. but the true underlying
+attraction to trading is far more fundamental and universal. trading is an
+activity that offers the individual unlimited freedom of creative expression,
+a freedom of expression that has been denied most of us for most of our
+lives.
+
+我得停下来想想。我同意很多⼈们交易的典型原因 -- 操作、兴奋、渴
+望成为英雄、通过赚钱引起别⼈的关注或是因为亏钱⽽⾃怜 -- 这样会
+产⽣问题，最终会破坏交易者的成绩和总体成功。但是交易下⾯的吸
+引⼒是⾮常根本，⾮常宽⼴的。交易是⼀种活动，它给个⼈提供了⽆
+限的⾃由以⾃我展⽰，这种⾃我展⽰的⾃由是和我们⼤部分的⽣活是
+⽭盾的。
+of course, the editor asked me what i meant by this. i explained that in the
+trading environment, we make almost all of the rules. this means there are
+very few restrictions or boundaries on how we can choose to express
+ourselves. of course there are some formalities such as having to become a
+member of an exchange to be a floor trader, or meeting the minimum
+financial requirements to open a brokerage account if you're an off-the-floor
+trader. but otherwise, once you are in a position to start trading, the
+possibilities that exist for how you go about doing it are virtually limitless.
+当然了，这个编辑问我是什么意思。我解释说，在交易的环境⾥，我
+们制定了所有的原则。这意味着我们表达⾃⼰的限制和局限是很少
+的。当然了，还是有些⼿续要办的，⽐如如果想成为交易所的场内交
+易者是要办⼿续的，如果想成为场外交易者，需要满⾜基本的⾦融条
+件才能到经纪公司开户。但是，⼀旦你开始交易了，⼏乎没有什么能
+限制你。
+i went on to give him an example from a seminar i attended several years
+ago. someone had calculated that, if you combined bond futures, bond
+options, and the cash bond markets, there would be over eight billion
+possible spread combinations. now add the timing considerations based on
+how you read the prevailing market conditions, and the various ways to
+trade become virtually limitless.
+我继续告诉他⼏年前我参加的⼀个研讨会上的例⼦。有⼈计算过，如
+果你综合考虑债券期货、债券期权和债券现货，那么会有 80 多亿种价
+
+差组合。这时在加上你在观察市场时做的决定，那么交易的⽅法真的
+可以说是⽆限的。
+the editor paused for a moment and asked, "but why would having access to
+such an unrestricted environment result in fairly consistent failure?" i
+answered, "because unlimited possibilities coupled with the unlimited
+freedom to take advantage of those possibilities present the individual with
+unique and specialized psychological challenges, challenges that very few
+people are properly equipped to deal with, or have any awareness of for that
+matter, and people can't exactly work on overcoming something if they
+don't even know its a problem."
+编辑停下来想了⼀会⼉，然后问： " 为何在这个没有限制的环境⾥结果
+却是持续的失败呢？ " 我回答： " 因为⽆限的可能和⽆限的⾃由在⼀起
+给个⼈造成了独特和特殊的⼼理挑战，只有少数⼈能够应付这种⼼理
+挑战。如果⼈们根本不知道这个问题，他们是⽆法克服这个问题的。 "
+the freedom is great. all of us seem to naturally want it, strive for it, even
+crave it. but that doesn't mean that we have the appropriate psychological
+resources to operate effectively in an environment that has few, if any,
+boundaries and where the potential to do enormous damage to ourselves
+exists. almost everyone needs to make some mental adjustments, regardless
+of their educational background, intelligence or how successful they've
+been in other endeavors.
+⾃由⾮常好。我们都希望能⾃由，为⾃由奋⽃，甚⾄渴望⾃由。但这
+并不意味着我们可以⽤不合适的⼼理在只有⼀点点限制，却有可能严
+重伤害我们的市场中操作。不管每个⼈的交易背景多么好，不管多么
+聪明，不管在其它⾏业⼲的多么成功，都要做思想调整。
+the kind of adjustments i'm talking about have to do with creating an
+internal mental structure that provides the trader with the greatest degree of
+balance between the freedom to do anything and the potential that exists to
+experience both the financial and psychological damage that can be a direct
+result of that freedom.
+
+我说的调整是指发展内部的⼼理结构，让交易者创造可以⾃由做任何
+事和这种⾃由带来的对⾦钱和⼼理的破坏之间的平衡。
+creating a mental structure can be difficult enough, especially if what you
+want to instill is in conflict with what you already believe. but for those of
+us who want to be traders, the difficulty of creating the appropriate structure
+is invariably compounded by a backlog of mental resistance that starts
+developing at the very earliest stages of our lives.
+发展⼼理结构是很困难的，尤其是你要形成的思想和你早就相信的思
+想有冲突的时候。但是对于想成为交易者的我们来说，我们早年⽣活
+中形成的思想会严重阻碍我们发展合适的思想结构。
+all of us are born into some sort of social environment. a social environment
+(or society), whether it's a family, city, state, or country, implies the
+existence of structure. social structures consist of rules, restrictions,
+boundaries, and a set of beliefs that become a code of behavior that limits
+the ways in which individuals within that social structure can or cannot
+express themselves. furthermore, most of the limitations of social structure
+were established before we are born. in other words, by the time any of us
+get here, most of the social structure governing our individual expression is
+in place and well entrenched.
+我们都出⽣在⼀定的社会环境中。社会环境（或社会），不管是家
+庭、城市、州或县都包含了结构。社会结构包括原则、限制、范围，
+还有⼀些列信念，这些信念成为⾏为规范，要求个⼈可以或不可以展
+现⾃⼰。再说了，⼤部分的社会结构限制在我们出⽣之前就有了。换
+句话说，在我们出⽣以前，⼤部分的管理个⼈表达的社会结构就已经
+存在并层层包围了我们。
+it's easy to see why a society's need for structure and the individual's need
+for self-expression can conflict. every person who wants to master the art of
+trading faces just such a fundamental conflict.
+
+很轻松地就可以看出为何社会结构的要求和个⼈⾃我表达的要求会冲
+突。任何想抓住交易艺术的⼈都会⾯对这个基本冲突。
+i'd like you to ask yourself what one characteristic (a form of personal
+expression) is common to every child born on this planet, regardless of the
+location, culture, or social situation the child is born into. the answer is
+curiosity. every child is curious. every child is eager to learn. they can be
+described as little learning machines.
+我想让你问问⾃⼰，即使地点、⽂化或社会环境不⼀样，⼈的什么特
+点（个⼈表达的⼀种）对于所有新⽣的⼩孩都是共同的。答案是好奇
+⼼。每个⼩孩都会好奇。每个⼩孩都渴望认知。他们可以被描述为学
+习机器。
+consider the nature of curiosity. at its most fundamental level, it is a force.
+more specifically, it is an inner-directed force, which means there's no
+necessity to motivate a child to learn something. left on their own, children
+will naturally explore their surroundings. what is more, this inner-directed
+force also seems to have its own agenda; in other words, even though all
+children are curious, not all children are naturally curious about the same
+things.
+想想好奇这种⾃然现象。它是最基本的层次，是⼀种⼒量。更具体地
+说，它是内部直接⼒量，这意味着⼩孩并不需要动⼒就会去学习。如
+果没有⼈管，⼩孩会⾃⼰去了解周围环境。⽽且，他们的内部直接⼒
+量似乎有⾃⼰的计划表，换句话说，即使所有的⼩孩都有好奇⼼，但
+不是所有的⼩孩⾃然地对同样的事情好奇。
+there's something inside each of us that directs our awareness. even infants
+seem to know what they want and don't want. when adults encounter this
+unique display of individuality expressed by an infant, they're usually
+surprised. they assume that infants have nothing inside of them that makes
+them uniquely who they are. how else would infants express their
+individuality than by what in their environment attracts or repels them? i
+call this inner-directed guidance the force of natural attractions.
+
+我们内部都有⼀些东⻄在指引我们的认知。即使是婴⼉也知道要什
+么，不要什么。当⼤⼈们看⻅婴⼉⽤⾃⼰独特的⽅式表达⾃⼰，他们
+通常会吃惊。他们以为婴⼉不会有内在的东⻄来表达⾃⼰的独特。那
+么婴⼉如何通过选择他喜欢的或讨厌的东⻄来表达⾃⼰的独特性呢？
+我把这种内部的直接指引叫做⾃然吸引的⼒量。
+natural attractions are simply those things about which we feel a natural or
+passionate interest. ours is a big and diverse world, and it offers each of us a
+great deal to learn about and experience. but that doesn't mean each of us
+has a natural or passionate interest in learning about or experiencing all
+there is. there's some internal mechanism that makes us "naturally
+selective."
+⾃然吸引⼒就是指我们很⾃然或特别感兴趣的东⻄。我们的好奇⼼是
+巨⼤多样的世界，它让我们学习并体验很多东⻄。但这并不意味着我
+们每个⼈都对所有东⻄⾃然或特别地感兴趣。我们有内部的机械系统
+让我们 " ⾃然地选择 " 。
+if you think about it, i'm sure you could list many things to do or be that you
+have absolutely no interest in. i know i could. you could also make another
+list of the things you are only marginally interested in. finally, you could list
+everything you have a passionate interest in. of course, the lists get smaller
+as the interest levels rise.
+如果你能思考⼀下，我肯定你可以列出很多要做的事或你根本没兴趣
+的事。我知道我可以。你还可以列出你或多或少有点兴趣的事。最
+后，你可以列出你特别感兴趣的事。当然了，兴趣的层次越⾼，列出
+来的就越少。
+where does passionate interest come from? my personal view is that it
+comes from the deepest level of our being - at the level of our true identity.
+it comes from the part of us that exists beyond the characteristics and
+personality traits we acquire as a result of our social upbringing.
+
+特别的兴趣来⾃哪⾥？我个⼈觉得来⾃我们的内⼼深处 -- 真我的⽔
+平。它不是来⾃我们的社会教养教会我们形成的特征和个性，⽽是更
+深处。
+the dangers
+危险
+it is at the deepest level of our being that the potential for conflict exists. the
+social structure that we're born into may or may not be sensitive to these
+inner-directed needs and interests. for example, you may have been born
+into a family of extremely competitive athletes, but feel a passionate
+interest in classical music or art. you may even have natural athletic ability,
+but no real interest in participating in athletic events. is there any potential
+for conflict here?
+在我们内⼼深处有潜在冲突的可能。我们出⽣时的社会结构也许或未
+必对我们内部直接的需求和兴趣产⽣敏感。⽐如，也许你出⽣在极度
+竞争性的运动员家庭，但你对古典⾳乐或艺术特别有兴趣。也许你天
+⽣有运动员的能⼒，但你对运动没兴趣。这是不是潜在的冲突？
+in a typical family, most members would put a great deal of pressure on you
+to follow in the footsteps of your brothers, sisters, or parents. they do
+everything possible to teach you their ways and how to get the most out of
+your athletic ability. they discourage you from seriously pursuing any other
+interests. you go along with what they want, because you don't want to be
+ostracized, but at the same time, doing what they want you to do just doesn't
+feel right, although everything you've learned and been taught argues in
+favor of becoming an athlete. the problem is, it doesn't feel like who you
+are.
+在典型的家庭⾥，⼤部分成员都会给你施加压⼒，让你跟随兄弟姐妹
+或⽗⺟的脚步。他们会⼒所能及地把⾃⼰的东⻄教给你，告诉你如何
+发挥最⼤潜能搞体育。他们反对你追求⾃⼰的兴趣。你不想被他们抵
+制，你按照他们的意思做，但同时，虽然你接受并学习了成为运动员
+
+的所有东⻄，但你觉得按照他们的意思做感觉不对。问题是，你感觉
+你不是你⾃⼰。
+the conflicts that result from what we're taught about who we're supposed to
+be and the feeling that resonates at the deepest levels of our being is not at
+all uncommon. i would say that many, if not most people, grow up in a
+family and cultural environment that gives little, if any, objective,
+nonjudgmental support to the unique ways in which we feel compelled to
+express ourselves.
+别⼈教我们要成为什么⼈和我们内⼼深处的感觉根本不接近导致冲
+突。我可以说很多⼈成⻓的家庭和⽂化环境给了他们很少独特的客
+观，不带偏⻅的⽀持，所以他们不会表达⾃⼰。
+this lack of support is not simply an absence of encouragement. it can be as
+deep as the outright denial of some particular way in which we want to
+express ourselves. for example, let's look at a common situation: a toddler,
+who for the first time in his life, notices "this thing," which we call a vase,
+on the coffee table. he is curious, which means there's an inner force that's
+compelling him to experience this object. in a sense, it's as if this force
+creates a vacuum in his mind that has to be filled with the object of his
+interest. so, he focuses on the vase, and, with deliberate intent, crawls
+across the vast expanse of the living room floor to the coffee table. when he
+gets there, he reaches up to the edge of the table to pull himself to his feet.
+with one hand firmly on the table to maintain his balance, his other hand
+reaches out to touch this thing he has never experienced. just at that
+moment, he hears a scream from across the room, "no! don't touch that!"
+缺少这种⽀持并不是简单的缺少⿎励。它彻底地拒绝了我们⽤特殊⽅
+式表达⾃⼰。⽐如，让我们看看普通现象：⼀个幼⼉平⽣第⼀次注意
+到咖啡桌上我们叫做花瓶的 " 东⻄ " 。他很好奇，这意味着他的内部⼒
+量驱使他去体验这个主题。从某种意义上说，就是这种⼒量在他的思
+想⾥制造了⼀个真空，他必须⽤⾃⼰的兴趣完成这个主题。所以，他
+特意地聚焦于这个花瓶，他从卧室爬到咖啡桌。当他到了那⾥，他抓
+
+着桌边想努⼒站起来。⼀只⼿抓着桌⼦维持平衡，另⼀只⼿伸出去体
+验从未体验过的东⻄。就在此时，他听⻅屋内⼀声尖叫： " 不准碰那个
+东⻄！ "
+startled, the child falls back on his butt, and begins to cry. obviously, this is
+a very common occurrence and one that is completely unavoidable. children
+have absolutely no concept of how they can injure themselves or how
+valuable something like a vase can be. in fact, learning what is safe and
+what isn't and the value of things are important lessons the child must learn.
+however, there are some extremely important psychological dynamics at
+work here that have a direct effect on our ability to create the kind of
+discipline and focus necessary to trade effectively later in life.
+⼩孩被吓到了，跌坐在地上开始哭。很明显，这是很普通的体验，也
+是完全⽆法避免的。⼩孩绝对没有概念是如何伤害⾃⼰的或花瓶这样
+的东⻄有多贵。实际上，⼩孩必须学习什么是安全、什么是不安全和
+事物的价值，这是重要的课程。然⽽，有⼀些极度重要的⼼理波动起
+作⽤了，它影响了我们发展纪律和必要的专注的能⼒，所以我们以后
+就不能有效地交易。
+what happens when we're denied the opportunity to express ourselves in the
+way we want to, or we're forced to express ourselves in a way that doesn't
+correspond with the natural selection process? the experience creates an
+upset. being "up-set" implies an imbalance. but what exactly is out of
+balance? for something to be out of balance, there has to be something that's
+in balance or in equal proportion in the first place. that something is the
+relative degree of correspondence that exists between our inner, mental
+environment and the exterior environment where we experience our lives.
+如果我们表达⾃⼰的机会被拒绝了，或者我们被迫⽤⾃⼰⾮天⽣的选
+择去表达⾃⼰，会怎么样？这种体验会产⽣难过。难过暗⽰着不平
+衡。但究竟什么是不平衡？如果要说不平衡，那么就要先说什么是平
+衡或是合适的。平衡就是在⽣活中我们内在的思想环境和外在的环境
+相对协调。
+
+in other words, our needs and desires are generated in our mental
+environment, and they are fulfilled in the exterior environment. if these two
+environments are in correspondence with one another, we're in a state of
+inner balance and we feel a sense of satisfaction or happiness. if these
+environments are not in correspondence, we experience dissatisfaction,
+anger, and frustration, or what is commonly referred to as emotional pain.
+换句话说，我们思想环境制造的需求和欲望都被外部环境满⾜了。如
+果这两种环境互相协调持续⼀致，我们内⼼就是平衡的，我们就感到
+满⾜或快乐。如果这两种不协调持续⼀致，我们就感觉不满、愤怒、
+受挫或者通常叫做精神痛苦。
+now, why would not getting what we want or being denied the freedom to
+express ourselves in some particular way cause us to experience emotional
+pain? my personal theory is that needs and desires create mental vacuums.
+the universe in which we live has a natural tendency to not tolerate a
+vacuum and moves to fill it, whenever one exists. (the philosopher spinoza
+observed centuries ago that, "nature abhors a vacuum.")
+那么，为什么得不到我们想要的，或我们特殊的表达⾃⼰的⾃由被拒
+绝了就会体验精神痛苦呢？我个⼈的理论是，需求和欲望制造了思想
+真空。我们这个宇宙的⾃然倾向就是尽⼒填补任何空间（⼏百年前的
+哲学家斯宾诺莎说： " ⾃然厌恶真空 " ）。
+suck the air out of a bottle and your tongue and lips will stick to the mouth
+of the bottle, because you have created an imbalance (a vacuum), which
+now must be filled. what are the dynamics behind the expression "necessity
+is the mother of all invention"? the recognition that a need creates a mental
+vacuum that the universe will fill with inspiring thoughts (if your mind is
+receptive). the thoughts, in turn, can inspire movement and expression that
+result in the fulfillment of that need.
+如果你⽤嘴吸出瓶⼦⾥⾯的空⽓，那么你的⾆头和嘴唇就紧紧粘在瓶
+⼦上，因为我们制造了不平衡（真空），所以要填补这种不平衡。 " 需
+求是⼀切发明的⺟亲 " ，这句话后⾯有什么⼒量？这句话认同了产⽣思
+
+想真空是必然的，⽽宇宙就要填补这种感兴趣的思想（前提是你的思
+想愿意接受）。思想通过⾏动和表达满⾜了这种需求。
+in this respect, i think our mental environment works like the universe at
+large. once we recognize a need or desire, we move to fill the vacuum with
+an experience in the exterior environment. if we are denied the opportunity
+to pursue the object of this need or desire, it literally feels as if we are not
+whole, or that something is missing, which puts us into a state of imbalance
+or emotional pain. (do our minds also abhor a vacuum, once one has been
+created?)
+从这个⾓度说，在⼴义上我们的思想环境像宇宙⼀样⼯作。⼀旦我们
+有了需求或欲望，我们通过外部环境的体验以填补真空。如果我们追
+求这个寻求和欲望的机会被拒绝了，就会让我们觉得我们不完整，或
+缺少了什么，这样就导致我们感觉不平衡或精神痛苦（是不是在出⽣
+以后我们的思想就厌恶真空？）。
+take a toy away from a child who is not finished playing with it (regardless
+of how good your reasons may be for doing so) and the universal response
+will be emotional pain.
+当⼩孩还在玩玩具的时候把玩具拿⾛（不管你拿⾛的理由是多么的
+好），普遍的反应就是精神痛苦。
+by the time we're 18 years old, we've been on earth approximately 6,570
+days. on average, how many times per day does the typical child hear
+statements like:
+当我们 18 岁时，我们已经在地球上⽣活了⼤概 6570 天。平均⼀天⼩孩
+要听到多少次这样的说话：
+"no, no, you can't do that."
+" 不，不，不⾏。 "
+
+"you can't do it that way. you have to do it this way."
+" 你不能那样做，你必须这样做。 "
+"not now; let me think about it."
+" 现在不⾏，让我想想。 "
+"i'll let you know."
+" 我会让你知道的。 "
+"it can't be done."
+" 那不⾏。 "
+"what makes you think you can do it?"
+" 你凭什么以为你⾏？ "
+"you have to do it. you have no choice."
+" 你必须做，你没有选择。 "
+these are just a few of the relatively nice ways in which all of us are denied
+individual expression as we grow up. even if we only heard such statements
+once or twice a day, that still adds up to several thousand denials by the
+time we reach adulthood.
+这是我们在成⻓过程中我们的⾃我表达被拒绝的少数漂亮⽅法。即使
+⼀天就听到 1 ， 2 次这样的话，那么当我们成⼈时，我们已经被拒绝了
+⼏千次。
+i call these lands of experiences "denied impulses" to learn - impulses that
+are based on an inner need, originating from the deeper part of our identity,
+from the natural selection process.
+
+我把这些体验叫做 " 被拒绝的学习动⼒ "-- 动⼒来⾃我们的内部需求，是
+我们最深处的⾃我，是⾃然选择的过程。
+what happens to all of these impulses that have been denied and left
+unfulfilled? do they just go away? they can, if they are reconciled in some
+way: if we do something, or someone else does something, to put our
+mental environment back into balance. what can put our mental
+environment back into balance? there are a number of techniques. the most
+natural one, especially for a child, is simply to cry.
+如果所有的动⼒被拒绝了，⽆法满⾜，会如何？它们会消失吗？如果
+⽤⼀定的⽅法协调，它们可以消失，⽅法有：我们做些什么，或别⼈
+做些什么以让我们的思想环境恢复平衡。什么会让我们的思想环境恢
+复平衡？有⼀些技术技巧。对⼩孩来说，最⾃然的就是简简单单地
+哭。
+crying is a natural mechanism (nature's way) for reconciling these denied,
+unfulfilled impulses. scientific researchers have found tears to be composed
+of negatively charged ions. if allowed to take its natural course, crying will
+expel the negatively charged energy in our minds and bring us back to a
+state of balance, even though the original impulse was never fulfilled.
+哭就是⾃然机械系统（⾃然⽅式），以协调被拒绝，没有被满⾜的动
+⼒。科学研究者发现眼泪含有负离⼦。即使最原始的动⼒从没有被实
+现过，如果让⾃然选择，哭会把我们思想⾥的消极能量带出来，让我
+们恢复平衡。
+the problem is that, most of the time, events are not allowed to take their
+natural course and the denied impulses are never reconciled (at least, not
+while we're still children). there are many reasons why adults don't like it
+when their children (especially boys) cry, and do everything they can to
+discourage this behavior. there are just as many reasons why adults will not
+bother to explain to children why they are being forced to do something
+they don't want to do. even if adults do try, there are no assurances that they
+
+will be effective enough to reconcile the imbalance. what happens if these
+impulses aren't reconciled?
+问题是在⼤部分时间，事情的发⽣都不会是⾃然的，⽽是被拒绝的动
+⼒永远不会被实现（⾄少是我们⼩时候不会实现）。这就是为什么⼤
+⼈不喜欢看⻅⼩孩哭（尤其是男孩），要尽⼒去阻⽌他哭。这就是为
+什么⼤⼈不愿意向⼩孩解释为什么他们要被迫去做⾃⼰不想做的事。
+即使⼤⼈愿意尝试，也不能保证他们能有效地协调不平衡。如果这些
+动⼒没有被协调，会如何？
+they accumulate and usually end up manifesting themselves in any number
+of addictive and compulsive behavior patterns. a very loose rule of thumb
+is: whatever we believe we were deprived of as children can easily become
+addictions in adulthood. for example, many people are addicted to attention.
+i am referring to people who will do most anything to draw attention to
+themselves. the most common reason for this is that they believe they either
+didn't get enough attention when they were young or didn't get it when it
+was important to them. in any case, the deprivation becomes unresolved
+emotional energy that compels them to behave in ways that will satisfy the
+addiction. what's important for us to understand about these unreconciled,
+denied impulses (that exist in all of us) is how they affect our ability to stay
+focused and take a disciplined, consistent approach to our trading.
+他们积累的结果是让⾃⼰形成⼀系列上瘾和强迫性的⾏为模式。简单
+的原则是：我们成年后会对在⼩孩时被剥夺的东⻄上瘾。⽐如，很多
+⼈喜欢被别⼈关注。我是说很多⼈会尽⼒吸引别⼈的注意⼒。原因要
+么是他们⼩时候没有得到⾜够的关注，要么是他们觉得重要，但没⼈
+关注他们。不管是哪个原因，这种剥夺成为未解的情绪能量，逼迫他
+们想办法以满⾜这种沉溺上瘾。我们搞明⽩这些不协调的，没有实现
+的动⼒（我们每个⼈都有）是很重要的，因为它会影响我们在交易时
+保持专注、遵守纪律和实现持续⼀致性。
+the safeguards
+
+安全措施
+to operate effectively in the trading environment, we need rules and
+boundaries to guide our behavior. it is a simple fact of trading that the
+potential exists to do enormous damage to ourselves - damage that can be
+way out of proportion to what we may think is possible. there are many
+kinds of trades in which the risk of loss is unlimited. to prevent the
+possibility of exposing ourselves to damage, we need to create an internal
+structure in the form of specialized mental discipline and a perspective that
+guides our behavior so that we always act in our own best interests. this
+structure has to exist within each of us, because unlike society, the market
+doesn't provide it.
+要想有效地交易，我们需要原则和限制以指导我们的⾏为。简单的事
+实就是有可能对我们造成巨⼤伤害 -- 也许是我们以为可能的事情造成
+了伤害。有很多交易的⻛险是⽆穷⼤。为了防⽌被伤害的可能，我们
+要通过建⽴特殊的思想纪律和认知的内部结构，以指导我们永远按照
+⾃⼰的兴趣做事。我们每个⼈必须有这种结构，因为和社会不同，市
+场是不同提供给我们的。
+the markets provide structure in the form of behavior patterns that indicate
+when an opportunity to buy or sell exists. but that's where the structure ends
+- with a simple indication. otherwise, from each individual's perspective,
+there are no formalized rules to guide your behavior. there aren't even any
+beginnings, middles, or endings as there are in virtually every other activity
+we participate in.
+当有买卖机会存在时，市场提供的结构就是⾏为模式。但这是结构的
+终点 -- ⽤简单的提⽰来表达。然⽽，从个⼈的⾓度来说，并没有规定
+的原则来指导你的⾏为。在我们参与的任何活动中都没有开始点，中
+间过程或结束点。
+this is an extremely important distinction with profound psychological
+implications. the market is like a stream that is in constant motion. it doesn't
+start, stop, or wait. even when the markets are closed, prices are still in
+
+motion. there is no rule that the opening price on any day must be the same
+as the closing price the day before. nothing we do in society properly
+prepares us to function effectively in such a "boundary-less" environment.
+这和深奥的⼼理暗⽰有重⼤区别。市场像河流⼀样不断地波动。它不
+会开始，停⽌或等待。即使市场收盘了，价格还在波动。没有规定说
+哪天的开盘价必须等于前⼀天的收盘价。我们在社会中是⽆法学到这
+样的本事，可以在 " 没有限制 " 的环境⾥有效操作。
+even gambling games have built-in structures that make them much
+different from trading, and a lot less dangerous. for example, if we decide to
+play blackjack, the first thing we have to do is decide how much we are
+going to wager or risk. this is a choice we are forced to make by the rules of
+the game. if we don't make the choice, we don't get to play.
+即使是赌博的内部结构也和交易完全不同，赌博的危险⼩了很多。⽐
+如，如果我们想玩 21 点，⾸先我们会决定⽤多少赌注或⻛险。根据这
+个游戏的规则，我们要做这个选择。如果我们不做选择，我们就不
+玩。
+in trading, no one (except yourself) is going to force you to decide in
+advance what your risk is. in fact, what we have is a limitless environment,
+where virtually anything can happen at any moment and only the consistent
+winners define their risk in advance of putting on a trade. for everyone else,
+defining the risk in advance would force you to confront the reality that
+each trade has a probable outcome, meaning that it could be a loser.
+consistent losers do almost anything to avoid accepting the reality that, no
+matter how good a trade looks, it could lose. without the presence of an
+external structure forcing the typical trader to think otherwise, he is
+susceptible to any number of justifications, rationalizations, and the kind of
+distorted logic that will allow him to get into a trade believing that it can't
+lose, which makes determining the risk in advance irrelevant.
+在交易中，没有⼈（除了你⾃⼰）会迫使你提前衡量⻛险是多少。实
+际上，我们的环境是没有任何限制的，所以在任何时刻任何事都有可
+
+能发⽣。只有持续⼀致的赢家才会在交易前衡量好⻛险。对于其他⼈
+来说，提前衡量⻛险迫使你⾯对每笔交易的可能结果这个现实，这意
+味着你可能是输家。不管⼀笔交易看起来多么好，持续的输家会尽⼒
+避免这笔交易可能会亏损的现实。如果没有外部结构迫使⼀般交易者
+改变思考模式，他就会受很多分析、解释和歪曲逻辑的影响，去做肯
+定不会亏的交易，并以为提前衡量⻛险是没有必要的。
+all gambling games have specified beginnings, middles, and endings, based
+on a sequence of events that determine the outcome of the game. once you
+decide you are going to participate, you can't change your mind - you're in
+for the duration. that's not true of trading. in trading, prices are in constant
+motion, nothing begins until you decide it should, it lasts as long as you
+want, and it doesn't end until you want it to be over. regardless of what you
+may have planned or wanted to do, any number of psychological factors can
+come into play, causing you to become distracted, change your mind,
+become scared or overconfident: in other words, causing you to behave in
+ways that are erratic and unintended.
+根据游戏的过程及结果，所有的赌博都有具体的开始点、中间点和结
+束点。⼀旦你决定参与，你就不能改变主意 -- 在这个过程中你在局
+内。交易则不⼀样。在交易中，价格持续波动，根本没有你想象的开
+始点，你想持续多⻓时间就能持续多⻓时间，如果你不想结束，它也
+不会结束。不管你是如何计划的或怎么想的，任何⼼⾥因素都会成为
+交易因素，导致你分⼼，改变想法，变得害怕或过分⾃信：换句话
+说，导致你变得没有原则，没有意识。
+because gambling games have a formal ending, they force the participant to
+be an active loser. if you're on a losing streak, you can't keep on losing
+without making a conscious decision to do so. the end of each game causes
+the beginning of a new game, and you have to actively subject more of your
+assets to further risk by reaching into your wallet or pushing some chips to
+the center of the table.
+
+因为赌博有正规的结束时间，它们迫使参与者成为活跃的输家。如果
+你持续输钱，你只要决定不赌了，你就不会输钱了。每个赌局的结束
+就是⼀个新赌局的开始，你必须把⼿伸进⼝袋⽤更多的资产来冒险，
+或者把更多的筹码推到桌⼦中间。
+trading has no formal ending. the market will not take you out of a trade.
+unless you have the appropriate mental structure to end a trade in a manner
+that is always in your best interest, you can become a passive loser. this
+means that, once you're in a losing trade, you don't have to do anything to
+keep on losing. you don't even have to watch. you can just ignore the
+situation, and the market will take everything you own - and more.
+交易没有正式的结束点。市场不会让你退出交易。除⾮你有合适的思
+想结构能让你体⾯地退出交易，那么你就是积极的输家。这意味着，
+⼀旦你的交易不利，你⾃动终⽌亏损。你甚⾄不⽤再观察了。你仅仅
+是忽略了环境，市场你帮你拿到属于你的东⻄ -- 甚⾄更多。
+one of the many contradictions of trading is that it offers a gift and a curse
+at the same time. the gift is that, perhaps for the first time in our lives, we're
+in complete control of everything we do. the curse is that there are no
+external rules or boundaries to guide or structure our behavior. the
+unlimited characteristics of the trading environment require that we act with
+some degree of restraint and self-control, at least if we want to create some
+measure of consistent success. the structure we need to guide our behavior
+has to originate in your mind, as a conscious act of free will. this is where
+the many problems begin.
+交易有很多⽭盾的地⽅，其中⼀个是它同时提供了礼物和诅咒。礼物
+是，也许这是有⽣以来我们第⼀次能完全控制所有的事。诅咒是，没
+有外部的原则或限制以指导我们的⾏为。如果我们想发展⼀些衡量持
+续⼀致性成功的东⻄，交易环境的⽆限制的特点要求我们⽤⼀定程度
+的克制和⾃控来⾯对。指导我们⾏为的结构来⾃我们的思想，是下意
+识的⾃由意识。这样就产⽣了很多问题。
+
+problem: the unwillingness to create rules
+问题：不愿意制定原则
+i have not yet encountered a person interested in trading who didn't resist
+the notion of creating a set of rules. the resistance isn't always overt. quite
+the contrary, it's usually very subtle. we agree on the one hand that rules
+make sense, but we really have no intention of doing whatever is being
+suggested. this resistance can be intense, and it has a logical source.
+我从没⻅过不拒绝制定原则的对交易感兴趣的⼈。这种拒绝不是那么
+明显。相反，通常很微妙。我们同意原则很有⽤，但我们都没有意愿
+按照建议去做。拒绝很强烈，他有逻辑原因。
+most of the structure in our minds was given to us as a result of our social
+upbringing and based on choices made by other people. in other words, it
+was instilled in our minds, but did not originate in our minds. this is a very
+important distinction. in the process of instilling structure, many of our
+natural impulses to move, express, and learn about the nature of our
+existence through our own direct experience were denied. many of these
+denied impulses were never reconciled and still exist inside of us as
+frustration, anger, disappointment, guilt, or even hatred. the accumulation of
+these negative feelings acts as a force inside our mental environment
+causing us to resist anything that denies us the freedom to do and be
+whatever we want, when we want.
+⼤部分⼈根据⾃⼰的选择，通过社会教育的⽅式给了我们⼤部分的思
+想结构。换句话说，它是灌输给我们的，不是我们的思想⾃⼰产⽣
+的。这是很重要的区别。在给我们灌输结构的过程中，很多我们天⽣
+的动⼒、表达和通过直接体验学习⾃然都被拒绝了。很多被拒绝的动
+⼒永远不会被实现，但在我们体内存在，成为受挫、愤怒、失望、罪
+过甚⾄是憎恶。这些消极感情的积累会迫使我们内部精神环境变化，
+导致的结果是，我们不能⾃由⾃在地做⾃⼰想做的事。
+
+in other words, the very reason we are attracted to trading in the first place -
+the unlimited freedom of creative expression - is the same reason we feel a
+natural resistance to creating the kinds of rules and boundaries that can
+appropriately guide our behavior. it's as if we have found a utopia in which
+there is complete freedom, and then someone taps us on the shoulder and
+says, "hey, you have to create rules, and not only that, you also have to have
+the discipline to abide by them."
+换句话说，我们刚开始被吸引来交易的原因 -- ⽆限⾃我表达的⾃由 -- 和
+我们⾃然地拒绝制定合适地指导我们⾏为的原则和限制是同样的原
+因。就好像是我们发现了⼀个乌托邦，在⾥⾯有绝对的⾃由，然后有
+⼈拍着你的肩膀说： " 嘿，你要制定原则，不仅如此，你还要有纪律去
+遵守它们。 "
+the need for rules may make perfect sense, but it can be difficult to generate
+the motivation to create these rules when we've been trying to break free of
+them most of our lives. it usually takes a great deal of pain and suffering to
+break down the source of our resistance to establishing and abiding by a
+trading regime that is organized, consistent, and reflects prudent money-
+management guidelines.
+需要原则的需求很合理，但是当我们⼤部分时间都在尽⼒脱离原则的
+时候，确实没有动⼒去制定原则。⼀般需要承受很多痛苦和折磨才能
+从我们⾃⾝的拒绝中突破，然后去建⽴交易王国所需要的条理性、持
+续⼀致性、还要反映审慎的资⾦管理原则。
+now, i'm not implying that you have to reconcile all of your past frustrations
+and disappointments to become a successful trader, because that's not the
+case. and you certainly don't have to suffer. i've worked with many traders
+who have achieved their objectives of consistency and haven't done
+anything to reconcile their backlog of denied impulses. however, i am
+implying that you can't take for granted how much effort and focus you may
+have to put into building the kind of mental structure that compensates for
+the negative effect denied impulses can have on your ability to establish the
+skills that will assure your success as a trader.
+
+我并不是暗⽰你为了成为成功的交易者⽽妥协于过去的受挫和失望，
+因为不是这个原因。你肯定不需要忍受什么。我和很多交易者沟通
+过，他们都实现了持续⼀致性的⽬标，也没有向积累的被拒绝的动⼒
+妥协。我是说你并不能想当然地决定多少努⼒或关注可以让你形成思
+想结构，这样就可以补偿被拒绝的动⼒的消极影响，以防⽌你没有能
+⼒学习能保证你能成为成功的交易者的技术。
+problem: failure to take responsibility
+问题：不负责任
+trading can be characterized as a pure, unencumbered personal choice with
+an immediate outcome. remember, nothing happens until we decide to start;
+it lasts as long as we want; and it doesn't end until we decide to stop. all of
+these beginnings, middles, and endings are the result of our interpretation of
+the information available and how we choose to act on our interpretation.
+now, we may want the freedom to make choices, but that doesn't mean we
+are ready and willing to accept the responsibility for the outcomes. traders
+who are not ready to accept responsibility for the outcomes of their
+interpretations and actions will find themselves in a dilemma: how does one
+participate in an activity that allows complete freedom of choice, and at the
+same time avoid taking responsibility if the outcome of one's choices are
+unexpected and not to one's liking?
+交易的特征可以理解为纯粹的，没有负担的个⼈选择，很快就能出结
+果。记住，如果我们不开始，什么都不会发⽣；我们想多久就有多
+久；如果我们不想停⽌，它就不会停。所有的开始点，中间过程和结
+束点都是我们对⼿头信息的解读并按照⾃⼰的解读⾏动。现在，也许
+我们想⾃由地做选择，但这并不意味着我们已经准备好了，愿意对结
+果负责。对⾃⼰的解读和⾏动结果还没有负责态度的交易者会进⼊两
+难境地：⼀个⼈如何进⾏完全⾃由的选择，同时如果所做的选择导致
+的结果是⾃⼰不想要的，该如何推卸责任？
+
+the hard reality of trading is that, if you want to create consistency, you
+have to start from the premise that no matter what the outcome, you are
+completely responsible. this is a level of responsibility few people have
+aspired to before they decide to become traders. the way to avoid
+responsibility is to adopt a trading style that is, to all intents and purposes,
+random. i define random trading as poorly-planned trades or trades that are
+not planned at all. it is an unorganized approach that takes into
+consideration an unlimited set of market variables, which do not allow you
+to find out what works on a consistent basis and what does not.
+交易的现实就是这么难，如果你想产⽣持续⼀致性，你必须从这个基
+础开始，⽆论结果是什么，你完全负责。在决定成为交易者之前，只
+有少数⼈追求这种责任。避免负责任的交易⻛格就是⼀⼼追求任意
+性。我把任意交易定义为计划糟糕的交易或根本没有计划的交易。考
+虑到市场有⽆限的变数，这种⽅法就是没有条理性，这样你就⽆法知
+道什么是持续⼀致性的基础，什么不是持续⼀致性的基础。
+randomness is unstructured freedom without responsibility. when we trade
+without well-defined plans and with an unlimited set of variables, it's very
+easy to take credit for the trades that turn out to our liking (because there
+was "some" method present). at the same time, it's very easy to avoid taking
+responsibility for the trades that didn't turn out the way we wanted (because
+there's always some variable we didn't know about and therefore couldn't
+take into consideration beforehand).
+任意就是不负责任的⽆结构⾃由。当我们没有做好计划就交易时，会
+⾯对⽆限的变数，很容易就把交易变成了我们的喜好（因为有⼀些现
+成的⽅法）。同时，如果交易结果不是我们想象的那样，可以很轻松
+地逃避责任（因为总是有我们不知道变数，我们⽆法提前考量）。
+if the markets behavior were truly random, then it would be difficult if not
+impossible to create consistency. if it's impossible to be consistent, then we
+really don't have to take responsibility. the problem with this logic is that
+our direct experience of the markets tells us something different. the same
+behavior patterns present themselves over and over again. even though the
+
+outcome of each individual pattern is random, the outcome of a series of
+patterns is consistent (statistically reliable). this is a paradox, but one that is
+easily resolved with a disciplined, organized, and consistent approach.
+如果市场的⾏为真的是随即的，那么产⽣持续⼀致性真的困难。如果
+不可能实现持续⼀致性，那么我们就不必负责任。这个逻辑的问题是
+我们在市场的亲⾝体验告诉我们有不同的地⽅。同样的⾏为模式⼀次
+⼜⼀次地发⽣。即使每个模式的结果是随即的，⼀系列模式的结果是
+持续⼀致的（有可靠的统计数据）。这是似是⽽⾮的，但交易者可以
+通过纪律、条理和持续⼀致的⽅法来实现持续⼀致性。
+i've worked with countless traders who would spend hours doing market
+analysis and planning trades for the next day. then, instead of putting on the
+trades they planned, they did something else. the trades they did put on
+were usually ideas from friends or tips from brokers. i probably don't have
+to tell you that the trades they originally planned, but didn't act on, were
+usually the big winners of the day. this is a classic example of how we
+become susceptible to unstructured, random trading - because we want to
+avoid responsibility.
+我和⽆数交易者沟通，他们愿意花⼏个⼩时分析市场，为第⼆天做交
+易计划。然⽽他们却没有交易，⽽是做了其它交易。他们做的其它交
+易通常是朋友或经纪⼈的消息。我可以说，他们原先计划的，但没有
+实⾏的交易通常是当天的⼤赢家。这是典型的例⼦，说明为什么我们
+容易受没有结构的，随机的交易影响 -- 因为我们不想负责任。
+when we act on our own ideas, we put our creative abilities on the line and
+we get instant feedback on how well our ideas worked. it's very difficult to
+rationalize away any unsatisfactory results. on the other hand, when we
+enter an unplanned, random trade, it's much easier to shift the responsibility
+by blaming the friend or the broker for their bad ideas.
+当我们⾃⼰交易时，我们有创造性的能⼒在傍边伺候着，我们⾃⼰很
+快就知道我们的想法好不好。对于不满意的结果，为其辩护是困难
+
+的。另外⼀⾯，当我们进⾏了没有计划，任意的交易，可以简单地通
+过责怪朋友或经纪⼈的坏主意来推卸责任。
+there's something else about the nature of trading that makes it easy to
+escape the responsibility that comes with creating structure in favor of
+trading randomly: it is the fact that any trade has the potential to be a
+winner, even a big winner. that big winning trade can come your way
+whether you are a great analyst or a lousy one; whether you do or don't take
+responsibility. it takes effort to create the kind of disciplined approach that
+is necessary to become a consistent winner. but, as you can see, it's very
+easy to avoid this kind of mental work in favor of trading with an
+undisciplined, random approach.
+还有⼀些其它东⻄让你轻松地逃避责任，那就是任意交易的结构性：
+事实上任何⼀笔交易都有可能成为赚钱的，甚⾄是⼤赚。不管你是伟
+⼤的分析师，还是懒惰的⼈，不管你是否愿意负责任，赚⼤钱的交易
+会发⽣在你⾝上。要想成为持续⼀致的赢家，努⼒形成有纪律的⽅法
+是必须的。但是，你也能看⻅，没有纪律，任意交易的⽅法更容易避
+免思想⼯作。
+problem: addiction to random rewards
+问题：对随机的回报上瘾
+several studies have been done on the psychological effects of random
+rewards on monkeys. for example, if you teach a monkey to do a task and
+consistently reward it every time the task is done, the monkey quickly
+learns to associate a specific outcome with the efforts. if you stop rewarding
+it for doing the task, within a very short period of time the monkey will
+simply stop doing the task. it won't waste its energy doing something that it
+has now learned it won't be rewarded for.
+有⼈⽤猴⼦做了研究，以观察随机回报对⼼理的影响。⽐如，如果你
+教猴⼦完成任务，只要任务完成了就给它好处，猴⼦很快就把努⼒和
+特定的结果联系起来。如果猴⼦完成了任务，你不给它回报，只要很
+
+短的时间猴⼦就不会去完成任务了。它已经知道是没有回报的，它就
+不会再浪费精⼒了。
+however, the monkey's response to being cut off from the reward is very
+different if you start out on a purely random schedule, instead of a
+consistent one. when you stop offering the reward, there's no way the
+monkey can know that it will never be rewarded again for doing that task.
+every time it was rewarded in the past, the reward came as a surprise. as a
+result, from the monkey's perspective, there's no reason to quit doing the
+task. the monkey keeps on doing the task, even without being rewarded for
+doing it. some will continue indefinitely.
+然⽽，如果你采⽤随机的⽅式回报猴⼦，猴⼦的反应是不同的。当你
+停⽌回报猴⼦，猴⼦也不知道是否下次完成了任务有回报。每次回报
+都成了惊喜。结果，从猴⼦的⾓度来看，没有理由不完成任务。即使
+没有回报，猴⼦也要继续完成任务。有些猴⼦会永远做下去。
+i'm not sure why we're susceptible to becoming addicted to random
+rewards. if i had to guess, i would say that it probably has something to do
+with the euphoria - inducing chemicals that are released in our brains when
+we experience an unexpected, pleasant surprise. if a reward is random, we
+never know for sure if and when we might receive it, so expending energy
+and resources in the hope of experiencing that wonderful feeling of surprise
+again isn't difficult. in fact, for many people it can be very addicting. on the
+other hand, when we expect a particular outcome and it doesn't come about,
+we're disappointed and feel bad. if we do it again and get the same
+disappointing outcome, it isn't likely that we will keep doing something we
+know will cause us emotional pain.
+我不明⽩为何我们会受随即回报的影响。如果必须猜⼀下，我想可能
+和过度兴奋有关系 -- 当我们体验了意外的惊喜时⼤脑释放的化学物
+质。如果回报是随机的，我们永远不知道何时得到回报，很⾃然就极
+⼒等待体验下⼀次惊喜的美好感觉。另外⼀⾯，当我们等待不会来的
+
+结果时，我们感到失望和糟糕。如果我们再做⼀次，得到了同样的失
+望结果，我们不太可能继续做让我们感情痛苦的事。
+the problem with any addiction is that it leaves us in a state of
+"choicelessness." to whatever degree the addiction dominates our state of
+mind, to that same degree our focus and efforts will be geared toward
+fulfilling the object of that addiction. other possibilities that exist in any
+given moment to fulfill other needs (like the need to trust ourselves and not
+to subject too many of our assets to risk) are either ignored or dismissed. we
+feel powerless to act in any other way than to satisfy the addiction. an
+addiction to random rewards is particularly troublesome for traders, because
+it is another source of resistance to creating the kind of mental structure that
+produces consistency.
+上瘾的问题会导致我们处于 " 没有选择 " 的混乱状态。到了⼀定程度上
+瘾控制了我们的思想，我们的焦点和努⼒都是为了上瘾这个⽬标。其
+它时间可以满⾜其它需求（⽐如要相信⾃⼰，不要⽤太多的资⾦去冒
+险）的可能被忽略被放弃了。我们没有任何能⼒，只好满⾜上瘾。对
+随机的回报上瘾是交易者特别⿇烦的事，因为它阻碍了形成思想结
+构，实现持续⼀致性。
+problem: external versus internal control
+问题：外部控制对抗内部控制
+our upbringing has programmed us to function in a social environment,
+which means we've acquired certain thinking strategies for fulfilling our
+needs, wants and desires that are geared toward social interaction. not only
+have we learned to depend on each other to fulfill the needs, wants and
+desires we cannot fulfill completely on our own, but in the process we've
+acquired many socially-based controlling and manipulating techniques for
+assuring that other people behave in a manner that is consistent with what
+we want.
+
+我们的教育被设计成在社会环境中起作⽤，这意味着我们得到的思想
+策略，想法和欲望都和社会挂钩。我们不但学会了互相依靠满⾜了我
+们⾃⼰⽆法实现的需求、需要和欲望，⽽且在这个过程中我们学到了
+社会上的控制和管理技术，所以以为别⼈和我们⼀样。
+the markets may seem like a social endeavor because there are so many
+people involved, but they're not. if, in today's modern society, we have
+learned to depend on each other to fulfill basic needs, then the market
+environment (even though it exists in the midst of modern society) can be
+characterized as a psychological wilderness, where it's truly every man or
+woman for himself or herself.
+市场看起来像社会，因为⾥⾯有很多⼈，但实际不是的。如果在现代
+社会，我们学习互相依靠以满⾜基本需求，那么市场环境（即使它存
+在于现代社会）的特点就是⼼理杂乱，每个⼈都是为了⾃⼰。
+not only can we not depend on the market to do anything for us, but it is
+extremely difficult, if not impossible, to manipulate or control anything that
+the market does. now, if we've become effective at fulfilling our needs,
+wants and desires by learning how to control and manipulate our
+environment, but suddenly find ourselves, as traders, in an environment that
+does not know, care, or respond to anything that is important to us, where
+does that leave us? you're right if you said up the proverbial creek without a
+paddle.
+我们不但不能指望市场为我们做什么，⽽且还特别难控制市场。如果
+我们通过学习如何控制和应付我们的环境实现了有效地满⾜我们的需
+求、愿望和欲望，但突然发现我们处于⼀个环境，这个环境对于我们
+认为重要的东⻄采取不知、不管或不理的态度，我们该怎么办？
+one of the principal reasons so many successful people have failed
+miserably at trading is that their success is partly attributable to their
+superior ability to manipulate and control the social environment, to
+respond to what they want. to some degree, all of us have learned or
+developed techniques to make the external environment conform to our

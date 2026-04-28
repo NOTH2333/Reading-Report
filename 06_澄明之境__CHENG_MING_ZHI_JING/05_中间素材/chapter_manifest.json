@@ -1,0 +1,142 @@
+{
+  "book_id": "chengming_zhijing",
+  "book_title": "《澄明之境》",
+  "source_pdf": "C:\\Users\\霓\\Downloads\\Documents\\澄明之境(《十年一梦》后又一力作，用清醒犀利的笔锋刺破投资迷思。10年心血，100个 问题，再探资深投资者的悟道之路。 ) (青泽) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "page_count": 224,
+  "intro_sections": [
+    {
+      "id": "intro01",
+      "title": "推荐序（一） 期货投资的术与道——从《十年一梦》到《澄明之境》",
+      "start_page": 7,
+      "end_page": 12
+    },
+    {
+      "id": "intro02",
+      "title": "推荐序（二） 一个进阶者走过的路",
+      "start_page": 13,
+      "end_page": 16
+    },
+    {
+      "id": "intro03",
+      "title": "前言 体悟金融市场的“炼金”之路",
+      "start_page": 17,
+      "end_page": 27
+    }
+  ],
+  "chapters": [
+    {
+      "id": "ch01",
+      "sequence_no": "01",
+      "source_part": "正文",
+      "original_label": "第一章 我的投资人生",
+      "title": "我的投资人生",
+      "full_title": "第01章 我的投资人生",
+      "start_page": 28,
+      "end_page": 60,
+      "opener_page": 28,
+      "reference_pages": [
+        28,
+        39,
+        55
+      ]
+    },
+    {
+      "id": "ch02",
+      "sequence_no": "02",
+      "source_part": "正文",
+      "original_label": "第二章 投资市场需要哲学智慧",
+      "title": "投资市场需要哲学智慧",
+      "full_title": "第02章 投资市场需要哲学智慧",
+      "start_page": 61,
+      "end_page": 97,
+      "opener_page": 61,
+      "reference_pages": [
+        61,
+        72,
+        94
+      ]
+    },
+    {
+      "id": "ch03",
+      "sequence_no": "03",
+      "source_part": "正文",
+      "original_label": "第三章 投资理论",
+      "title": "投资理论",
+      "full_title": "第03章 投资理论",
+      "start_page": 98,
+      "end_page": 123,
+      "opener_page": 98,
+      "reference_pages": [
+        98,
+        110,
+        121
+      ]
+    },
+    {
+      "id": "ch04",
+      "sequence_no": "04",
+      "source_part": "正文",
+      "original_label": "第四章 投资风险和心态",
+      "title": "投资风险和心态",
+      "full_title": "第04章 投资风险和心态",
+      "start_page": 124,
+      "end_page": 150,
+      "opener_page": 124,
+      "reference_pages": [
+        124,
+        135,
+        148
+      ]
+    },
+    {
+      "id": "ch05",
+      "sequence_no": "05",
+      "source_part": "正文",
+      "original_label": "第五章 投资思路与策略",
+      "title": "投资思路与策略",
+      "full_title": "第05章 投资思路与策略",
+      "start_page": 151,
+      "end_page": 179,
+      "opener_page": 151,
+      "reference_pages": [
+        151,
+        165,
+        176
+      ]
+    },
+    {
+      "id": "ch06",
+      "sequence_no": "06",
+      "source_part": "正文",
+      "original_label": "第六章 投资信仰",
+      "title": "投资信仰",
+      "full_title": "第06章 投资信仰",
+      "start_page": 180,
+      "end_page": 219,
+      "opener_page": 180,
+      "reference_pages": [
+        180,
+        197,
+        214
+      ]
+    }
+  ],
+  "wrap_up_sections": [
+    {
+      "id": "wrap01",
+      "title": "后记",
+      "start_page": 220,
+      "end_page": 224
+    }
+  ],
+  "static_page_renders": [
+    {
+      "name": "book_cover_page",
+      "page": 2
+    },
+    {
+      "name": "book_toc_page",
+      "page": 6
+    }
+  ]
+}

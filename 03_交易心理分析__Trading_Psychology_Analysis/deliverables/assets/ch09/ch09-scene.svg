@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#FBF8FD"/>
+
+    <defs>
+      <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#FBF8FD"/>
+        <stop offset="100%" stop-color="#E6DDEA"/>
+      </linearGradient>
+      <linearGradient id="hill" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#6D597A"/>
+        <stop offset="100%" stop-color="#F4A261"/>
+      </linearGradient>
+    </defs>
+    <rect width="1600" height="900" fill="url(#sky)"/>
+    <circle cx="1320" cy="110" r="64" fill="#ffffff" opacity="0.6"/>
+    <path d="M0 640 C220 540 430 760 620 650 C760 570 860 520 980 600 C1140 710 1290 650 1600 570 L1600 900 L0 900 Z" fill="url(#hill)" opacity="0.22"/>
+    <rect x="96" y="92" width="620" height="716" rx="44" fill="#ffffff" opacity="0.82"/>
+    <text x="146" y="180" font-size="58" font-family="Microsoft YaHei" font-weight="700" fill="#3F3046">第 9 章</text>
+    <text x="146" y="250" font-size="44" font-family="Microsoft YaHei" font-weight="700" fill="#243b53">脑中看不见的轨道</text>
+    <rect x="150" y="320" width="460" height="220" rx="28" fill="#E6DDEA" opacity="0.95"/>
+    <circle cx="250" cy="408" r="66" fill="#6D597A"/>
+    <rect x="205" y="476" width="92" height="146" rx="26" fill="#6D597A"/>
+    <rect x="330" y="350" width="240" height="170" rx="18" fill="#ffffff" stroke="#F4A261" stroke-width="6"/>
+    <line x1="330" y1="398" x2="570" y2="398" stroke="#F4A261" stroke-width="6"/>
+    <path d="M364 443 L424 404 L483 446 L533 414" stroke="#6D597A" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    
+        <rect x="150" y="610" width="190" height="62" rx="20" fill="#ffffff" opacity="0.92"/>
+        <text x="245" y="649" text-anchor="middle" font-size="28" font-family="Microsoft YaHei" fill="#243b53">轨道</text>
+        <rect x="380" y="610" width="190" height="62" rx="20" fill="#ffffff" opacity="0.92"/>
+        <text x="475" y="649" text-anchor="middle" font-size="28" font-family="Microsoft YaHei" fill="#243b53">默认路径</text>
+        <rect x="150" y="704" width="190" height="62" rx="20" fill="#ffffff" opacity="0.92"/>
+        <text x="245" y="743" text-anchor="middle" font-size="28" font-family="Microsoft YaHei" fill="#243b53">旧故事</text>
+        <rect x="380" y="704" width="190" height="62" rx="20" fill="#ffffff" opacity="0.92"/>
+        <text x="475" y="743" text-anchor="middle" font-size="28" font-family="Microsoft YaHei" fill="#243b53">真相</text>
+    <rect x="820" y="180" width="650" height="360" rx="40" fill="#ffffff" opacity="0.92" stroke="#6D597A" stroke-width="6"/>
+    <text x="930" y="280" font-size="34" font-family="Microsoft YaHei" fill="#1f2933">信念像一条看不见的轨道。车开在轨道上久了，</text><text x="930" y="328" font-size="34" font-family="Microsoft YaHei" fill="#1f2933">会误以为世界本来就只有这一条路。</text>
+    <rect x="880" y="610" width="520" height="150" rx="34" fill="#6D597A" opacity="0.12"/>
+    <text x="920" y="670" font-size="36" font-family="Microsoft YaHei" font-weight="700" fill="#3F3046">本章主线</text>
+    <text x="920" y="722" font-size="30" font-family="Microsoft YaHei" fill="#1f2933">第 9 章向下挖到信念本身。作者解释信念怎么形成、怎么在生活里影响选择，以及为什么‘信念不等于真相’这个结论对交易者至关重要。</text>
+  
+</svg>

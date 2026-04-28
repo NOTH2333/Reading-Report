@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#FFFDF4"/>
+
+    <text x="110" y="100" font-size="46" font-family="Microsoft YaHei" font-weight="700" fill="#866A1C">误区与修正</text>
+    <text x="110" y="145" font-size="28" font-family="Microsoft YaHei" fill="#486581">把“听上去很像对的话”翻回书里真正的意思。</text>
+    
+      <rect x="110" y="180" width="580" height="136" rx="28" fill="#FEE2E2"/>
+      <rect x="810" y="180" width="580" height="136" rx="28" fill="#DCFCE7"/>
+      <text x="155" y="220" font-size="26" font-family="Microsoft YaHei" font-weight="700" fill="#991B1B">常见误区</text>
+      <text x="855" y="220" font-size="26" font-family="Microsoft YaHei" font-weight="700" fill="#166534">作者真正想说</text>
+      <text x="175" y="252" font-size="28" font-family="Microsoft YaHei" fill="#7f1d1d">概率思维就是降低要求，不追求看准。</text>
+      <text x="865" y="252" font-size="28" font-family="Microsoft YaHei" fill="#14532d">概率思维不是放弃标准，而是把标准从单笔正确，</text><text x="865" y="286" font-size="28" font-family="Microsoft YaHei" fill="#14532d">升级为长期按优势执行。</text>
+      <path d="M710 248 L790 248" stroke="#E9C46A" stroke-width="8" stroke-linecap="round"/>
+      <path d="M772 226 L798 248 L772 270" fill="none" stroke="#E9C46A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="110" y="370" width="580" height="136" rx="28" fill="#FEE2E2"/>
+      <rect x="810" y="370" width="580" height="136" rx="28" fill="#DCFCE7"/>
+      <text x="155" y="410" font-size="26" font-family="Microsoft YaHei" font-weight="700" fill="#991B1B">常见误区</text>
+      <text x="855" y="410" font-size="26" font-family="Microsoft YaHei" font-weight="700" fill="#166534">作者真正想说</text>
+      <text x="175" y="442" font-size="28" font-family="Microsoft YaHei" fill="#7f1d1d">我已经有优势了，所以我应该常常赢。</text>
+      <text x="865" y="442" font-size="28" font-family="Microsoft YaHei" fill="#14532d">优势只在足够多样本里显形。要求它每次都发光，</text><text x="865" y="476" font-size="28" font-family="Microsoft YaHei" fill="#14532d">会迫使你破坏样本。</text>
+      <path d="M710 438 L790 438" stroke="#E9C46A" stroke-width="8" stroke-linecap="round"/>
+      <path d="M772 416 L798 438 L772 460" fill="none" stroke="#E9C46A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="110" y="560" width="580" height="136" rx="28" fill="#FEE2E2"/>
+      <rect x="810" y="560" width="580" height="136" rx="28" fill="#DCFCE7"/>
+      <text x="155" y="600" font-size="26" font-family="Microsoft YaHei" font-weight="700" fill="#991B1B">常见误区</text>
+      <text x="855" y="600" font-size="26" font-family="Microsoft YaHei" font-weight="700" fill="#166534">作者真正想说</text>
+      <text x="175" y="632" font-size="28" font-family="Microsoft YaHei" fill="#7f1d1d">情绪是交易的一部分，没法管。</text>
+      <text x="865" y="632" font-size="28" font-family="Microsoft YaHei" fill="#14532d">情绪会出现，但情绪风险可以被大幅降低，</text><text x="865" y="666" font-size="28" font-family="Microsoft YaHei" fill="#14532d">前提是你真的接受概率与风险。</text>
+      <path d="M710 628 L790 628" stroke="#E9C46A" stroke-width="8" stroke-linecap="round"/>
+      <path d="M772 606 L798 628 L772 650" fill="none" stroke="#E9C46A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  
+</svg>

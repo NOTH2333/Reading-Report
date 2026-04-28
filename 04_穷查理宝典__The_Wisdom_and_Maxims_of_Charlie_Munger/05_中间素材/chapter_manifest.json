@@ -1,0 +1,101 @@
+{
+  "book_title": "穷查理宝典：查理·芒格智慧箴言录",
+  "pdf_path": "C:\\Users\\霓\\Downloads\\Documents\\穷查理宝典：查理·芒格智慧箴言录 (查理·芒格) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "page_count": 984,
+  "chapters": [
+    {
+      "id": "ch01",
+      "number": "01",
+      "title": "查理·芒格传略",
+      "full_title": "第一章 查理·芒格传略",
+      "start_page": 52,
+      "end_page": 146,
+      "opener_page": 52,
+      "reference_pages": [
+        52,
+        53,
+        97,
+        122
+      ]
+    },
+    {
+      "id": "ch02",
+      "number": "02",
+      "title": "芒格的生活、学习和决策方法",
+      "full_title": "第二章 芒格的生活、学习和决策方法",
+      "start_page": 147,
+      "end_page": 205,
+      "opener_page": 147,
+      "reference_pages": [
+        147,
+        150,
+        162,
+        184
+      ]
+    },
+    {
+      "id": "ch03",
+      "number": "03",
+      "title": "芒格主义：查理的即席谈话",
+      "full_title": "第三章 芒格主义：查理的即席谈话",
+      "start_page": 206,
+      "end_page": 317,
+      "opener_page": 206,
+      "reference_pages": [
+        206,
+        225,
+        253,
+        291
+      ]
+    },
+    {
+      "id": "ch04",
+      "number": "04",
+      "title": "查理十一讲",
+      "full_title": "第四章 查理十一讲",
+      "start_page": 318,
+      "end_page": 886,
+      "opener_page": 318,
+      "reference_pages": [
+        318,
+        322,
+        349,
+        437,
+        538,
+        574,
+        658,
+        808
+      ]
+    },
+    {
+      "id": "ch05",
+      "number": "05",
+      "title": "文章、报道与评论",
+      "full_title": "第五章 文章、报道与评论",
+      "start_page": 887,
+      "end_page": 953,
+      "opener_page": 887,
+      "reference_pages": [
+        887,
+        893,
+        901,
+        939,
+        945
+      ]
+    }
+  ],
+  "static_page_renders": [
+    {
+      "name": "book_cover_page",
+      "page": 2
+    },
+    {
+      "name": "book_toc_page",
+      "page": 3
+    },
+    {
+      "name": "book_year_chronology_page",
+      "page": 972
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "book_id": "echo_of_genius",
+  "title": "《天才的回声》",
+  "source_pdf": "G:\\OBSIDIAN\\天才的回声：经济学大师与他们塑造的世界 ([美]拖德·布赫霍尔茨) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "page_count": 206,
+  "chapters": [
+    {
+      "id": "ch01",
+      "sequence_no": "01",
+      "source_part": "开场",
+      "original_label": "第一章 经济学家的坏名声由何而来？",
+      "title": "经济学家的坏名声由何而来",
+      "start_page": 8,
+      "end_page": 12
+    },
+    {
+      "id": "ch02",
+      "sequence_no": "02",
+      "source_part": "古典经济学",
+      "original_label": "第二章 亚当·斯密：自由市场与“看不见的手”",
+      "title": "亚当·斯密：自由市场与看不见的手",
+      "start_page": 13,
+      "end_page": 31
+    },
+    {
+      "id": "ch03",
+      "sequence_no": "03",
+      "source_part": "古典经济学",
+      "original_label": "第三章 马尔萨斯：一个悲观的人口预言",
+      "title": "马尔萨斯：一个悲观的人口预言",
+      "start_page": 32,
+      "end_page": 46
+    },
+    {
+      "id": "ch04",
+      "sequence_no": "04",
+      "source_part": "古典经济学",
+      "original_label": "第四章 大卫·李嘉图：最富裕的经济学奇才",
+      "title": "大卫·李嘉图：最富裕的经济学奇才",
+      "start_page": 47,
+      "end_page": 59
+    },
+    {
+      "id": "ch05",
+      "sequence_no": "05",
+      "source_part": "古典经济学",
+      "original_label": "第五章 约翰·穆勒：大多数人的幸福捍卫者",
+      "title": "约翰·穆勒：大多数人的幸福捍卫者",
+      "start_page": 60,
+      "end_page": 73
+    },
+    {
+      "id": "ch06",
+      "sequence_no": "06",
+      "source_part": "古典经济学批判",
+      "original_label": "第六章 卡尔·马克思：愤怒的神谕",
+      "title": "卡尔·马克思：愤怒的神谕",
+      "start_page": 74,
+      "end_page": 89
+    },
+    {
+      "id": "ch07",
+      "sequence_no": "07",
+      "source_part": "新古典转向",
+      "original_label": "第七章 阿尔弗雷德·马歇尔：经济学有自己独特的时间表",
+      "title": "阿尔弗雷德·马歇尔：经济学有自己独特的时间表",
+      "start_page": 90,
+      "end_page": 105
+    },
+    {
+      "id": "ch08",
+      "sequence_no": "08",
+      "source_part": "制度经济学",
+      "original_label": "第八章 从凡勃伦到科斯：事关社会与法律制度的经济学",
+      "title": "从凡勃伦到科斯：事关社会与法律制度的经济学",
+      "start_page": 106,
+      "end_page": 121
+    },
+    {
+      "id": "ch09",
+      "sequence_no": "09",
+      "source_part": "宏观经济学",
+      "original_label": "第九章 梅纳德·凯恩斯：带领人们走出大萧条的救世主",
+      "title": "梅纳德·凯恩斯：带领人们走出大萧条的救世主",
+      "start_page": 122,
+      "end_page": 134
+    },
+    {
+      "id": "ch10",
+      "sequence_no": "10",
+      "source_part": "货币主义",
+      "original_label": "第十章 米尔顿·弗里德曼：向凯恩斯宣战的货币主义者",
+      "title": "米尔顿·弗里德曼：向凯恩斯宣战的货币主义者",
+      "start_page": 135,
+      "end_page": 149
+    },
+    {
+      "id": "ch11",
+      "sequence_no": "11",
+      "source_part": "公共选择",
+      "original_label": "第十一章 詹姆斯·布坎南：从经济市场中的个人选择到政治市场中的公共选择",
+      "title": "詹姆斯·布坎南：从经济市场中的个人选择到政治市场中的公共选择",
+      "start_page": 150,
+      "end_page": 166
+    },
+    {
+      "id": "ch12",
+      "sequence_no": "12",
+      "source_part": "当代争论",
+      "original_label": "第十二章 理性和非理性：一个匪夷所思的现实世界",
+      "title": "理性和非理性：一个匪夷所思的现实世界",
+      "start_page": 167,
+      "end_page": 177
+    },
+    {
+      "id": "ch13",
+      "sequence_no": "13",
+      "source_part": "收束",
+      "original_label": "第十三章 穿透乌云的希望之光",
+      "title": "穿透乌云的希望之光",
+      "start_page": 178,
+      "end_page": 205
+    }
+  ]
+}

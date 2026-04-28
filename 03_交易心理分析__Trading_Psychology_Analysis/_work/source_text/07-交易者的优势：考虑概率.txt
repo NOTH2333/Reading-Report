@@ -1,0 +1,1194 @@
+Chapter 7 the trader's edge: thinking in
+probabilities
+第  07 章  交易者的优势：考虑概率
+
+exactly what does it mean to think in probabilities, and why is it so essential
+to one's consistent success as a trader? if you take a moment and analyze
+the last sentence, you will notice that i made consistency a function of
+probabilities. it sounds like a contradiction: how can someone produce
+consistent results from an event that has an uncertain probabilistic
+outcome? to answer this question, all we have to do is look to the gambling
+industry.
+究竟什么是考虑概率，为什么对成为持续⼀致成功交易者很关键？如
+果你花点时间分析最后⼀句，你会注意到我把持续⼀致说成是概率的
+功能。这听起来很⽭盾：⼀个⼈如何从不确定的概率⾥⾯得到持续⼀
+致的结果？要想回答这个问题，我们要看看赌博⾏业。
+corporations spend vast amounts of money, in the hundreds of millions, if
+not billions, of dollars, on elaborate hotels to attract people to their casinos.
+if you've been to las vegas you know exactly what i am talking about.
+gaming corporations are just like other corporations, in that they have to
+justify how they allocate their assets to a board of directors and ultimately
+to their stockholders. how do you suppose they justify spending vast sums
+of money on elaborate hotels and casinos, whose primary function is to
+generate revenue from an event that has a purely random outcome?
+赌场公司会花很多钱，上亿的钱去装修宾馆，以吸引客⼈到赌场。如
+果你去过拉斯维加斯，你就会明⽩我在说什么。赌场公司和其它公司
+⼀样，这么做就可以合理地向董事会和股东说明他们是如何分配资产
+的。他们花了⼤量钱装修宾馆和赌场，如果它们产⽣的收⼊是随机
+的，你会怎么想？
+
+probabilities paradox: random outcome, consistent results
+概率的似⾮⽽是：随机的结果，持续⼀致的收⼊
+here's an interesting paradox. casinos make consistent profits day after day
+and year after year, facilitating an event that has a purely random outcome.
+at the same time, most traders believe that the outcome of the market's
+behavior is not random, yet can't seem to produce consistent profits.
+shouldn't a consistent, nonrandom outcome produce consistent results, and a
+random outcome produce random, inconsistent results?
+这是⼀个有趣的似⾮⽽是。利⽤⼀件随机的事件，赌场可以⽇复⼀
+⽇，年复⼀年地赚到持续⼀致的利润。同时，⼤部分交易者相信市场
+⾏为的结果不是随机的，不能产⽣持续⼀致的利润。是不是持续⼀致
+的，不随机的结果能产⽣持续⼀致的收⼊，随机的结果产⽣随机的，
+不持续⼀致的收⼊？
+what casino owners, experienced gamblers, and the best traders understand
+that the typical trader finds difficult to grasp is: even that have probable
+outcomes can produce consistent results, if you can get the odds in your
+favor and there is a large enough sample size. the best traders treat trading
+like a numbers game, similar to the way in which casinos and professional
+gamblers approach gambling.
+赌场拥有者，有经验的赌徒和最优秀的交易者明⽩的道理，⽽典型的
+交易者很难理解的是：如果你的概率很⼤，且你交易的次数够多，那
+么你有机会产⽣持续⼀致的收⼊。最优秀的交易者把交易当作赌博，
+与赌场和专业赌徒的⽅式⼀样。
+to illustrate, let's look at the game of blackjack. in blackjack, the casinos
+have approximately a 4.5-percent edge over the player, based on the rules
+they require players to adhere to. this means that, over a large enough
+sample size (number of hands played), the casino will generate net profits
+of four and a half cents on every dollar wagered on the game. this average
+of four and a half cents takes into account all the players who walked away
+
+big winners (including all winning streaks), all the players who walked
+away big losers, and everybody in between. at the end of the day, week,
+month, or year, the casino always ends up with approximately 4.5 percent of
+the total amount wagered.
+为了说明这点，请看看扑克牌的 21 点。在 21 点中，赌场的优势⽐玩家
+多 4.5% ，这是游戏规则决定的。这意味着，如果次数够多（玩牌的数
+量），每个牌局赌博下来赌场的净利润是 4.5% 。这个平均 4.5% 的利润
+已经考虑过了所有赚⼤钱并离开的赢家（也考虑了所有的⼩赢家），
+所有亏钱离开的输家，以及所有⼈。每天、每周、每⽉、每年，赌场
+都赚了所有赌资的 4.5% 左右。
+that 4.5 percent might not sound like a lot, but let's put it in perspective.
+suppose a total of $100 million dollars is wagered collectively at all of a
+casino's blackjack tables over the course of a year. the casino will net $4.5
+million.
+4.5% 听起来不多，但是让我们算算。假如⼀年下来，玩 21 点的总赌资
+是 1 个亿。赌场的净利润是 450 万。
+what casino owners and professional gamblers understand about the nature
+of probabilities is that each individual hand played is statistically
+independent of every other hand. this means that each individual hand is a
+unique event, where the outcome is random relative to the last hand played
+or the next hand played. if you focus on each hand individually, there will
+be a random, unpredictable distribution between winning and losing hands.
+but on a collective basis, just the opposite is true. if a large enough number
+of hands is played, patterns will emerge that produce a consistent,
+predictable, and statistically reliable outcome.
+赌场拥有者和专业赌徒都知道每个牌局概率都不⼀样。这意味着每个
+牌局都是独特的，结果是随机的，和前后每个牌局都不⼀样。如果你
+聚焦于每个牌局，结果是随机的，⽆法预测的，不是赢就是输。但是
+
+总体⽽⾔，事实相反。如果赌了很多局，模式就出现了，会产⽣持续
+⼀致、可预测的、统计可靠的结果。
+here's what makes thinking in probabilities so difficult. it requires two
+layers of beliefs that on the surface seem to contradict each other. we'll call
+the first layer the micro level. at this level, you have to believe in the
+uncertainty and unpredictability of each individual hand. you know the truth
+of this uncertainty, because there are always a number of unknown variables
+affecting the consistency of the deck that each new hand is drawn from. for
+example, you can't know in advance how any of the other participants will
+decide to play their hands, since they can either take or decline additional
+cards. any variables acting on the consistency of the deck that can't be
+controlled or known in advance will make the outcome of any particular
+hand both uncertain and random (statistically independent) in relationship
+to any other hand.
+这显得概率思考很难。这需要两层⽭盾的信念。第⼀层是微观的。在
+这个层次，你要相信每个牌局是不确定的，是⽆法预测的。你知道不
+确定这个事实，因为不同的牌局总是有⼤量未知的变数在影响持续⼀
+致性。⽐如，你⽆法知道你的对⼿怎么打，因为他们可以拿牌或不拿
+牌。所有影响持续⼀致性的变数是⽆法控制的，也不能提前知道，这
+样就导致每个牌局的结果是不确定的，随机的（统计结果就是相互独
+⽴的）。
+the second layer is the macro level. at this level, you have to believe that the
+outcome over a series of hands played is relatively certain and predictable.
+the degree of certainty is based on the fixed or constant variables that are
+known in advance and specifically designed to give an advantage (edge) to
+one side or the other. the constant variables i am referring to are the rules of
+the game. so, even though you don't or couldn't know in advance (unless
+you are psychic) the sequence of wins to losses, you can be relatively
+certain that if enough hands are played, whoever has the edge will end up
+with more wins than losses. the degree of certainty is a function of how
+good the edge is.
+
+第⼆层是宏观的。在这个层次，你要相信很多牌局打下来，结果是确
+定的，可以预测的。这个确定的程度取决于提前知道其中⼀⽅所占优
+势形成的固定系数。这个固定系数就是游戏规则。所以，即使你不能
+提前知道输赢情况，你也能知道打了⼀定牌局之后的相对确定的东
+⻄，有优势的⼈会赢的多，亏的少。确定的程度取决于优势的⼤⼩。
+it's the ability to believe in the unpredictability of the game at the micro
+level and simultaneously believe in the predictability of the game at the
+macro level that makes the casino and the professional gambler effective
+and successful at what they do. their belief in the uniqueness of each hand
+prevents them from engaging in the pointless endeavor of trying to predict
+the outcome of each individual hand. they have learned and completely
+accepted the fact that they don't know what's going to happen next. more
+important, they don't need to know in order to make money consistently.
+在微观层次相信牌局是⽆法预测的，同时在宏观的层次相信牌局是可
+以预测的，赌场和专业赌徒正是这样才实现了有效的成功。他们相信
+每个牌局是独特的，所以他们不会⽆谓地猜测每个牌局的结果。他们
+已经明⽩，并完全接受了这个事实，他们不知道下⼀步会如何。更重
+要的是，他们不需要知道这些，也能实现持续⼀致地赚钱。
+e to know what's going to happen next, they don't place any special
+significance, emotional or otherwise, on each individual hand, spin of the
+wheel, or roll of the dice. in other words, they're not encumbered by
+unrealistic expectations about what is going to happen, nor are their egos
+involved in a way that makes them have to be right. as a result, it's easier to
+stay focused on keeping the odds in their favor and executing flawlessly,
+which in turn makes them less susceptible to making costly mistakes. they
+stay relaxed because they are committed and willing to let the probabilities
+(their edges) play themselves out, all the while knowing that if their edges
+are good enough and the sample sizes are big enough, they will come out
+net winners.
+
+因为他们没有必要知道下⼀步会如何，他们不会对每⼀次机会或掷⾊
+⼦有特定的感情。换句话说，他们不会有不切实际的想法，也不会为
+了⾃尊⽽证明⾃⼰必须正确。结果是，聚焦于保持概率，认真地执
+⾏，这样他们就不会犯⼤错误。他们轻松是因为他们知道概率（他们
+的优势）会⾃⼰⼯作，他们知道只要⾃⼰的优势还在，只要牌局够
+多，他们最终⼀定是赢家。
+the best traders use the same thinking strategy as the casino and
+professional gambler. not only does it work to their benefit, but the
+underlying dynamics supporting the need for such a strategy are exactly the
+same in trading as they are in gambling. a simple comparison between the
+two will demonstrate this quite clearly.
+最优秀的交易者使⽤同样的思想策略。和赌博⼀样，不但有好处，内
+在的策略都是⼀样。简单⽐较⼀下，就能清楚地说明这点。
+first, the trader, the gambler, and the casino are all dealing with both known
+and unknown variables that affect the outcome of each trade or gambling
+event. in gambling, the known variables are the rules of the game. in
+trading, the known variables (from each individual trader's perspective) are
+the results of their market analysis.
+⾸先，交易者、赌徒和赌场都是在处理已知和未知的变数，这些变数
+会影响交易或赌博的结果。赌博时，他们知道变数就是游戏规则。交
+易时，已知的变数（每个交易者观点不同）是市场分析的结果。
+market analysis finds behavior patterns in the collective actions of everyone
+participating in a market. we know that individuals will act the same way
+under similar situations and circumstances, over and over again, producing
+observable patterns of behavior. by the same token, groups of individuals
+interacting with one another, day after day, week after week, also produce
+behavior patterns that repeat themselves.
+
+市场分析寻找市场⼤众的集体⾏为模式。我们知道，在同样的状况
+下，同样的交易者会⼀次⼜⼀次地进⾏同样的操作，结果是显⽽易⻅
+的。同理，每天，每周，同样的群体会反复交涉，导致的⾏为模式也
+会不断重复。
+these collective behavior patterns can be discovered and subsequently
+identified by using analytical tools such as trend lines, moving averages,
+oscillators, or retracements, just to name a few of the thousands that are
+available to any trader. each analytical tool uses a set of criteria to define
+the boundaries of each behavior pattern identified. the set of criteria and the
+boundaries identified are the trader's known market variables. they are to
+the individual trader what the rules of the game are to the casino and
+gambler. by this i mean, the trader's analytical tools are the known variables
+that put the odds of success (the edge) for any given trade in the trader's
+favor, in the same way that the rules of the game put the odds of success in
+favor of the casino.
+有⼏千种⼯具，⽐如趋势线、均线、振荡指标或反弹线，它们都可以
+发现并确认这些集体的⾏为模式。每个分析⼯具的参数不⼀样，定义
+的范围也不同。这些参数和定义的范围就是交易者已知的市场变数。
+就像赌场的规则⼀样，它们就是交易者个⼈的规则。对于交易者来
+说，这些分析⼯具就是已知的变数，帮交易者增加成功的概率（优
+势），同理，赌场⽤⾃⼰的概率成功。
+second, we know that in gambling a number of unknown variables act on
+the outcome of each game. in blackjack, the unknowns are the shuffling of
+the deck and how the players choose to play their hands. in craps, it's how
+the dice are thrown. and in roulette, it's the amount of force applied to spin
+the wheel. all these unknown variables act as forces on the outcome of each
+individual event, in a way that causes each event to be statistically
+independent of any other individual event, thereby creating a random
+distribution between wins and losses.
+
+第⼆，我们知道每个牌局都有⼀些未知的变数。在 21 点中，未知的是
+洗牌的⽅式和玩家如何拿牌。简单说就是如何掷⾊⼦。在轮盘赌中，
+未知的变数是转动轮盘的⼒量。所有这些未知的变数影响每个赌局的
+结果，这样从统计的⾓度来说，每个赌局的结果互不相⼲，这样输赢
+就是随机的。
+trading also involves a number of unknown variables that act on the
+outcome of any particular behavior pattern a trader may identify and use as
+his edge. in trading, the unknown variables are all other traders who have
+the potential to come into the market to put on or take off a trade. each trade
+contributes to the market's position at any given moment, which means that
+each trader, acting on a belief about what is high and what is low,
+contributes to the collective behavior pattern that is displayed at that
+moment.
+交易者会把⼀些未知的变数看成是他们的优势。交易时，未知变数可
+能会导致其它交易者进场或出场。每个交易者都对市场的点位做了贡
+献，这意味着，不同的⼈对⾼低看法不同，导致了现在市场的集体⾏
+为模式。
+if there is a recognizable pattern, and if the variables used to define that
+pattern conform to a particular trader's definition of an edge, then we can
+say that the market is offering the trader an opportunity to buy low or sell
+high, based on the trader's definition. suppose the trader seizes the
+opportunity to take advantage of his edge and puts on a trade. what factors
+will determine whether the market unfolds in the direction of his edge or
+against it? the answer is: the behavior of other traders!
+如果模式是明显的，如果变数定义的模式和某个交易者认为的优势⼀
+致，那么可以说市场给这位交易者提供了⼀个买卖机会，具体是买还
+是卖，要看这个交易者的定义如何。假如这个交易者抓住了机会并建
+仓了。什么因素会决定市场对他有利或不利？答案是：其他交易者的
+⾏为！
+
+at the moment he puts a trade on, and for as long as he chooses to stay in
+that trade, other traders will be participating in that market. they will be
+acting on their beliefs about what is high and what is low. at any given
+moment, some percentage of other traders will contribute to an outcome
+favorable to our traders edge, and the participation of some percentage of
+traders will negate his edge. there's no way to know in advance how
+everyone else is going to behave and how their behavior will affect his
+trade, so the outcome of the trade is uncertain. the fact is, the outcome of
+every (legal) trade that anyone decides to make is affected in some way by
+the subsequent behavior of other traders participating in that market,
+making the outcome of all trades uncertain.
+当他建仓，并持有仓位时，其他交易者也在市场中。他们会根据⾃⼰
+对⾼低的认识做交易。任何时刻，都有⼀些交易者给这位交易者制造
+优势，还有⼀些交易者会给他制造劣势。⽆法提前知道每个⼈的⾏
+为，也不知道他们的⾏为对交易有什么影响，所以每笔交易的结果是
+不确定的。事实是，每笔交易都会收到别⼈交易的影响，导致所有交
+易的结果都是不确定的。
+since all trades have an uncertain outcome, then like gambling, each trade
+has to be statistically independent of the next trade, the last trade, or any
+trades in the future, even though the trader may use the same set of known
+variables to identify his edge for each trade. furthermore, if the outcome of
+each individual trade is statistically independent of every other trade, there
+must also be a random distribution between wins and losses in any given
+string or set of trades, even though the odds of success for each individual
+trade may be in the traders favor.
+因为所有的交易都没有确定的结果，那么就和赌博类似，每笔交易都
+是相对独⽴的，即使⽤同样的已知变数来确定每笔的优势，结果也是
+不确定的。还有，如果每笔交易的结果都是相对独⽴的，即使每笔交
+易对交易者来说是占优势的，每笔交易的输赢⼀定有⼀个随机的分
+布。
+
+third, casino owners don't try to predict or know in advance the outcome of
+each individual event. aside from the fact that it would be extremely
+difficult, given all the unknown variables operating in each game, it isn't
+necessary to create consistent results. casino operators have learned that all
+they have to do is keep the odds in their favor and have a large enough
+sample size of events so that their edges have ample opportunity to work.
+第三，赌场拥有者不必去预测或提前知道每个赌局的结果。不谈这么
+做的超级难度，即使考虑了每个赌局的所有未知变数，也不⼀定能产
+⽣持续⼀致的结果。赌场拥有者已经明⽩了，只要对他们有利的概率
+不变，只要赌局的次数够多，他们就有优势。
+trading in the moment
+有机会就交易
+traders who have learned to think in probabilities approach the markets
+from virtually the same perspective. at the micro level, they believe that
+each trade or edge is unique. what they understand about the nature of
+trading is that at any given moment, the market may look exactly the same
+on a chart as it did at some previous moment; and the geometric
+measurements and mathematical calculations used to determine each edge
+can be exactly the same from one edge to the next; but the actual
+consistency of the market itself from one moment to the next is never the
+same.
+交易者学习了这种概率的思考⽅法，就会⽤这种⽅法认知市场。在微
+观层次，他们相信每笔交易或优势都是独特的。他们明⽩，在任何时
+刻，市场看起来就和以前图标上的⼀样，每次计算优势的⼏何和数学
+⽅法也是⼀样的，但实际的结果却永远不⼀样。
+for any particular pattern to be exactly the same now as it was in some
+previous moment would require that every trader who participated in that
+previous moment be present. what's more, each of them would also have to
+interact with one another in exactly the same way over some period of time
+
+to produce the exact same outcome to whatever pattern was being observed.
+the odds of that happening are nonexistent.
+现在出现的任何模式和过去的模式⼀模⼀样，这需要过去参与的交易
+者再次参与。⽽且，不管是什么模式，在⼀段时间内，每个交易者互
+相交涉，⽅法和过去⼀样，结果也⼀样。这样的概率不存在。
+it is extremely important that you understand this phenomenon because the
+psychological implications for your trading couldn't be more important. we
+can use all the various tools to analyze the market's behavior and find the
+patterns that represent the best edges, and from an analytical perspective,
+these patterns can appear to be precisely the same in every respect, both
+mathematically and visually. but, if the consistency of the group of traders
+who are creating the pattern "now" is different by even one person from the
+group that created the pattern in the past, then the outcome of the current
+pattern has the potential to be different from the past pattern. (the example
+of the analyst and chairman illustrates this point quite well.) it takes only
+one trader, somewhere in the world, with a different belief about the future
+to change the outcome of any particular market pattern and negate the edge
+that pattern represents.
+理解这个现象很重要，因为交易⼼理暗⽰很重要。我们可以⽤各种⼯
+具分析市场⾏为，且发现了优势，从分析的⾓度来看，这个优势和过
+去的优势是⼀样的，⽆论是⽤数字计算，还是眼观，优势都是⼀样
+的。但是，如果每个交易者这次的⾏为和以前不⼀样，那么结果也有
+可能不⼀样（分析师和主席的案例能很好地说明这点）。只要有⼀个
+交易者，不管他在哪⾥，只要他对未来的信念发⽣了变化，他就会改
+变市场模式的结果，让优势不复存在。
+the most fundamental characteristic of the market's behavior is that each
+"now moment" market situation, each "now moment" behavior pattern, and
+each "now moment" edge is always a unique occurrence with its own
+outcome, independent of all others. uniqueness implies that anything can
+happen, either what we know (expect or anticipate), or what we don't know
+(or can't know, unless we had extraordinary perceptual abilities). a constant
+
+flow of both known and unknown variables creates a probabilistic
+environment where we don't know for certain what will happen next.
+市场⾏为的最基本特点是，每个 " 现在的 " 状况，每个 " 现在的 " ⾏为模
+式，每个 " 现在的 " 优势都是相对独⽴的，结果都会不同。独⽴意味着
+任何事都有可能发⽣，不管是我们知道的（期待或期望的），或我们
+不知道的（或是⽆法知道的，除⾮我们有超级灵感）。持续出现的已
+知和未知变数制造了概率的环境，我们不知道下⼀步会如何。
+this last statement may seem quite logical, even self-evident, but there's a
+huge problem here that is anything but logical or self-evident. being aware
+of uncertainty and understanding the nature of probabilities does not equate
+with an ability to actually function effectively from a probabilistic
+perspective. thinking in probabilities can be difficult to master, because our
+minds don't naturally process information in this manner. quite the contrary,
+our minds cause us to perceive what we know, and what we know is part of
+our past, whereas, in the market, every moment is new and unique, even
+though there may be similarities to something that occurred in the past.
+最后的结论是合理的，甚⾄是不⾔⽽喻的，但是有个⼤问题，并不是
+任何事都是合理的或不⾔⽽喻的。承认不确定性和知道概率的含义，
+并不等于能有效地⾏动。概率⾮常难理解，因为我们的思想⼀般不会
+处理这些信息。相反，我们的思想只认识所知道的东⻄，包括过去知
+道的，即使是和过去相似的东⻄也会记住。
+this means that unless we train our minds to perceive the uniqueness of each
+moment, that uniqueness will automatically be filtered out of our
+perception. we will perceive only what we know, minus any information
+that is blocked by our fears; everything else will remain invisible. the
+bottom line is that there is some degree of sophistication to thinking in
+probabilities, which can take some people a considerable amount of effort
+to integrate into their mental systems as a functional thinking strategy. most
+traders don't fully understand this; as a result, they mistakenly assume they
+are thinking in probabilities, because they have some degree of
+understanding of the concepts.
+
+这意味着，如果我们不训练我们的思想认识独特性，那么独特性就会
+被⾃动地从我们的认知中过滤掉。我们只会看⻅我们知道的东⻄，还
+要减去被恐惧所阻挡的信息，其它东⻄我们都看不⻅。简单地说，概
+率很难理解，如果要把概率融于⼀个⼈的思想策略，确实要花很多精
+⼒。⼤部分交易者都不是很理解。结果是，他们以为他们懂概率，但
+其实不懂，因为他们只是懂⼀些概念。
+i've worked with hundreds of traders who mistakenly assumed they thought
+in probabilities, but didn't. here is an example of a trader i worked with
+whom i'll call bob. bob is a certified trading advisor (cta) who manages
+approximately $50 million in investments. he's been in the business for
+almost 30 years. he came to one of my workshops because he was never
+able to produce more than a 12- to 18-percent annual return on the accounts
+he managed. this was an adequate return, but bob was extremely dissatisfied
+because his analytical abilities suggested that he should be achieving an
+annual return of 150 to 200 percent.
+我和⼏百个交易者沟通过，他们错误地以为他们⽤概率思考，但其实
+没有。我有个案例，他叫鲍伯。鲍伯是注册交易顾问，他管理的投资
+有 5000 万。他已经做了快 30 年了。他去我的⼯作室找我，因为他⽆法
+实现 12--18% 的年收益。这个收益不错，但鲍伯不满意，因为他的分析
+能⼒说明他的年收益应该是 150--200% 。
+i would describe bob as being well-versed in the nature of probabilities. in
+other words, he understood the concepts, but he didn't function from a
+probabilistic perspective. shortly after attending the workshop, he called to
+ask me for some advice. here is the entry from my journal written
+immediately after that phone conversation.
+应该说鲍伯⾮常精通概率。换句话说，他知道这个概念，但是他的操
+作和概率⽆关。他去了我的⼯作室之后不久，他打电话给我，叫我给
+点建议。通完电话以后，我⽴刻做了这些记录。
+
+9-28-95: bob called with a problem. he put on a belly trade and put his stop
+in the market. the market traded about a third of the way to his stop and
+then went back to his entry point, where he decided to bail out of the trade.
+almost immediately after he got out, the bellies went 500 points in the
+direction of this trade, but of course he was out of the market. he didn't
+understand what was going on.
+95 年 9 ⽉ 28 ⽇，鲍伯打电话来，他有问题。他建了⼀个很⼤的仓位，设
+置了⽌损。市场向他的⽌损点前进了三分之⼀，然后⼜回到了进场
+点，此时他觉得要保住⾃⼰的资⾦。当他平仓时，市场涨了 500 点，当
+然了，他没有跟上去。他不明⽩为什么。
+first, i asked him what was at risk. he didn't understand the question. he
+assumed that he had accepted the risk because he put in a stop. i responded
+that just because he put in a stop it didn't mean that he had truly accepted
+the risk of the trade. there are many things that can be at risk: losing money,
+being wrong, not being perfect, etc., depending on one's underlying
+motivation for trading. i pointed out that a person's beliefs are always
+revealed by their actions. we can assume that he was operating out of a
+belief that to be a disciplined trader one has to define the risk and put a stop
+in. and so he did. but a person can put in a stop and at the same time not
+believe that he is going to be stopped out or that the trade will ever work
+against him, for that matter.
+⾸先，我问他什么是⻛险。他不明⽩我在问什么。他认为他接受了⻛
+险，因为下了⽌损单。我回应说，虽然他下了⽌损单，但他并没有真
+正接受⻛险。可能有很多⻛险：亏钱、犯错、不够完美等等，根据每
+个⼈交易的动机不同⽽不同。我指出，⼀个⼈的⾏为总是在反应他的
+信念。我们可以想象他认为⾃⼰是⼀个有纪律的交易者，他衡量了⻛
+险，下了⽌损单。他确实是这么做的。但是，不能下了⽌损单⼜同时
+怀疑⾃⼰要被洗出去是不对的，或者怀疑市场和⾃⼰作对也是不对
+的。
+
+by the way he described the situation, it sounded to me as if this is exactly
+what happened to him. when he put on the trade, he didn't believe he would
+be stopped out. nor did he believe the market would trade against him. in
+fact, he was so adamant about this, that when the market came back to his
+entry point, he got out of the trade to punish the market with an "i'll show
+you" attitude for even going against him by one tic.
+当他描述他的状况时，情况就是这样。当他建仓时，他不相信⾃⼰会
+被洗出去。也不相信市场在和他作对。实际上，他很固执，当市场回
+到他的进场点时，他平仓了，想惩罚市场，因为市场和他作对了。
+after i pointed this out to him, he said this was exactly the attitude he had
+when he took off the trade. he said that he had been waiting for this
+particular trade for weeks and when the market finally got to this point, he
+thought it would immediately reverse. i responded by reminding him to
+look at the experience as simply pointing the way to something that he
+needs to learn. a prerequisite for thinking in probabilities is that you accept
+the risk, because if you don't, you will not want to face the possibilities that
+you haven't accepted, if and when they do present themselves.
+当我指出来之后，他说他平仓时确实是这么想的。他说他等这个机会
+等了⼏周，当机会到来时，他以为市场会⽴刻反转。我提醒他要学习
+这⽅⾯的体验。概率思考的前提是接受⻛险，因为如果你不接受⻛
+险，当⻛险发⽣时，你就不愿意⾯对⻛险。
+when you've trained your mind to think in probabilities, it means you have
+fully accepted all the possibilities (with no internal resistance or conflict)
+and you always do something to take the unknown forces into account.
+thinking this way is virtually impossible unless you've done the mental
+work necessary to "let go" of the need to know what is going to happen next
+or the need to be right on each trade. in fact, the degree by which you think
+you know, assume you know, or in any way need to know what is going to
+happen next, is equal to the degree to which you will fail as a trader.
+
+⼀旦你训练你的思想思考概率，你就完全接受了概率（不会有内在的
+阻⼒或冲突），你就会综合考虑未知因素。做到这点不容易，你不能
+⽼是想下⼀步会如何，你不能总是想⾃⼰要如何做到正确。实际上，
+下⼀步会如何，不管你以为你知道多少，都等于你会失败。
+traders who have learned to think in probabilities are confident of their
+overall success, because they commit themselves to taking every trade that
+conforms to their definition of an edge. they don't attempt to pick and
+choose the edges they think, assume, or believe are going to work and act
+on those; nor do they avoid the edges that for whatever reason they think,
+assume, or believe aren't going to work. if they did either of those things,
+they would be contradicting their belief that the "now" moment situation is
+always unique, creating a random distribution between wins and losses on
+any given string of edges. they have learned, usually quite painfully, that
+they don't know in advance which edges are going to work and which ones
+aren't. they have stopped trying to predict outcomes. they have found that
+by taking every edge, they correspondingly increase their sample size of
+trades, which in turn gives whatever edge they use ample opportunity to
+play itself out in their favor, just like the casinos.
+学习概率思想的交易者对成功是有信⼼的，因为他们愿意去抓住⾃⼰
+定义的优势。他们不会去挑选他们以为有⽤的机会，也不会避免他们
+以为没⽤的机会。如果他们这么做了，他们就违反了这个信念， " 现
+在 " 是独特的，对于任何机会，它产⽣的输赢结果都是随机的。他们痛
+苦地学习并明⽩了，任何优势都⽆法提前知道有⽤还是没⽤。他们不
+再预测结果。他们发现只要抓住每个优势，多次交易，最终都会赚
+钱，和赌场⼀样。
+on the other hand, why do you think unsuccessful traders are obsessed with
+market analysis. they crave the sense of certainty that analysis appears to
+give them. although few would admit it, the truth is that the typical trader
+wants to be right on every single trade. he is desperately trying to create
+certainty where it just doesn't exist. the irony is that if he completely
+accepted the fact that certainty doesn't exist, he would create the certainty
+he craves: he would be absolutely certain that certainty doesn't exist.
+
+相反，为何你认为不成功的交易者总是在分析市场。他们渴望分析的
+确定性。虽然只有少数⼈会承认，典型的交易者希望⾃⼰每笔交易都
+对。他极度希望制造并不存在的确定性。讽刺的是，如果他完全相信
+确定性不存在，他就制造他⾃⼰渴望的确定性：他必须绝对地确定确
+定性不存在。
+when you achieve complete acceptance of the uncertainty of each edge and
+the uniqueness of each moment, your frustration with trading will end.
+furthermore, you will no longer be susceptible to making all the typical
+trading errors that detract from your potential to be consistent and destroy
+your sense of self-confidence. for example not defining the risk before
+getting into a trade is by far the most common of all trading errors, and
+starts the whole process of trading from an inappropriate perspective. in
+light of the fact that anything can happen, wouldn't it make perfect sense to
+decide before executing a trade what the market has to look, sound, or feel
+like to tell you your edge isn't working? so why doesn't the typical trader
+decide to do it or do it every single time?
+⼀旦你接受了不确定性，你交易时的挫折感就消失了。⽽且，你不再
+犯错，也不会失去信⼼。⽐如，在交易前不衡量⻛险是最普遍的错
+误，交易思想就错了。既然任何事都会发⽣，那么在交易前决定什么
+是你的优势是不是很完美呢？那么，为什么典型的交易者总是犯错？
+i have already given you the answer in the last chapter, but there's more to it
+and there's also some tricky logic involved, but the answer is simple. the
+typical trader won't predefine the risk of getting into a trade because he
+doesn't believe it's necessary. the only way he could believe "it isn't
+necessary" is if he believes he knows what's going to happen next. the
+reason he believes he knows what's going to happen next is because he
+won't get into a trade until he is convinced that he's right. at the point where
+he's convinced the trade will be a winner, it's no longer necessary to define
+the risk (because if he's right, there is no risk).
+上⼀章已经给出了答案，但是还有更多的东⻄要讲，但是答案是简单
+的。典型的交易者不提前衡量⻛险是因为他觉得没有必要。既然他知
+
+道结果是什么，他就认为衡量⻛险是没有必要的。因为如果他不确信
+他是对的，他是不会交易的。他确信他是赢家，所以没有必要衡量⻛
+险（因为如果他是对的，那么就没有⻛险）。
+typical traders go through the exercise of convincing themselves that they're
+right before they get into a trade, because the alternative (being wrong) is
+simply unacceptable. remember that our minds are wired to associate. as a
+result, being wrong on any given trade has the potential to be associated
+with any (or every) other experience in a trader's life where he's been
+wrong. the implication is that any trade can easily tap him into the
+accumulated pain of every time he has been wrong in his life. given the
+huge backlog of unresolved, negative energy surrounding what it means to
+be wrong that exists in most people, it's easy to see why each and every
+trade can literally take on the significance of a life or death situation.
+典型的交易者在交易前确认他是对的，因为犯错是不能接受的。记住
+我们的思想是有联想能⼒的。在交易时犯错会和其它⽣活中的错误联
+系在⼀起的。这就是说，任何交易者都会触及到⾃⼰的痛苦。考虑到
+⼤量的未解的，消极的能量存在于⼤部分⼈⾝上，就不难理解为何每
+笔交易都会如此重要或置⼈于死地。
+so, for the typical trader, determining what the market would have to look,
+sound, or feel like to tell him that a trade isn't working would create an
+irreconcilable dilemma. on one hand, he desperately wants to win and the
+only way he can do that is to participate, but the only way he will
+participate is if he's sure the trade will win.
+所以，对于典型的交易者来说，决定什么市场适合交易是⼀个⽆法协
+调的两难处境。另⼀⽅⾯，但极度希望赢，唯⼀的办法就是期待，但
+他期待的⽅法就是这笔交易是否会赢。
+on the other hand, if he defines his risk, he is willfully gathering evidence
+that would negate something he has already convinced himself of. he will
+be contradicting the decision-making process he went through to convince
+himself that the trade will work. if he exposed himself to conflicting
+
+information, it would surely create some degree of doubt about the viability
+of the trade. if he allows himself to experience doubt, it's very unlikely he
+will participate. if he doesn't put the trade on and it turns out to be a winner,
+he will be in extreme agony. for some people, nothing hurts more than an
+opportunity recognized but missed because of self-doubt. for the typical
+trader, the only way out of this psychological dilemma is to ignore the risk
+and remain convinced that the trade is right.
+另⼀⽅⾯，如果他衡量了⻛险，他会找证据证明没有⻛险。他会体验
+痛苦的⼼理过程，以证明交易可⾏。如果他⼜碰到了⼀些有冲突的信
+息，他⼜会对交易的可⾏性产⽣怀疑。如果他产⽣了怀疑，他就不会
+交易。如果他不交易，⽽交易⼜是赚钱的，他会超级痛苦。对有些⼈
+来说，看⻅了机会，但因为⾃我怀疑⽽错过的话，那是最痛苦的。对
+于典型的交易者，唯⼀脱离两难的⽅法就是忽视⻛险，认为⾃⼰的交
+易是对的。
+if any of this sounds familiar, consider this: when you're convincing
+yourself that you're right, what you're saying to yourself is, "i know who's
+in this market and who's about to come into this market. i know what they
+believe about what is high or what is low. furthermore, i know each
+individual's capacity to act on those beliefs (the degree of clarity or relative
+lack of inner conflict), and with this knowledge, i am able to determine how
+the actions of each of these individuals will affect price movement in its
+collective form a second, a minute, an hour, a day, or a week from now."
+looking at the process of convincing yourself that you're right from this
+perspective, it seems a bit absurd, doesn't it?
+如果这听起来熟悉，想想：当你确信⾃⼰是对的，你就会对⾃⼰
+说： " 我知道谁在市场⾥⾯，我知道谁会进场。我知道他们认为的⾼低
+各是多少。⽽且，我知道每个⼈的信念（清醒程度或内部冲突的程
+度），根据这些知识，我就能知道每秒、每分、每⼩时、每天或每周
+价格的波动情况。 " 看看这个过程，是不是有点荒谬？
+
+for the traders who have learned to think in probabilities, there is no
+dilemma. predefining the risk doesn't pose a problem for these traders
+because they don't trade from a right or wrong perspective. they have
+learned that trading doesn't have anything to do with being right or wrong
+on any individual trade. as a result, they don't perceive the risks of trading
+in the same way the typical trader does.
+对于已经学习了概率的交易者，没有两难的情况。提前衡量⻛险不是
+问题，因为他们的交易不是为了对或错。他们明⽩了交易和单笔的对
+错⽆关。结果就是，他们和典型的交易者对⻛险的看法不同。
+any of the best traders (the probability thinkers) could have just as much
+negative energy surrounding what it means to be wrong as the typical
+trader. but as long as they legitimately define trading as a probability game,
+their emotional responses to the outcome of any particular trade are
+equivalent to how the typical trader would feel about flipping a coin, calling
+heads, and seeing the coin come up tails. a wrong call, but for most people
+being wrong about predicting the flip of a coin would not tap them into the
+accumulated pain of every other time in their lives they had been wrong.
+最优秀的交易者和典型的交易者想法不同。⼀旦他们认为交易是概率
+的游戏，他们交易时的情绪反应就和猜硬币的正反⾯时猜错了⼀样。
+对于⼤部分⼈来说，猜错了硬币不会发展成⽣活中的痛苦。
+why? most people know that the outcome of a coin toss is random. if you
+believe the outcome is random, then you naturally expect a random
+outcome. randomness implies at least some degree of uncertainty. so when
+we believe in a random outcome, there is an implied acceptance that we
+don't know what that outcome will be. when we accept in advance of an
+event that we don't know how it will turn out, that acceptance has the effect
+of keeping our expectations neutral and open-ended.
+为什么？⼤部分⼈都知道掷硬币的结果是随机的。如果你相信是随机
+的，那么你就知道结果是随机的。随机意味着⼀定程度的不确定性。
+所以，当我们相信是随机的，那就说明我们不知道结果是什么。⼀旦
+
+我们接受了我们不知道⼀件事的结果，这种接受让我们保持中性和开
+放的期望。
+now we're getting down to the very core of what ails the typical trader. any
+expectation about the markets behavior that is specific, well-defined, or
+rigid - instead of being neutral and open-ended - is unrealistic and
+potentially damaging. i define an unrealistic expectation as one that does
+not correspond with the possibilities available from the market's
+perspective. if each moment in the market is unique, and anything is
+possible, then any expectation that does not reflect these boundary-less
+characteristics is unrealistic.
+现在我们谈到了重点，让典型的交易者头痛的是什么。任何对市场的
+预期，如果是确切的、明确的或不变的 -- 不是中性和开放的 -- 都是不现
+实的，有可能是毁坏性的。不现实的期望就是不符合市场的概率。如
+果每个时刻都是独特的，任何事都有可能，那么不反应这些特点的期
+望就是不现实的。
+managing expectations
+管理期望
+the potential damage caused by holding unrealistic expectations comes from
+how it affects the way we perceive information. expectations are mental
+representations of what some future moment will look, sound, taste, smell,
+or feel like. expectations come from what we know. this makes sense,
+because we can't expect something that we have no knowledge or
+awareness of. what we know is synonymous with what we have learned to
+believe about the ways in which the external environment can express itself.
+what we believe is our own personal version of the truth. when we expect
+something, we are projecting out into the future what we believe to be true.
+we are expecting the outside environment a minute, an hour, a day, a week,
+or a month from now to be the way we have represented it in our minds.
+
+持有不现实的期望会影响我们认知信息的⽅法，造成损害。期望就是
+对未来的感觉，包括看到的、听到的、感觉到的、闻到的或感受到
+的。期望来⾃我们的已知事物。这是有意义的，因为我们不可能根据
+我们不知道的东⻄来期待什么结果。我们知道的东⻄就是我们从外⾯
+学到的东⻄。我们相信的东⻄就是我们个⼈对事实的看法。当我们期
+待什么东⻄时，我们预期的是未来的事实。我们因为从现在开始每分
+钟、每⼩时、每天、每周、每⽉都是我们想的那样。
+we have to be careful about what we project out into the future, because
+nothing else has the potential to create more unhappiness and emotional
+misery than an unfulfilled expectation. when things happen exactly as you
+expect them to, how do you feel? the response is generally wonderful
+(including feelings like happiness, joy, satisfaction, and a greater sense of
+well-being), unless, of course, you were expecting something dreadful and
+it manifested itself. conversely, how do you feel when your expectations are
+not fulfilled? the universal response is emotional pain. everyone
+experiences some degree of anger, resentment, despair, regret,
+disappointment, dissatisfaction, or betrayal when the environment doesn't
+turn out to be exactly as we expected it to be (unless, of course, we are
+completely surprised by something much better than we imagined).
+对⾃⼰的期望要⼩⼼，因为当期望落空时，是很痛苦的。当你的期望
+实现了，你有什么感觉？你的反应将是⾮常好的（包括幸福、快乐、
+满⾜、舒适），除⾮你期待的是可怕的事。相反，如果你的期望落
+空，你有什么感觉？普遍的反应就是情绪上的痛苦。当环境产⽣的结
+果不是我们想的那样时，每个⼈都体会过⼀定程度的愤怒、怨恨、绝
+望、后悔、失望、不满或背叛（除⾮事实⽐想象的还要好，让我们感
+到吃惊）。
+here's where we run into problems. because our expectations come from
+what we know, when we decide or believe that we know something, we
+naturally expect to be right. at that point, we're no longer in a neutral or
+open state of mind, and it's not difficult to understand why. if we're going to
+feel great if the market does what we expect it to do, or feel horrible if it
+
+doesn't, then we're not exactly neutral or open-minded. quite the contrary,
+the force of the belief behind the expectation will cause us to perceive
+market information in a way that confirms what we expect (we naturally
+like feeling good); and our pain-avoidance mechanisms will shield us from
+information that doesn't confirm what we expect (to keep us from feeling
+bad).
+我们是这样遇到问题的。因为我们的期望来⾃我们知道的事物，当我
+们决定或相信我们知道⼀些事的时候，我们⾃然希望⾃⼰是对的。此
+时，我们的思想状态不再是中性的或开放的，很难明⽩为什么。如果
+市场如我所愿，我们感到不错；或者是市场没有如我所愿，则感觉不
+好，那么我们就不是中性的或开放的。相反，期望后⾯信念的⼒量会
+让我们确信我们期待的东⻄（我们总是感觉很好），我们的痛苦⾃动
+防护系统会屏蔽我们不喜欢的信息（以免我们⼼情不好）。
+as i've already indicated, our minds are designed to help us avoid pain, both
+physical and emotional. these pain-avoidance mechanisms exist at both
+conscious and subconscious levels. for example, if an object is coming
+toward your head, you react instinctively to get out of the way. ducking
+does not require a conscious decision-making process. on the other hand, if
+you clearly see the object and have time to consider the alternatives, you
+may decide to catch the object, bat it away with your hand, or duck. these
+are examples of how we protect ourselves from physical pain.
+正如我之前所说，我们的思想天⽣就喜欢回避痛苦，在⾁体上和情绪
+上都是这样。⽆论是有意识的，还是⽆意识的，这种避免痛苦的⾃动
+系统都存在。⽐如，如果有东⻄向你的头部⻜来，你会本能地让开。
+躲避并不需要有意识的思考过程。另⼀⽅⾯，如果你能明显地看⻅物
+体，⽽且你有时间思考变通的⽅法，你也许会决定抓住这个物体，⽤
+有挡开它或躲避它。这就是我们避免⾝体受苦的案例。
+protecting ourselves from emotional or mental pain works in the same way,
+except that we are now protecting ourselves from information. for example,
+the market expresses information about itself and its potential to move in a
+
+particular direction. if there's a difference between what we want or expect
+and what the market is offering or making available, then our pain-
+avoidance mechanisms kick in to compensate for the differences. as with
+physical pain, these mechanisms operate at both the conscious and
+subconscious levels.
+我们避免⾃⼰遭受精神和精神痛苦的道理是⼀样的，除⾮我们在回避
+⼀些信息。⽐如，市场⽤⾃⼰的⽅式表达信息，以说明它可能波动的
+⽅向。如果市场提供的东⻄和我们想要的或期待的不⼀样，那么我们
+的痛苦⾃动防范系统就会起作⽤以弥补这种差别。和⾝体上的痛苦⼀
+样，⽆论是有意识，还是⽆意识，这个系统都会起作⽤。
+to protect ourselves from painful information at the conscious level, we
+rationalize, justify, make excuses, willfully gather information that will
+neutralize the significance of the conflicting information, get angry (to ward
+off the conflicting information), or just plain lie to ourselves.
+为了避免痛苦的信息，对于信息，我们就会把它合理化、正常化、找
+借⼝，还⾃⼰收集信息以中和冲突的信息，甚⾄发怒（这样可以回避
+冲突的信息），或对⾃⼰撒谎。
+at the subconscious level, the pain-avoidance process is much more subtle
+and mysterious. at this level, our minds may block our ability to see other
+alternatives, even though in other circumstances we would be able to
+perceive them. now, because they are in conflict with what we want or
+expect, our pain-avoidance mechanisms can make them disappear (as if
+they didn't exist). to illustrate this phenomenon, the best example is one i
+have already given you: we are in a trade where the market is moving
+against us. in fact, the market has established a trend in the opposite
+direction to what we want or expect. ordinarily, we would have no problem
+identifying or perceiving this pattern if it weren't for the fact that the market
+was moving against our position. but the pattern loses its significance
+(becomes invisible) because we find it too painful to acknowledge.
+
+下意识状态下，回避痛苦的过程⽐较微妙和神奇。在下意识状态，我
+们的思想会阻⽌我们看⻅其它可能的选择，如果在其它情况下，我们
+是可以看⻅的。因为它们和我们想要或期待的有冲突，我们的痛苦回
+避系统会让它们消失（好像它们并不存在）。为了说明这个现象，最
+好的案例是我告诉你的：我们交易时，市场在和我们作对。实际上，
+市场的趋势和我们想要的或期待的相反。最初，我们确认和看出模式
+是没有问题的，也就是市场和我们想要的或期待的相反。但是，因为
+我们很难接受这点，我们就不会看出这个模式（消失了）。
+to void the pain, we narrow our focus of attention and concentrate on
+information that keeps us out of pain, regardless of how insignificant or
+minute. in the meantime, the information that clearly indicates the presence
+of a trend and the opportunity to trade in the direction of that trend becomes
+invisible. the trend doesn't disappear from physical reality, but our ability to
+perceive it does. our pain-avoidance mechanisms block our ability to define
+and interpret what the market is doing as a trend.
+为了避免痛苦，我们把焦点缩⼩，聚焦于没有痛苦的信息，也不管这
+些信息有没有多少价值。同时，清楚地指出有趋势，有机会的信息则
+消失了。趋势实际上并没有消失，但是我们的认知能⼒消失了。我们
+的痛苦回避系统让我们没有能⼒定义和解读趋势。
+the trend will then stay invisible until the market either reverses in our favor
+or we are forced out of the trade because the pressure of losing too much
+money becomes unbearable. it's not until we are either out of the trade or
+out of danger that the trend becomes apparent, as well as all the
+opportunities to make money by trading in the
+如果不是因为交易者害怕亏损太多，被迫平仓，或者是趋势反转了，
+他是看不⻅已经存在的趋势的。只有当我们平仓时，或没有危险时，
+我们才能看清趋势，就像交易时的赚钱机会 …… （张轶注：英⽂原⽂
+在此处缺失）
+
+all the distinctions that would otherwise be perceivable become perfectly
+clear, after the fact, when there is no longer anything for our minds to
+protect us from.
+当没有任何东⻄来让思想保护我们时，我们就能清晰地看⻅所有的特
+征。
+n self-protective pain-avoidance mechanisms, because they're natural
+functions of the way our minds operate. there may be times when we are
+protecting ourselves from information that has the potential to bring up
+deep-seated emotional wounds or trauma that we're just not ready to face, or
+don't have the appropriate skills or resources to deal with. in these cases,
+our natural mechanisms are serving us well. but more often, our pain-
+avoidance mechanisms are just protecting us from information that would
+indicate that our expectations do not correspond with what is available from
+the environments perspective. this is where our pain-avoidance mechanisms
+do us a disservice, especially as traders.
+
+我们都很容易陷⼊⾃我保护，回避痛苦的状态，因为我们的思想天⽣
+就是这样运作的。很多时候，对于伤害我们的信息，对于我们不能处
+理的信息，我们就会采取回避的态度。这些时候，我们天⽣的系统能
+很好地保护我们。但很多时候，我们的痛苦回避系统只是让我们远离
+不利于我们的信息，这样的信息表明我们的期望和市场不⼀致。这是
+痛苦回避系统对我们的伤害，对交易者更是如此。
+to understand this concept, ask yourself what exactly about market
+information is threatening. is it threatening because the market actually
+expresses negatively charged information as an inherent characteristic of
+the way it exists? it may seem that way, but at the most fundamental level,
+what the market gives us to perceive are up-tics and down-tics or up-bars
+and down-bars. these up and down tics form patterns that represent edges.
+now, are any of these tics or the patterns they form negatively charged?
+again, it may certainly seem that way, but from the market's perspective the
+information is neutral. each up-tic, down-tic, or pattern is just information,
+telling us the market's position. if any of this information had a negative
+
+charge as an inherent characteristic of the way it exists, then wouldn't
+everyone exposed to it experience emotional pain?
+要想明⽩这个概念，要问问你⾃⼰，市场信息的威胁是什么。是不是
+说市场天⽣就充满了消极的信⼼？看起来好像是这样的，但基本上，
+市场提供的就是上涨⼏个基点，下跌⼏个基点或者是上涨的 k 线，下跌
+的 k 线。这些上涨和下跌的模式代表了优势。是不是所有的涨跌和模式
+都是消极的呢？同样，看起来好像是这样的，但从市场的⾓度来看，
+信息是中性的。每上涨⼀个基点，下跌⼀个基点，或者模式，它们只
+是信息，这些信息告诉我们市场的点位。如果有任何信息是消极的，
+那么是不是每个⼈都要承受情绪上的痛苦？
+for example, if both you and i get hit on the head with a solid object, there
+probably wouldn't be much difference in how we would feel. we'd both be
+in pain. any part of our bodies coming into contact with a solid object with
+some degree of force will cause anyone with a normal nervous system to
+experience pain. we share the experience because our bodies are
+constructed in basically the same way. the pain is an automatic
+physiological response to the impact with a tangible object. information in
+the form of words or gestures expressed by the environment, or up and
+down tics expressed by the market, can be just as painful as being hit with a
+solid object; but there's an important difference between information and
+objects. information is not tangible. information doesn't consist of atoms
+and molecules. to experience the potential effects of information, whether
+negative or positive, requires an interpretation.
+⽐如，如果你我都被硬物击中了头部，那么感觉应该差不多。我们都
+很痛。任何⼈，只要⾝体的任何部分碰到了有⼒的硬物，我们的神经
+系统都会感受到痛觉。我们都有痛觉，是因为我们的⾝体结构都是差
+不多的。当被实物碰撞时，痛觉是⾃动的⼼理反应。信息就是环境的
+词语或⼿势表达，或者是市场⽤涨跌来表达，就像被硬物击中⼀样，
+会有痛觉的。但是信息和物体有重⼤的区别。信息不是实物。信息不
+
+是由原⼦和分⼦组成。要想体会信息的作⽤，不管是积极的，还是消
+极的，都需要对它有解读能⼒。
+the interpretations we make are functions of our unique mental frameworks.
+everyone's mental framework is unique for two fundamental reasons. first,
+all of us were born with different genetically encoded behavior and
+personality characteristics that cause us to have different needs from one
+another. how positively or negatively and to what degree the environment
+responds to these needs creates experiences unique to each individual.
+second, everyone is exposed to a variety of environmental forces. some of
+these forces are similar from one individual to the next, but none are exactly
+the same.
+我们的解读来⾃我们独特的思想结构。每个⼈的思想结构都是独特
+的，有两个基本的原因。⾸先，我们出⽣时的基因不同，⾏为和个性
+也不同，导致我们的需求不同。对于这些需求，环境的反应是积极的
+或消极的，它们的影响程度对每个⼈都不同。第⼆，每个⼈⾯对的环
+境⼒量不同。有些⼒量差不多，但有些不完全⼀样。
+if you consider the number of possible combinations of genetically encoded
+personality characteristics we can be born with, in relation to the almost
+infinite variety of environmental forces we can encounter throughout our
+lives, all of which contribute to the construction of our mental framework,
+then it's not difficult to see why there is no universal mental framework
+common to everyone. unlike our bodies, which have a common molecular
+structure that experiences physical pain, there is no universal mind-set to
+assure us that we will share the potential negative or positive effects of
+information in the same way.
+如果你考虑到每个⼈基因组合的不同，个性的不同，以及我们此⽣体
+验的⽆穷环境⼒量，这些都对我们的细想结构有影响，那么我们就不
+难发现为什么每个⼈的思想结构都不⼀样。它和我们的⾝体也不同，
+⾝体由普通的分⼦组成，能体会到痛觉，我们的思想则⽆法同样体会
+积极的或消极的信息影响。
+
+for example, someone could be projecting insults at you, intending to cause
+you to feel emotional pain. from the environment's perspective, this is
+negatively charged information. will you experience the intended negative
+effects? not necessarily! you have to be able to interpret the information as
+negative to experience it as negative. what if this person is insulting you in
+a language you don't understand, or is using words you don't know the
+meaning of? would you feel the intended pain? not until you built a
+framework to define and understand the words in a derogatory way. even
+then, we can't assume that what you'd feel would correspond to the intent
+behind the insult. you could have a framework to perceive the negative
+intent, but instead of feeling pain, you might experience a perverse type of
+pleasure. i've encountered many people who, simply for their own
+amusement, like to get people riled up with negative emotions. if they
+happen to be insulted in the process, it creates a sense of joy because then
+they know how successful they've been.
+⽐如，有⼈想侮辱你，让你觉得痛苦。从环境的⾓度来说，这是消极
+的信息。你会感受到这个消极的影响吗？不⼀定！你必须有能⼒解读
+这个信息，并认为是消极的。如果侮辱你的⼈⽤你不懂的语⾔，或者
+是你不明⽩的词汇，结果会如何？你能感受到痛苦吗？如果你不理解
+这个词汇的含义，你是不会感到痛苦的。即使如此，我们也不能说你
+的感受和侮辱你的意图是对应的。你也许会觉得那是不好的企图，但
+你并不痛苦，你也许还有点⾼兴。我⻅过很多⼈，为了⾃⼰的快乐⽽
+让别⼈充满了消极的情绪。如果他们此时被侮辱了，他们会觉得很⾼
+兴，因为他们知道⾃⼰成功了。
+a person expressing genuine love is projecting positively charged
+information into the environment. let's say the intent behind the expression
+of these positive feelings is to convey affection, endearment, and friendship.
+are there any assurances that the person or persons this positively charged
+information is being projected toward will interpret and experience it as
+such? no, there aren't. a person with a very low sense of self-esteem, or
+someone who experienced a great deal of hurt and disappointment in
+relationships, will often misinterpret an expression of genuine love as
+something else. in the case of a person with low self-esteem, if he doesn't
+
+believe he deserves to be loved in such a way, he will find it difficult, if not
+impossible, to interpret what he is being offered as genuine or real. in the
+second case, where one has a significant backlog of hurt and
+disappointment in relationships, a person could easily come to believe that a
+genuine expression of love is extremely rare, if not non-existent, and would
+probably interpret the situation either as someone wanting something or
+trying to take advantage of him in some way.
+⼀个表达真诚爱意的⼈是在向环境传递积极的信息。我们可以说这些
+表达是为了传递爱⼼、钟爱和友谊。能不能保证这些信息能被⼈们正
+确地传达和感受到？不能。⼀个不太⾃信的⼈，或者在感情上受过伤
+害的⼈，通常会错误地理解别⼈的爱意。对于不太⾃信的⼈来说，如
+果他觉得⾃⼰不值得别⼈的爱，那么他就会很难去相信别⼈爱意的真
+假。第⼆种情况，对于感情受伤的，或对友谊失望的⼈，他会觉得真
+正的爱太少了，对于别⼈的爱意，他会觉得是对⽅想要什么，或者是
+想占他的便宜。
+i'm sure that i don't have to go on and on, sighting examples of all the
+possible ways there are to misinterpret what someone is trying to
+communicate to us or how what we express to someone can be
+misconstrued and experienced in ways completely unintended by us. the
+point that i am making is that each individual will define, interpret, and
+consequently experience whatever information he is exposed to in his own
+unique way. there's no standardized way to experience what the
+environment may be offering - whether it's positive, neutral, or negative
+information - simply because there is no standardized mental framework in
+which to perceive information.
+我相信没有必要再举例⼦说明了，这些沟通的误解，完全违背原来意
+思的感受。我想说的要点是，每个⼈⽤⾃⼰独特的⽅式定义、解读和
+体验所有的信息。没有标准的⽅式去体验环境提供的信息 -- 积极的、
+中性的、或消极的信息 -- 因为我们的思想结构不是标准的，所以对信
+息的解读不同。
+
+consider that, as traders, the market offers us something to perceive at each
+moment. in a sense, you could say that the market is communicating with
+us. if we start out with the premise that the market does not generate
+negatively charged information as an inherent characteristic of the way it
+exists, we can then ask, and answer, the question, "what causes information
+to take on a negative quality?" in other words, where exactly does the threat
+of pain come from?
+作为交易者，市场也随时在提供类似的东⻄。可以这么说，市场在和
+我们沟通。如果⼀开始就认为市场天⽣不会产⽣消极的信息，我们可
+以⾃问⾃答地问： " 是什么让信息变成了消极的？ " 换句话说，痛苦的
+威胁来⾃哪⾥？
+if it's not coming from the market, then it has to be coming from the way we
+define and interpret the available information. defining and interpreting
+information is a function of what we assume we know or what we believe
+to be true. if what we know or believe is in fact true - and we wouldn't
+believe it if it weren't - then when we project our beliefs out into some
+future moment as an expectation, we naturally expect to be right.
+如果不是来⾃市场，那么就来⾃我们定义和解读信息的⽅式。我们以
+为我们定义和解读信息的⽅式是对的。如果我们知道或相信事实如此 -
+- 否则就不会信 -- 那么当我们对未来有期望时，我们⾃然希望⾃⼰是对
+的。
+when we expect to be right, any information that doesn't confirm our
+version of the truth automatically becomes threatening. any information that
+has the potential to be threatening also has the potential to be blocked,
+distorted, or diminished in significance by our pain-avoidance mechanisms.
+it's this particular characteristic of the way our minds function that can
+really do us a disservice. as traders, we can't afford to let our pain-
+avoidance mechanisms cut us off from what the market is communicating
+to us about what is available in the way of the next opportunity to get in, get
+out, add to, or subtract from a position, just because it's doing something
+that we don't want or expect.
+
+当我们期待正确时，任何不符的信息⾃动变成了威胁。我们的痛苦回
+避系统有可能会阻⽌、曲解或消灭不符的信息。这是我们思想的特
+点，这个功能会害了我们。作为交易者，我们不能让痛苦回避系统把
+我们和市场分开，不能因为我们不想要或不希望市场的信息，就掐断
+了和市场的沟通。市场也许会告诉我们进场、出场、加仓、平仓等机
+会的。
+for example, when you're watching a market (one you rarely, if ever, trade
+in) with no intention of doing anything, do any of the up or down tics cause
+you to feel angry, disappointed, frustrated, disillusioned, or betrayed in any
+way? no! the reason is that there's nothing at stake. you're simply observing
+information that tells you where the market is at that moment. if the up and
+down tics that you're watching form into some sort of behavior pattern
+you've learned to identify, don't you readily recognize and acknowledge the
+pattern? yes, for the same reason: there's nothing at stake.
+⽐如，当你看着市场，没有任何想法时，市场的涨跌会不会让你感到
+愤怒、失望、受挫、⼤失所望或背叛？不会！原因是没有任何⻛险。
+你只是在观察市场此刻的信息。如果市场的涨跌，形成的模式是你认
+识的，你会认出这个模式吗？是的，因为没有⻛险。
+there is nothing at stake because there's no expectation. you haven't
+projected what you believe, assume, or think you know about that market
+into some future moment. as a result, there's nothing to be either right about
+or wrong about, so the information has no potential to take on a threatening
+or negatively charged quality. with no particular expectation, you haven't
+placed any boundaries on how the market can express itself. without any
+mental boundaries, you will be making yourself available to perceive
+everything you've learned about the nature of the ways in which the market
+moves. there's nothing for your pain-avoidance mechanisms to exclude,
+distort, or diminish from your awareness in order to protect you.
+没有⻛险是因为你没有期望。你对市场的信念、假设和想法并没有投
+射到未来。结果是，没有什么对错，所以信息也没有潜在的威胁或消
+
+极性质。没有特别的期望，你对市场的表达⾏为没有任何限制。没有
+思想限制，你可以通过市场的波动看⻅⾃⼰曾经学过的任何东⻄。没
+有必要让痛苦回避系统来去除、曲解或消灭你的意识。
+in my workshops, i always ask participants to resolve the following primary
+trading paradox: in what way does a trader have to learn how to be rigid and
+flexible at the same time? the answer is: we have to be rigid in our rules and
+flexible in our expectations. we need to be rigid in our rules so that we gain
+a sense of self-trust that can, and will always, protect us in an environment
+that has few, if any, boundaries. we need to be flexible in our expectations
+so we can perceive, with the greatest degree of clarity and objectivity, what
+the market is communicating to us from its perspective. at this point, it
+probably goes without saying that the typical trader does just the opposite:
+he is flexible in his rules and rigid in his expectations. interestingly enough,
+the more rigid the expectation, the more he has to either bend, violate, or
+break his rules in order to accommodate his unwillingness to give up what
+he wants in favor of what the market is offering.
+在我的⼯作室，我总是要求参与者解决这个基本的⽭盾：交易者如何
+能同时做到既死板⼜灵活？答案是：对原则死板，对期望灵活。我们
+对原则死板，这样我们就能得到⾃信，这样可以免受没有限制的环境
+影响。我们对期望灵活，我们可以清晰地，客观地看⻅市场在和我们
+沟通什么。从这个⾓度来说，典型的交易者正好相反：对原则灵活，
+对期望死板。有趣的是，对期望越死板，越需要歪曲、违反或打破⾃
+⼰的原则，因为为了满⾜⾃⼰的愿望，就要放弃市场提供的东⻄。
+eliminating the emotional risk
+消灭情绪⻛险
+to eliminate the emotional risk of trading, you have to neutralize your
+expectations about what the market will or will not do at any given moment
+or in any given situation. you can do this by being willing to think from the
+markets perspective. remember, the market is always communicating in
+probabilities. at the collective level, your edge may look perfect in every
+
+respect; but at the individual level, every trader who has the potential to act
+as a force on price movement can negate the positive outcome of that edge.
+为了消灭交易时的情绪⻛险，你必须在任何状况下，任何时刻让你对
+市场的期望中性化。你可以从市场的⾓度来思考。记住，市场总是对
+概率进⾏交易。总体来说，你的优势也许看起来很完美；但是从个⼈
+的⾓度来说，每个交易者的⾏为都有可能影响价格，他们的⾏为会改
+变优势的结果。
+to think in probabilities, you have to create a mental framework or mind-set
+that is consistent with the underlying principles of a probabilistic
+environment. a probabilistic mind-set pertaining to trading consists of five
+fundamental truths.
+为了思考概率，你必须创造⼀种思想结构或思维，它和市场概率的环
+境是⼀致的。概率的思维和以下 5 个事实⼀致。
+1. anything can happen.
+2. you don't need to know what is going to happen next in order to make
+money.
+3. there is a random distribution between wins and losses for any given set
+of variables that define an edge.
+4. an edge is nothing more than an indication of a higher probability of one
+thing happening over another.
+5. every moment in the market is unique.
+·                              1.         任何事都会发⽣。
+·                              2.         为了赚钱，你不必知道下⼀步会如何。
+·                              3.         对于任何被定义为优势的变数，在赢和亏之
+间的分布都是随机的。
+
+·                              4.         优势和⽐较⾼的概率是⼀个意思。
+·                              5.         任何时刻，市场都是独特的。
+keep in mind that your potential to experience emotional pain comes from
+the way you define and interpret the information you're exposed to. when
+you adopt these five truths, your expectations will always be in line with the
+psychological realities of the market environment. with the appropriate
+expectations, you will eliminate your potential to define and interpret
+market information as either painful or threatening, and you thereby
+effectively neutralize the emotional risk of trading.
+请记住，你可能要体验精神痛苦，是因为你定义和解读信息的⽅式。
+如果你接受了这 5 个事实，你的期望总是会和⼼理实际对应的。有了合
+适的期望，你就不会把市场定义解读为痛苦的或威胁的，你也会有效
+地中和交易的情绪⻛险。
+the idea is to create a carefree state of mind that completely accepts the fact
+that there are always unknown forces operating in the market. when you
+make these truths a fully functional part of your belief system, the rational
+part of your mind will defend these truths in the same way it defends any
+other belief you hold about the nature of trading. this means that, at least at
+the rational level, your mind will automatically defend against the idea or
+assumption that you can know for sure what will happen next. it's a
+contradiction to believe that each trade is a unique event with an uncertain
+outcome and random in relationship to any other trade made in the past; and
+at the same time to believe you know for sure what will happen next and to
+expect to be right.
+建⽴完全开放的思想，需要完全接受市场的⼒量总是未知的。如果你
+把这些事实当作你信念系统的⼀部分，你的理性思想就会想你守卫其
+它信念⼀样守卫这些事实。这意味着，⾄少在理性的时候，你的思想
+会⾃动地阻⽌⼀些思想或假设，这些思想和假设让你以为你知道下⼀
+步是什么。相信每笔交易都是独特的，结果是不确定的，是随机的，
+
+同时⼜要相信你知道下⼀步是什么，你希望⾃⼰是正确的，这是很⽭
+盾的。
+if you really believe in an uncertain outcome, then you also have to expect
+that virtually anything can happen. otherwise, the moment you let your
+mind hold onto the notion that you know, you stop taking all of the
+unknown variables into consideration. your mind won't let you have it both
+ways. if you believe you know something, the moment is no longer unique.
+if the moment isn't unique, then everything is known or knowable; that is,
+there's nothing not to know. however, the moment you stop factoring in
+what you don't or can't know about the situation instead of being available
+to perceive what the market is offering, you make yourself susceptible to all
+of the typical trading errors.
+如果你真的相信不确定的结果，那么你就应该期待任何事都会发⽣。
+否则，如果你的思想以为你知道，你就不会考虑所有的未知变数。你
+的思想⽆法做到同时拥有两者。如果你相信你知道什么，这个过程不
+再是独特的。如果这个过程不是独特的，那么任何事都能被知道，也
+就是说，没有什么不能知道的。然⽽，如果你认为你知道，你就可能
+犯所有典型的交易错误。
+for example, if you really believed in an uncertain outcome, would you ever
+consider putting on a trade without defining your risk in advance? would
+you ever hesitate to cut a loss, if you really believed you didn't know? what
+about trading errors like jumping the gun? how could you anticipate a
+signal that hasn't yet manifested itself in the market, if you weren't
+convinced that you were going to miss out?
+⽐如，如果你真的相信不确定的结果，你会在交易前不衡量⻛险吗？
+如果你真的相信你不知道，你在⽌损时会犹豫吗？提前进场或出场了
+怎么办？如果你不确定会不会错过机会，你如何知道⼀个信号反映了
+市场？
+why would you ever let a winning trade turn into a loser, or not have a
+systematic way of taking profits, if you weren't convinced the market was
+
+going your way indefinitely? why would you hesitate to take a trade or not
+put it on at all, unless you were convinced that it was a loser when the
+market was at your original entry point? why would you break your money
+management rules by trading too large a position relative to your equity or
+emotional tolerance to sustain a loss, if you weren't positive that you had a
+sure thing?
+如果你不确信市场永远对你有利，为何你把赢利变成了亏损，为何不
+兑现利润？当市场再次回到你的进场点，你知道没赚钱时，为何你犹
+豫了？如果你不能肯定，为何你要违反资⾦管理原则，仓位过⼤，造
+成情绪上不能忍受的亏损？
+finally, if you really believed in a random distribution between wins and
+losses, could you ever feel betrayed by the market? if you flipped a coin and
+guessed right, you wouldn't necessarily expect to be right on the next flip
+simply because you were right on the last. nor would you expect to be
+wrong on the next flip if you were wrong on the last. because you believe in
+a random distribution between the sequence of heads and tails, your
+expectations would be perfectly aligned with the reality of the situation. you
+would certainly like to be right, and if you were that would be great, but if
+you were wrong then you would not feel betrayed by the flip, because you
+know and accept that there are unknown variables at work that affect the
+outcome. unknown means "not something your rational thinking process
+can take into consideration in advance of the flip" except to fully accept that
+you don't know. as a result, there is little, if any, potential to experience the
+kind of emotional pain that wells up when you feel betrayed.
+最有，如果你相信赢和亏的分布是随机的，你是否会觉得市场背叛了
+你？如果你掷硬币并猜对了，你不必希望⾃⼰下次还能才对，因为你
+上次猜对了。如果你上次错了，你希望下次还错吗。因为你知道硬币
+的正反⾯是随机分布的，你的期望和现实结果是⼀致的。你当然希望
+⾃⼰是对的，如果你对了，当然最好；但是如果你错了，你就感觉被
+骗了，因为你知道并接受未知的变数在影响结果。未知意味着： " 你的
+
+理想思考⽆法提前考虑到 " ，除⾮你完全承认你不知道。结果是，当你
+感觉到背叛是，你不太会感受到精神痛苦。
+as a trader, when you're expecting a random outcome, you will always be at
+least a little surprised at whatever the market does - even if it conforms
+exactly to your definition of an edge and you end up with a winning trade.
+however expecting a random outcome doesn't mean that you can't use your
+full reasoning and analytical abilities to project an outcome, or that you
+can't guess what's going to happen next, or have a hunch or feeling about it,
+because you can. furthermore, you can be right in each instance. you just
+can't expect to be right. and if you are right, you can't expect that whatever
+you did that worked the last time will work again the next time, even
+though the situation may look, sound, or feel exactly the same.
+作为交易者，你期待的是随机的结果，市场⾏为总是让你吃惊 -- 即使
+你对优势的定义是对的，你的仓位是赚钱的。然⽽，期待随机的结果
+并不代表你不能利⽤你的分析能⼒去预测结果，要么你猜测下⼀步是
+什么，要么你能感觉到下⼀步是什么，因为你能。另外，你可以每次
+都正确。你不能期待每次都正确。如果你是对的，你不能期待这次对
+了，下次还对，即使状况看起来、听起来或感觉起来都是⼀样的。
+anything that you are perceiving "now" in the market will never be exactly
+the same as some previous experience that exists in your mental
+environment. but that doesn't mean that your mind (as a natural
+characteristic of the way it functions) won't try to make the two identical.
+there will be similarities between the "now moment" and something that
+you know from the past, but those similarities only give you something to
+work with by putting the odds of success in your favor. if you approach
+trading from the perspective that you don't know what will happen next,
+you will circumvent your mind's natural inclination to make the "now
+moment" identical to some earlier experience. as unnatural as it seems to do
+so, you can't let some previous experience (either negative or extremely
+positive) dictate your state of mind. if you do, it will be very difficult, if not
+impossible, to perceive what the market is communicating from its
+perspective.
+
+在你的思想环境中，任何 " 现在 " 的市场都和以前的体验不同。但这不
+是说你的思想不会把它们等同起来（这是⾃然特征）。 " 现在 " 和过去
+总有点相似之处，但这些相似之处只是增加你成功的概率。如果你交
+易时明⽩⾃⼰并不知道下⼀步是什么，你就要避免⾃⼰的思想把 " 现
+在 " 和过去的体验等同起来。这样看起来不⾃然，你不能让以前的体验
+指挥你的思想状况（不管是积极的，还是消极的）。如果你这么做，
+就很那解读市场要和你沟通的内容。
+when i put on a trade, all i expect is that something will happen. regardless
+of how good i think my edge is, i expect nothing more than for the market
+to move or to express itself in some way. however, there are some things
+that i do know for sure. i know that based on the markets past behavior, the
+odds of it moving in the direction of my trade are good or acceptable, at
+least in relationship to how much i am willing to spend to find out if it does.
+当我交易时，我期待会有什么结果。不管我的优势多么⼤，我都期望
+市场做点什么。然⽽，有些事我不能肯定。我知道，根据市场过去的
+⾏为，对我有利的波动概率⼤，⾄少我愿意承担这个成本。
+i also know before getting into a trade how much i am willing to let the
+market move against my position. there is always a point at which the odds
+of success are greatly diminished in relation to the profit potential. at that
+point, it's not worth spending any more money to find out if the trade is
+going to work. if the market reaches that point, i know without any doubt,
+hesitation, or internal conflict that i will exit the trade. the loss doesn't
+create any emotional damage, because i don't interpret the experience
+negatively. to me, losses are simply the cost of doing business or the
+amount of money i need to spend to make myself available for the winning
+trades. if, on the other hand, the trade turns out to be a winner, in most cases
+i know for sure at what point i am going to take my profits. (if i don't know
+for sure, i certainly have a very good idea.)
+我同样知道，在建仓前，我可以接受多少的亏损。总是有⼀个点位，
+在这个点位，利润减少，成功的概率降低。在这个点位，没有必要再

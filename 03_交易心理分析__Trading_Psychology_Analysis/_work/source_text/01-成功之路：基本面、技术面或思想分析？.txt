@@ -1,0 +1,780 @@
+each of them contributed to the development of this book.
+其次，我要感谢我的伙伴，他们也是交易者，他们是罗伯特 · 圣 · 约
+翰，格雷格 · ⽐伯，拉⾥ · 斐萨⽂托和泰德 · 赫恩。感谢他们的友谊，感
+谢他们⽤特殊的⽅式为本书做的贡献。
+i would also like to acknowledge my friend, eileen bruno, for editing the
+original manuscript; and, at prentice hall, ellen schneid coleman, associate
+publisher, for her professionalism and help in smoothing the path to
+publication, and barry richardson, development editor, for his help in
+shaping the introduction. his time and talent are greatly appreciated.
+我还要感谢我的朋友，艾琳 · 布鲁诺，感谢她编辑底稿，还有普林蒂斯
+霍尔出版公司的艾伦 · 施耐德 · 科勒曼，她是副社⻓，感谢她的专业精
+神以帮助本书顺利出版。还有巴⾥ · 理查森，他是编辑，感谢他帮忙形
+成的介绍，衷⼼感激他付出的时间和他的才华。
+Chapter 1 the road to success:
+fundamental, technical, or mental
+analysis?
+第  01 章  成功之路：基本⾯，技术⾯或思想分析⾯？
+in the beginning: fundamental analysis
+开始：基本⾯分析
+who remembers when fundamental analysis was considered the only real or
+proper way to make trading decisions? when i started trading in 1978,
+technical analysis was used by only a handful of traders, who were
+considered by the rest of the market community to be, at the very least,
+crazy. as difficult as it is to believe now, it wasn't very long ago when wall
+
+street and most of the major funds and financial institutions thought that
+technical analysis was some form of mystical hocus-pocus.
+谁还记得基本⾯分析曾经是唯⼀真实的或合理的交易决定⽅法？当我
+1978 年开始交易时，只有少数⼈⽤技术分析，当时市场⼤众认为他们
+疯了。现在让⼈⽆法相信的是，不久前华尔街，⼤部分主要基⾦和⾦
+融机构都认为技术分析是胡编乱造。
+now, of course, just the opposite is true. almost all experienced traders use
+some form of technical analysis to help them formulate their trading
+strategies. except for some small, isolated pockets in the academic
+community, the "purely" fundamental analyst is virtually extinct. what
+caused this dramatic shift in perspective?
+当然现在已经反过来了。⼏乎所有有经验的交易者都会使⽤某种技术
+分析帮助他们形成交易策略。除了少数，与世隔绝的学院派， " 纯
+粹 " ⽤基本⾯分析的⼈⼏乎绝种了。是什么导致了观念的巨⼤变化？
+i'm sure it's no surprise to anyone that the answer to this question is very
+simple: money! the problem with making trading decisions from a strictly
+fundamental perspective is the inherent difficulty of making money
+consistently using this approach.
+我想答案应该很简单，那就是钱！⽤纯粹的基本⾯分析做交易决定，
+天⽣的困难就是⽆法⻓期持续⼀致地赚钱。
+for those of you who may not be familiar with fundamental analysis, let me
+explain. fundamental analysis attempts to take into consideration all the
+variables that could affect the relative balance or imbalance between the
+supply of and the possible demand for any particular stock, commodity, or
+financial instrument. using primarily mathematical models that weigh the
+significance of a variety of factors (interest rates, balance sheets, weather
+patterns, and numerous others), the analyst projects what the price should
+be at some point in the future.
+
+如果你不了解基本⾯分析，请让我来解释。对于股票、商品或⾦融产
+品，基本⾯分析综合考虑影响供需平衡或不平衡的所有变数。利⽤原
+始的数学模型来衡量不同因素（利率、资产负债表、天⽓模式以及⽆
+数的其它），以预测未来价格应该到哪⾥。
+the problem with these models is that they rarely, if ever, factor in other
+traders as variables. people, expressing their beliefs and expectations about
+the future, make prices move - not models. the fact that a model makes a
+logical and reasonable projection based on all the relevant variables is not
+of much value if the traders who are responsible for most of the trading
+volume are not aware of the model or don't believe in it.
+这个模型的问题是它从来不把其它交易者当变数。是⼤众通过推动价
+格来表达他们的信念和期望 -- 不是模型推动的。交易量是交易者制造
+的，如果交易者不知道这个模型或者不相信这个模型，那么这个模型
+所根据的变量是没有价值的，它的逻辑和分析预测也没有价值。
+as a matter of fact, many traders, especially those on the floors of the
+futures exchanges who have the ability to move prices very dramatically in
+one direction or the other, usually don't have the slightest concept of the
+fundamental supply and demand factors that are supposed to affect prices.
+furthermore, at any given moment, much of their trading activity is
+prompted by a response to emotional factors that are completely outside the
+parameters of the fundamental model. in other words, the people who trade
+(and consequently move prices) don't always act in a rational manner.
+事实上，很多交易者，尤其是期货交易所的场内交易者，他们通常对
+基本⾯的供需没有任何概念，本来供需是影响价格的因素，但他们⾃
+⼰可以剧烈地推动价格。另外，不管在什么时候，情绪因素快速地推
+动交易⾏为，⽽基本⾯的模型根本没考虑情绪因素。换句话说，参与
+交易的⼤众（最终会推动价格）并不总是理性操作。
+ultimately, the fundamental analyst could find that a prediction about where
+prices should be at some point in the future is correct. but in the meantime,
+
+price movement could be so volatile that it would be very difficult, if not
+impossible, to stay in a trade in order to realize the objective.
+最终结果是，搞基本⾯分析的⼈可以发现对价格在未来达到某点的预
+测是正确的。但同时，价格波动太厉害，很难继续持有仓位以实现⽬
+标。
+the shift to technical analysis
+转到技术分析
+technical analysis has been around for as long as there have been organized
+markets in the form of exchanges. but the trading community didn't accept
+technical analysis as a viable tool for making money until the late 1970s or
+early 1980s. here's what the technical analyst knew that it took the
+mainstream market community generations to catch on to.
+当有组织的交易所出现时，技术分析就存在了。但是在 70 年代晚期或
+80 年代早期之前，⼤众不认为技术分析是赚钱的有效⼯具。运⽤技术
+分析的⼈很清楚，市场⼤众⽤了⼏代⼈的时间才掌握技术分析。
+a finite number of traders participate in the markets on any given day, week,
+or month. many of these traders do the same lands of things over and over
+in their attempt to make money. in other words, individuals develop
+behavior patterns, and a group of individuals, interacting with one another
+on a consistent basis, form collective behavior patterns. these behavior
+patterns are observable and quantifiable, and they repeat themselves with
+statistical reliability.
+每天、每周、每⽉都有⼀定数量的交易者进⼊市场。很多交易者⽇复
+⼀⽇地做⼀样的事，以希望赚钱。换句话说，个⼈形成⾏为模式，⼀
+群⼈不停地互相交易，形成集体⾏为模式。这些⾏为模式是可以观察
+到的，是可以量化的，在统计可靠的基础上它们会重复出现。
+
+technical analysis is a method that organizes this collective behavior into
+identifiable patterns that can give a clear indication of when there is a
+greater probability of one thing happening over another. in a sense,
+technical analysis allows you to get into the mind of the market to anticipate
+what's likely to happen next, based on the kind of patterns the market
+generated at some previous moment.
+技术分析是⼀种⽅法，把集体⾏为模式组成可以确认的模式，这样它
+就能当⼀件事很有可能发⽣时给出明显的确认。也就是说，根据以前
+市场发⽣的模式，技术分析让你进⼊市场的思想，以期待可能发⽣的
+事。
+as a method for projecting future price movement, technical analysis has
+turned out to be far superior to a purely fundamental approach. it keeps the
+trader focused on what the market is doing now in relation to what it has
+done in the past, instead of focusing on what the market should be doing
+based solely on what is logical and reasonable as determined by a
+mathematical model. on the other hand, fundamental analysis creates what i
+call a "reality gap" between "what should be" and "what is." the reality gap
+makes it extremely difficult to make anything but very long-term
+predictions that can be difficult to exploit, even if they are correct.
+作为预测未来价格波动的⼀种⽅法，技术分析变得⽐纯粹的基本⾯分
+析要⾼级很多。基本⾯分析根据数学模型逻辑分析决定市场应该做什
+么，⽽技术分析让交易者把市场的现在和过去联系起来。另⼀⽅⾯，
+⽤我的话说，运⽤基本⾯分析的⼈在 " 应该 " 和 " 现实 " 之间制造了 " 现实
+差距 " 。现实差距即使是正确的，他们也⽆能为⼒，只是⻓期的预测，
+很难实现。
+in contrast, technical analysis not only closes this reality gap, but also
+makes available to the trader a virtually unlimited number of possibilities to
+take advantage of. the technical approach opens up many more possibilities
+because it identifies how the same repeatable behavior patterns occur in
+every time frame - moment-to-moment, daily, weekly, yearly, and every
+
+time span in between. in other words, technical analysis turns the market
+into an endless stream of opportunities to enrich oneself.
+相反，技术分析不但弥补了现实差距，还给交易者提供了⼀定的概
+率，交易者可以利⽤这个概率。技术的⽅法确认了每天、每周、每年
+任何时间内重复的⾏为模式，这样就打开了很多概率。换句话说，技
+术分析把市场变成了⽆穷的机会，可以丰富⼀个⼈的机会。
+the shift to mental analysis
+转到思想分析
+if technical analysis works so well, why would more and more of the
+trading community shift their focus from technical analysis of the market to
+mental analysis of themselves, meaning their own individual trading
+psychology? to answer this question, you probably don't have to do
+anything more than ask yourself why you bought this book. the most likely
+reason is that you're dissatisfied with the difference between what you
+perceive as the unlimited potential to make money and what you end up
+with on the bottom line.
+如果技术分析很好，为什么越来越多的交易会则把焦点从技术分析转
+到⾃⼰的思想分析，也就是他们⾃⼰的交易⼼理？要回答这个问题，
+你不必做其它事，还不如问你为什么买这本书？最有可能的原因是，
+你感觉有⽆限的赚钱可能，但实际上你赚不到，理想和现实有差距。
+that's the problem with technical analysis, if you want to call it a problem.
+once you learn to identify patterns and read the market, you find there are
+limitless opportunities to make money. but, as i'm sure you already know,
+there can also be a huge gap between what you understand about the
+markets, and your ability to transform that knowledge into consistent profits
+or a steadily rising equity curve.
+如果你承认这是问题的话，这是技术分析的问题。⼀旦你学习确认了
+模式，并观察了市场，你发现有⽆限的赚钱机会。但是，我想你也知
+
+道，认识市场和有能⼒把这个知识转化成持续⼀致的利润或稳定增⻓
+的资⾦曲线之间有巨⼤的差距。
+think about the number of times you've looked at a price chart and said to
+yourself, "hmmm, it looks like the market is going up (or down, as the case
+may be)," and what you thought was going to happen actually happened.
+but you did nothing except watch the market move while you anguished
+over all the money you could have made.
+想想有多少次你对着价格图⾃⾔⾃语： " 嗯，看起来市场要涨（或者是
+跌）。 " ⽽且你想象的事真的发⽣了。但你只是看，并没有做什么，为
+此你极度后悔失去的钱。
+there's a big difference between predicting that something will happen in
+the market (and thinking about all the money you could have made) and the
+reality of actually getting into and out of trades. i call this difference, and
+others like it, a "psychological gap" that can make trading one of the most
+difficult endeavors you could choose to undertake and certainly one of the
+most mysterious to master.
+预测市场要发⽣什么事（以为⾃⼰可以赚到所有的钱）和实际交易结
+果有很⼤的差距。我说这是差距，很多⼈喜欢叫做 " ⼼理落差 " ，让交
+易成为最难的⾏为，也是最神秘，最不容易掌握的。
+the big question is: can trading be mastered? is it possible to experience
+trading with the same ease and simplicity implied when you are only
+watching the market and thinking about success, as opposed to actually
+having to put on and take off trades? not only is the answer an unequivocal
+"yes," but that's also exactly what this book is designed to give you - the
+insight and understanding you need about yourself and about the nature of
+trading. so the result is that actually doing it becomes as easy, simple, and
+stress-free as when you are just watching the market and thinking about
+doing it.
+
+最⼤的问题是： " 交易是可以掌握的吗？ " 是否可以⽤简单的观察市场
+想象成功的⽅法实际交易？不仅答案是绝对的 " 是 " ，⽽且本书就是为
+了告诉你这个 -- 对⾃⼰和对交易本质的深刻认识。结果就像你观察市
+场思考交易⼀样，做起来很容易、简单、没有压⼒。
+this may seem like a tall order, and to some of you it may even seem
+impossible. but it's not. there are people who have mastered the art of
+trading, who have closed the gap between the possibilities available and
+their bottom-line performance. but as you might expect, these winners are
+relatively few in number compared with the number of traders who
+experience varying degrees of frustration, all the way to extreme
+exasperation, wondering why they can't create the consistent success they
+so desperately desire.
+这看起来像最⾼指⽰，有些⼈会觉得这不可能。但有可能。有些⼈掌
+握了交易的艺术，把概率和⾃⼰的糟糕成绩之间的差距填补了。⼤部
+分交易者总是渴望实现持续⼀致的成功，但总是体验不同的挫折，最
+后他们极度愤怒。这中间只有极少数⼈成为赢家。
+in fact, the differences between these two groups of traders (the consistent
+winners and everyone else) are analogous to the differences between the
+earth and the moon. the earth and moon are both celestial bodies that exist
+in the same solar system, so they do have something in common. but they
+are as different in nature and characteristics as night and day. by the same
+token, anyone who puts on a trade can claim to be a trader, but when you
+compare the characteristics of the handful of consistent winners with the
+characteristics of most other traders, you'll find they're also as different as
+night and day.
+实际上，这两种交易者（持续⼀致的赢家和其他⼈）之间的差别类似
+于地球和⽉亮的差别。地球和⽉亮都是太阳系的天体，所以它们有共
+同点。但是⽩天和⿊夜之间它们的本性和特点都不同。同样的道理，
+只要做交易的⼈都可以号称⾃⼰是交易者，但是当你把少数持续⼀致
+的赢家和⼤部分交易者做对⽐，你就发现了⽩天和⿊夜的差别。
+
+if going to the moon represents consistent success as a trader, we can say
+that getting to the moon is possible. the journey is extremely difficult and
+only a handful of people have made it. from our perspective here on earth,
+the moon is usually visible every night and it seems so close that we could
+just reach out and touch it. trading successfully feels the same way. on any
+given day, week, or month, the markets make available vast amounts of
+money to anyone who has the capacity to put on a trade. since the markets
+are in constant motion, this money is also constantly flowing, which makes
+the possibilities for success greatly magnified and seemingly within your
+grasp.
+如果登⽉代表了持续⼀致成功的交易者，我们可以说登⽉是可能的。
+这个过程极度困难，只有少数⼈才能成功。我们从地球的⾓度来看，
+⽉亮每天都在那⾥，似乎触⼿可及。成功的交易感觉也是如此。不管
+是哪天、哪周、哪⽉，只要有⼈交易，都有可能赚到很多钱。因为市
+场在持续波动，钱也在持续流动，这样就把成功的概率极⼒放⼤了，
+成功似乎触⼿可及。
+i use the word "seemingly" to make an important distinction between the
+two groups of traders. for those who have learned how to be consistent, or
+have broken through what i call the "threshold of consistency," the money is
+not only within their grasp; they can virtually take it at will. i'm sure that
+some will find this statement shocking or difficult to believe, but it is true.
+there are some limitations, but for the most part, money flows into the
+accounts of these traders with such ease and effortlessness that it literally
+boggles most people's minds.
+我⽤ " 似乎 " 这个词来郑重区分两种交易者。对于已经掌握了持续⼀致
+赚钱的⽅法，或者说 " 跨过了持续⼀致性这道门槛 " 的交易者来说，钱
+不仅仅在掌握之中，他们还可以想要就要。我肯定有⼈觉得这句话太
+令⼈吃惊了，或不敢相信，但这是真的。有⼀定的限制，但⼤部分钱
+会流进轻轻松松的交易者的账户，这让⼤部分⼈吃惊。
+however, for the traders who have not evolved into this select group, the
+word "seemingly" means exactly what it implies. it seems as if the
+
+consistency or ultimate success they desire is "at hand," or "within their
+grasp," just before it slips away or evaporates before their eyes, time and
+time again. the only thing about trading that is consistent with this group is
+emotional pain. yes, they certainly have moments of elation, but it is not an
+exaggeration to say that most of the time they are in a state of fear, anger,
+frustration, anxiety, disappointment, betrayal, and regret.
+然⽽，对于还没有进⼊这个⾏列的交易者来说，单词 " 似乎 " 确实就是
+这个意思。他们渴望的持续⼀致性或最终的成功 " 就在眼前 " 或 " 触⼿可
+及 " ，但⼀次⼜⼀次地在眼前跑⾛或消失。对于这些⼈来说，持续⼀致
+性是⼀种痛苦。是的，他们有时是很⾼兴的，但不夸张地说，⼤部分
+时间他们的感觉是害怕、愤怒、灰⼼丧⽓、焦急、失望、背叛和后
+悔。
+so what separates these two groups of traders? is it intelligence? are the
+consistent winners just plain smarter than everyone else? do they work
+harder? are they better analysts, or do they have access to better trading
+systems? do they possess inherent personality characteristics that make it
+easier for them to deal with the intense pressures of trading?
+那么如何区分这两种交易者？是智⼒吗？是不是持续⼀致的赢家⽐其
+他⼈聪明？是不是他们更努⼒？是不是他们的分析能⼒强？是不是他
+们有更好的交易系统？是不是他们有天⽣的特点在交易压⼒下更显得
+轻松？
+all of these possibilities sound quite plausible, except when you consider
+that most of the trading industry's failures are also some of society's
+brightest and most accomplished people. the largest group of consistent
+losers is composed primarily of doctors, lawyers, engineers, scientists, ceos,
+wealthy retirees, and entrepreneurs. furthermore, most of the industry's best
+market analysts are the worst traders imaginable. intelligence and good
+market analysis can certainly contribute to success, but they are not the
+defining factors that separate the consistent winners from everyone else.
+
+当你想到由社会上最聪明和最有成就的⼈组成的⼤部分交易机构也会
+失败时，你就知道这些理由都是似是⽽⾮的。最⼤的持续⼀致的输家
+基本由这些⼈组成：医⽣、律师、⼯程师、科学家、⾸席执⾏官、富
+有的退休⼈员和企业家。还有，这个⾏业⼤部分最好的分析师是想象
+到的最差的交易者。聪明和优秀的分析肯定能有助于成功，但是它们
+没有为区分持续⼀致的赢家和其他⼈的因素做定义。
+well, if it isn't intelligence or better analysis, then what could it be?
+嗯，如果不是智⼒或更好的分析，那么会是什么？
+having worked with some of the best and some of the worst traders in the
+business, and having helped some of the worst become some of the best, i
+can state without a doubt that there are specific reasons why the best traders
+consistently out-perform everyone else. if i had to distill all of the reasons
+down to one, i would simply say that the best traders think differently from
+the rest.
+我和这个⾏业⼀些最优秀的交易者沟通过，也和⼀些最差的交易者沟
+通过，我还把⼀些最差的变成了最好的，我可以毫⽆疑问地给出最优
+秀的交易者⽐其他⼈优秀的具体理由。如果我必须把这些理由浓缩成
+⼀个理由，简单说就是最优秀的交易者和其他⼈思想不同。
+i know that doesn't sound very profound, but it does have profound
+implications if you consider what it means to think differently. to one
+degree or another, all of us think differently from everyone else. we may not
+always be mindful of this fact; it seems natural to assume that other people
+share our perceptions and interpretations of events. in fact, this assumption
+continues to seem valid until we find ourselves in a basic, fundamental
+disagreement with someone about something we both experienced. other
+than our physical features, the way we think is what makes us unique,
+probably even more unique than our physical features do.
+
+我知道这听起来不深刻，但是如果你知道什么是不同的思想你就知道
+它很深刻了。从某种程度上说，每个⼈的思想都和别⼈不同。也许不
+是经常这样，我们似乎很⾃然地以为别⼈和我们对事物的看法和理解
+是⼀样的。实际上，这种判断会持续存在，直到我们体验的事让我们
+对基本的看法有了分歧。除了⾝体特征，我们的思想让我们独特，甚
+⾄⽐⾝体特征还独特。
+let's get back to traders. what is different about die way the best traders
+think as opposed to how those who are still struggling think? while the
+markets can be described as an arena of endless opportunities, they
+simultaneously confront the individual with some of the most sustained,
+adverse psychological conditions you can expose yourself to. at some point,
+everyone who trades learns something about the markets that will indicate
+when opportunities exist. but learning how to identify an opportunity to buy
+or sell does not mean that you have learned to think like a trader.
+让我们回到交易者。最好交易者的思想和那些还在苦苦思索的交易者
+有什么区别？虽然市场在不停地提供机会，它们⼏乎同时给个⼈造成
+持续的，相反的⼼理状态。有时候，交易者学到了⼀些东⻄，他知道
+有机会。但学习如何确认买卖机会不代表学习像交易者⼀样思考。
+the defining characteristic that separates the consistent winners from
+everyone else is this: the winners have attained a mind-set - a unique set of
+attitudes - that allows them to remain disciplined, focused, and, above all,
+confident in spite of the adverse conditions. as a result, they are no longer
+susceptible to the common fears and trading errors that plague everyone
+else. everyone who trades ends up learning something about the markets;
+very few people who trade ever learn the attitudes that are absolutely
+essential to becoming a consistent winner. just as people can learn to perfect
+the proper technique for swinging a golf club or tennis racket, their
+consistency, or lack of it, will without a doubt come from their attitude.
+区别持续⼀致赢家和其他⼈的决定特征是：赢家有⼀种思想 -- 独特的
+态度 -- 让他们保持有纪律、专注、还有⾸要的是在不利状态下的⾃
+
+信。结果是，通常的恐惧和交易错误会传染给其他⼈，但他们不受影
+响。每个⼈交易最后都会学到⼀些东⻄，极少数⼈学到了成为持续⼀
+致赢家的态度。⼈们可以学会完美地打⾼尔夫或⽹球，这和是否有持
+续⼀致的态度有关。
+traders who make it beyond "the threshold of consistency" usually
+experience a great deal of pain (both emotional and financial) before they
+acquire the land of attitude that allows them to function effectively in the
+market environment. the rare exceptions are usually those who were born
+into successful trading families or who started their trading careers under
+the guidance of someone who understood the true nature of trading, and,
+just as important, knew how to teach it.
+" 跨过持续⼀致性门槛 " 的交易者通常体验了很多痛苦（既是感情上
+的，也是⾦钱上的），然后他们才会拥有让他们在市场中⼯作有效的
+态度。特例就是有些⼈的家⼈本来就会交易，他⼀出⽣就在学，或者
+是有⼀个懂交易的⼈，会教的⼈⼀直在教他。
+why are emotional pain and financial disaster common among traders? the
+simple answer is that most of us weren't fortunate enough to start our
+trading careers with the proper guidance. however, the reasons go much
+deeper than this. i have spent the last seventeen years dissecting the
+psychological dynamics behind trading so that i could develop effective
+methods for teaching the principles of success. what i've discovered is that
+trading is chock full of paradoxes and contradictions in thinking that make
+it extremely difficult to learn how to be successful. in fact, if i had to choose
+one word that encapsulates the nature of trading, it would be "paradox."
+(according to the dictionary, a paradox is something that seems to have
+contradictory qualities or that is contrary to common belief or what
+generally makes sense to people.)
+为什么交易者都会体验感情上的痛苦和⾦钱上的灾难？简单的答案
+是，⼤部分⼈都不幸运，开始交易⽣涯时没有⼈给予合理的指导。然
+⽽，原因是可以深⼊的。过去 17 年我都在剖析交易⼼理分析变化，所
+
+以我形成了有效的⽅法以传授成功原则。我发现交易充满了似是⽽⾮
+和⽭盾的思想，这样就很难学习如何成功。实际上，如果让我⽤⼀个
+单词来概括交易，那就是 " 似是⽽⾮ " （根据词典的解释，似是⽽⾮就
+是⼀些看起来有⽭盾特点的东⻄，或者是，和通常信念或⼀般⼈认可
+的东⻄相反）。
+financial and emotional disaster are common among traders because many
+of the perspectives, attitudes, and principles that would otherwise make
+perfect sense and work quite well in our daily lives have the opposite effect
+in the trading environment. they just don't work. not knowing this, most
+traders start their careers with a fundamental lack of understanding of what
+it means to be a trader, the skills that are involved, and the depth to which
+those skills need to be developed.
+因为我们在⽇常⽣活中很多完美的看法、态度和原则，它们和交易是
+相反的，所以交易者的⾦钱和情感灾难是很常⻅的。这些完美的看
+法、态度和原则不起作⽤。⼤部分交易者不明⽩这个道理就开始了交
+易⽣涯。他们缺少对交易的认知，没有技术，也不知道要发展什么技
+术。
+here is a prime example of what i am talking about: trading is inherently
+risky. to my knowledge, no trade has a guaranteed outcome; therefore, the
+possibility of being wrong and losing money is always present. so when you
+put on a trade, can you consider yourself a risk-taker? even though this may
+sound like a trick question, it is not.
+我的基本总结就是：交易天⽣就是有⻛险的。根据我的经验，没有任
+何⼀笔交易是肯定赚钱的。因此判断错误和亏钱的概率永远存在。所
+以，当你交易时，你是否把⾃⼰当作⼀个冒险的⼈？虽然这听起来像
+有陷阱的问题，但不是。
+the logical answer to the question is, unequivocally, yes. if i engage in an
+activity that is inherently risky, then i must be a risktaker. this is a perfectly
+reasonable assumption for any trader to make. in fact, not only do virtually
+
+all traders make this assumption, but most traders take pride in thinking of
+themselves as risk-takers.
+针对这个问题，合理的答案 -- 毫不含糊地说，是。如果我参与的活动
+天⽣就有⻛险，那么我⼀定是冒险的⼈。这是交易者完美合理的假
+定。实际上，不但⼏乎所有的交易者认同这个假定，⽽且⼤部分交易
+者会很骄傲地把⾃⼰当作冒险的⼈。
+the problem is that this assumption couldn't be further from the truth. of
+course, any trader is taking a risk when you put on a trade, but that doesn't
+mean that you are correspondingly accepting that risk. in other words, all
+trades are risky because the outcomes are probable - not guaranteed. but do
+most traders really believe they are taking a risk when they put on a trade?
+have they really accepted that the trade has a non-guaranteed, probable
+outcome? furthermore, have they fully accepted the possible consequences?
+问题是这个假定⽆法⽤事实深⼊解释。当然了，每个交易者在交易时
+都承担了⻛险，但这不代表你相应地接受了⻛险。换句话说，所有的
+交易都有⻛险，因为结果只是可能 -- 没有保证。但是否⼤部分交易者
+在交易时都接受了⻛险？他们是否真的接受了交易是没有保障的，只
+是可能的结果？更严重的是，他们是否完全接受了可能的后果？
+the answer is, unequivocally, no! most traders have absolutely no concept of
+what it means to be a risk-taker in the way a successful trader thinks about
+risk. the best traders not only take the risk, they have also learned to accept
+and embrace that risk. there is a huge psychological gap between assuming
+you are a risk-taker because you put on trades and fully accepting the risks
+inherent in each trade. when you fully accept the risks, it will have profound
+implications on your bottom-line performance.
+答案 -- 毫不含糊地说，否！⼤部分交易者不是像成功的交易者那样思
+考⻛险，他们根本不知道冒险意味着什么。最优秀的交易者不但接受
+⻛险，他们还学习承受和拥抱⻛险。在假定你是冒险的⼈和承认你是
+冒险的⼈之间有⼀个巨⼤的⼼理落差，因为你要交易，需要完全接受
+
+每笔交易天⽣的⻛险。⼀旦你完全接受了⻛险，对你的最差表现会有
+深刻的含义。
+the best traders can put on a trade without the slightest bit of hesitation or
+conflict, and just as freely and without hesitation or conflict, admit it isn't
+working. they can get out of the trade - even with a loss - and doing so
+doesn't resonate the slightest bit of emotional discomfort. in other words,
+the risks inherent in trading do not cause the best traders to lose their
+discipline, focus, or sense of confidence. if you are unable to trade without
+the slightest bit of emotional discomfort (specifically, fear), then you have
+not learned how to accept the risks inherent in trading. this is a big problem,
+because to whatever degree you haven't accepted the risk, is the same
+degree to which you will avoid the risk. trying to avoid something that is
+unavoidable will have disastrous effects on your ability to trade
+successfully.
+最优秀的交易者交易时没有⼀丝⼀毫的犹豫或冲突，很⾃由地承认也
+许这笔交易不⾏。即使有亏损，他们在退出交易时不会有⼀点点不舒
+服。换句话说，交易天⽣的⻛险不会让最优秀的交易者失去纪律、专
+注或⾃信。如果你不能做到不带情绪（特别是害怕）地交易，那么你
+就没有学会接受交易天⽣的⻛险。这是⼤问题，因为不管你是什么程
+度的不接受⻛险，都等同于你会避免⻛险。总是想避免⽆法避免的⻛
+险对你的交易能⼒会产⽣灾难性的影响。
+learning to truly accept the risks in any endeavor can be difficult, but it is
+extremely difficult for traders, especially considering what's at stake. what
+are we generally most afraid of (besides dying or public speaking)?
+certainly, losing money and being wrong both rank close to the top of the
+list. admitting we are wrong and losing money to boot can be extremely
+painful, and certainly something to avoid. yet as traders, we are confronted
+with these two possibilities virtually every moment we are in a trade.
+在任何⾏业学习完全接受⻛险都是困难的，对交易者则是超级困难，
+尤其是想到承受⻛险的是什么时。我们最害怕什么（除了死亡和公开
+
+演讲）？亏钱和犯错肯定会成为⽐较靠前的答案。承认我们错了，承
+认我们亏钱了，是极度痛苦的，肯定也是我们想避免的。然⽽作为交
+易者，我们时时刻刻都要⾯对这两个可能。
+now, you might be saying to yourself, "apart from the fact that it hurts so
+much, it's natural to not want to be wrong and lose something; therefore, it's
+appropriate for me to do whatever i can to avoid it." i agree with you. but it
+is also this natural tendency that makes trading (which looks like it should
+be easy) extremely difficult.
+此时，你可能对⾃⼰说： " 除了特别⼤的伤害，避免犯错和亏损是很⾃
+然的，因此我尽⼒避免它们是合理的。 " 我同意你的观点。但是就是这
+个⾃然倾向导致交易（看起来很简单）极度困难。
+trading presents us with a fundamental paradox: how do we remain
+disciplined, focused, and confident in the face of constant uncertainty?
+when you have learned how to "think" like a trader, that's exactly what
+you'll be able to do. learning how to redefine your trading activities in a
+way that allows you to completely accept the risk is the key to thinking like
+a successful trader. learning to accept the risk is a trading skill - the most
+important skill you can learn. yet it's rare that developing traders focus any
+attention or expend any effort to learn it.
+交易给了我们⼀个基本的似是⽽⾮：如何在持续的不确定性⾯前保持
+纪律、专注和⾃信？⼀旦你学会了如何像交易者⼀样 " 思考 " ，你就真
+的会这么做。像成功的交易者⼀样思考的关键是学习如何重新定义你
+的交易⾏为以让你完全接受⻛险。学习接受⻛险是⼀种交易技术 -- 你
+能学的最重要的技术。然⽽⽤⼼或努⼒学习它的交易者很少。
+when you learn the trading skill of risk acceptance, the market will not be
+able to generate information that you define or interpret as painful. if the
+information the market generates doesn't have the potential to cause you
+emotional pain, there's nothing to avoid. it is just information, telling you
+what the possibilities are. this is called an objective perspective - one that is
+
+not skewed or distorted by what you are afraid is going to happen or not
+happen.
+⼀旦你学好了接受⻛险这个技术，不管市场怎么搞，你都不会感到痛
+苦。如果市场没有能⼒让你痛苦，你就不⽤避免什么了。你眼⾥只有
+概率。这叫客观 -- 没有因为你害怕什么会发⽣或什么不会发⽣⽽倾
+斜，或扭曲。
+i'm sure there isn't one trader reading this book who hasn't gotten into trades
+too soon - before the market has actually generated a signal, or too late -
+long after the market has generated a signal. what trader hasn't convinced
+himself not to take a loss and, as a result, had it turn into a bigger one; or
+got out of winning trades too soon; or found himself in winning trades but
+didn't take any profits at all, and then let the trades turn into losers; or
+moved stoplosses closer to his entry point, only to get stopped out and have
+the market go back in his direction? these are but a few of the many errors
+traders perpetuate upon themselves time and time again.
+我确定没有任何⼀个阅读本书的交易者没有在不当的时机交易过 -- 要
+么在市场发出信号之前很早就提前进场了，要么是在市场发出信号以
+后很久才慢吞吞地进场。以下这些现象是怎么发⽣的？交易者告诉⾃
+⼰不要亏损，结果亏的更多。过早平掉了赚钱的仓位。⾃⼰的仓位明
+明是赚钱的，因为没有兑现利润，然后⼜变成了亏钱的仓位。把⽌损
+设置在进场点附近，⽌损以后市场⼜向有利⾃⼰的⽅向前进了。错误
+有很多，这⾥列举的很少，交易者⼀次⼜⼀次地犯这些错误。
+these are not market-generated errors. that is, these errors do not come from
+the market. the market is neutral, in the sense that it moves and generates
+information about itself. movement and information provide each of us with
+the opportunity to do something, but that's all! the markets don't have any
+power over the unique way in which each of us perceives and interprets this
+information, or control of the decisions and actions we take as a result. the
+errors i already mentioned and many more are strictly the result of what i
+call "faulty trading attitudes and perspectives." faulty attitudes that foster
+fear instead of trust and confidence.
+
+这些错误不是市场制造的。也就是说这些错误并⾮来⾃市场。市场是
+中⽴的，它只是波动和制造信息。波动和信息提供给每个⼈做点什么
+的机会，但仅仅如此！市场不会控制我们解读理解信息，市场也不会
+控制我们的决定和⾏动。我之前提到的错误和更多错误是 " 对交易的错
+误态度和认知 " 造成的。错误的态度滋养害怕，⽽不是信任和⾃信。
+i don't think i could put the difference between the consistent winners and
+everyone else more simply than this: the best traders aren't afraid. they
+aren't afraid because they have developed attitudes that give them the
+greatest degree of mental flexibility to flow in and out of trades based on
+what the market is telling them about the possibilities from its perspective.
+at the same time, the best traders have developed attitudes that prevent them
+from getting reckless. everyone else is afraid, to some degree or another.
+when they're not afraid, they have the tendency to become reckless and to
+create the kind of experience for themselves that will cause them to be
+afraid from that point on.
+我想再也找不到这么简单的话来区分持续⼀致的赢家和其他⼈了：最
+优秀的交易者不害怕。他们不害怕是因为他们根据市场提供的机会进
+出交易，他们已经形成了最⼤的思想灵活性，可以⾃由进出交易。同
+时，最优秀的交易者形成了不轻率的态度。从某种程度上说，每个⼈
+都害怕。当他们不再害怕时，他们倾向于轻率，轻率的结果就是他们
+⼜开始害怕了。
+ninety-five percent of the trading errors you are likely to make - causing the
+money to just evaporate before your eyes - will stem from your attitudes
+about being wrong, losing money, missing out, and leaving money on the
+table. what i call the four primary trading fears.
+95% 的交易错误你都可能会犯 -- 导致钱在眼前蒸发 -- 导致你有⼏种态
+度：错了、亏钱了、错过了、失算了。我称为四种基本的交易恐惧。
+now, you may be saying to yourself, "i don't know about this: i've always
+thought traders should have a healthy fear of the markets." again, this is a
+
+perfectly logical and reasonable assumption. but when it comes to trading,
+your fears will act against you in such a way that you will cause the very
+thing you are afraid of to actually happen. if you're afraid of being wrong,
+your fear will act upon your perception of market information in a way that
+will cause you to do something that ends up making you wrong.
+此时，你也许会对⾃⼰说： " 我不明⽩：我⼀直以为交易者应该对市场
+有健康的敬畏。 " 再次说明，这⼜是⼀个完美合乎逻辑合理的假设。但
+是当交易时，你的恐惧⼜会和你作对，导致你害怕的事真的发⽣了。
+如果你害怕犯错，你的恐惧会让你对市场的理解产⽣错误，导致你犯
+错。
+when you are fearful, no other possibilities exist. you can't perceive other
+possibilities or act on them properly, even if you did manage to perceive
+them, because fear is immobilizing. physically, it causes us to freeze or run.
+mentally, it causes us to narrow our focus of attention to the object of our
+fear. this means that thoughts about other possibilities, as well as other
+available information from the market, get blocked. you won't think about
+all the rational things you've learned about the market until you are no
+longer afraid and the event is over. then you will think to yourself, "i knew
+that. why didn't i think of it then?" or, "why couldn't i act on it then?"
+当你害怕时，就没有其它可能了。因为害怕让你丧失了机动性，即使
+你想努⼒看⻅其它可能，你也⽆法看⻅或不能妥善处理它们。从物理
+⾓度来说，恐惧让我们冻住了，⽆法跑动。从思想上说，恐惧让我们
+把注意⼒焦点缩⼩在害怕上⾯。这说明其它可能的想法，市场的其它
+信息都被阻挡了。如果你担⼼的事还没完，你就不会想到理性的事。
+然后你会⾃⼰⼼⾥说： " 我就知道这样。为什么我当时就不知道？ " 或
+者是 " 我当时为何⽆动于衷？ "
+it's extremely difficult to perceive that the source of these problems is our
+own inappropriate attitudes. that's what makes fear so insidious. many of
+the thinking patterns that adversely affect our trading are a function of the
+natural ways in which we were brought up to think and see the world. these
+
+thinking patterns are so deeply ingrained that it rarely occurs to us that the
+source of our trading difficulties is internal, derived from our state of mind.
+indeed, it seems much more natural to see the source of a problem as
+external, in the market, because it feels like the market is causing our pain,
+frustration, and dissatisfaction.
+很难理解这些错误的根源是我们不恰当的态度。这说明恐惧是隐藏祸
+害的。我们成⻓时所形成的很多看待世界的思想模式对交易是不利
+的。这些思想模式已经根深蒂固了，我们很少想到交易的困难来⾃内
+部，来⾃我们的思想。实际上，以为问题的根源来⾃外部，来⾃市场
+是很⾃然的，因为感觉就是市场导致我们痛苦、受挫、不满。
+obviously these are abstract concepts and certainly not something most
+traders are going to concern themselves with. yet understanding the
+relationship between beliefs, attitudes, and perception is as fundamental to
+trading as learning how to serve is to tennis, or as learning how to swing a
+club is to golf. put another way, understanding and controlling your
+perception of market information is important only to the extent that you
+want to achieve consistent results.
+很明显，这些是抽象概念，⼤部分交易者当然不关⼼。但是，理解信
+念、态度和认知的关系是交易的基础，就像打⽹球，打⾼尔夫球⼀
+样。换个⽅式说，如果你想实现持续⼀致的结果，那么理解和控制你
+对市场的认知是重要的。
+i say this because there is something else about trading that is as true as the
+statement i just made: you don't have to know anything about yourself or
+the markets to put on a winning trade, just as you don't have to know the
+proper way to swing a tennis racket or golf club in order to hit a good shot
+from time to time. the first time i played golf, i hit several good shots
+throughout the game even though i hadn't learned any particular technique;
+but my score was still over 120 for 18 holes. obviously, to improve my
+overall score, i needed to learn technique.
+
+我说这些是因为还有另外⼀个关于交易的事，和我刚才说的⼀样真
+实：你不必为了交易成功⽽对⾃⼰或市场做全⾯了解，就像你不必为
+了打好⽹球或⾼尔夫球⽽次次关注最好的⽅法。我第⼀次打⾼尔夫球
+时，我根本没有学任何特殊技术，也打出了多个好球，但我的分数还
+是 18 洞 120 分。很明显，要想提⾼我的总体成绩，我需要学习技术。
+of course, the same is true for trading. we need technique to achieve
+consistency. but what technique? this is truly one of the most perplexing
+aspects of learning how to trade effectively. if we aren't aware of, or don't
+understand, how our beliefs and attitudes affect our perception of market
+information, it will seem as if it is the market's behavior that is causing the
+lack of consistency. as a result, it would stand to reason that the best way to
+avoid losses and become consistent would be to learn more about the
+markets.
+当然，交易也是同理。我们需要⽤技术实现持续⼀致性。但要什么技
+术呢？这是在学习如何有效地交易过程中最混乱的地⽅。如果我们⾃
+⼰都没有意识，或不知道，我们的信念和态度如何能影响我们对市场
+的认知呢，那看起来是市场⾏为导致了没有持续⼀致性。结果就是，
+要想避免亏损，实现持续⼀致性，更多地学习市场就很合理了。
+this bit of logic is a trap that almost all traders fall into at some point, and it
+seems to make perfect sense. but this approach doesn't work. the market
+simply offers too many - often conflicting - variables to consider.
+furthermore, there are no limits to the market's behavior. it can do anything
+at any moment. as a matter of fact, because every person who trades is a
+market variable, it can be said that any single trader can cause virtually
+anything to happen.
+这个逻辑有陷阱，⼏乎所有的交易者都这么以为，虽然看起来很合
+理。但这个⽅法没有效果。市场仅仅是提供了很多 -- 经常是冲突的 -- 变
+数让你思考。再说了，市场的⾏为是⽆限的。它可以在任何时候做任
+何事。实际上，因为每个⼈都是交易市场变数，那么可以说任何交易
+者都可以导致任何事的发⽣。
+
+this means that no matter how much you learn about the market's behavior,
+no matter how brilliant an analyst you become, you will never learn enough
+to anticipate every possible way that the market can make you wrong or
+cause you to lose money. so if you are afraid of being wrong or losing
+money, it means you will never learn enough to compensate for the negative
+effects these fears will have on your ability to be objective and your ability
+to act without hesitation. in other words, you won't be confident in the face
+of constant uncertainty. the hard, cold reality of trading is that every trade
+has an uncertain outcome. unless you learn to completely accept the
+possibility of an uncertain outcome, you will try either consciously or
+unconsciously to avoid any possibility you define as painful. in the process,
+you will subject yourself to any number of self-generated, costly errors.
+这意味着，不管你学了多少市场⾏为，不管你的分析多么优秀，你永
+远不能学到⾜够多的知识避免市场让你犯错或亏钱。所以，如果你害
+怕犯错或亏钱，这意味着你⽆法学到⾜够的知识以弥补恐惧造成的消
+极影响，你就不会客观，不会毫不犹豫地⾏动。换句话说，在持续的
+不确定性⾯前你没有⾃信。残酷冰冷的交易就是指每笔交易都会产⽣
+不确定的结果。除⾮你学会了完全接受不确定结果的可能，否则你就
+要有意识地或⽆意识地避免你所定义的痛苦可能。在这个过程中，你
+要为⾃⼰制造的，昂贵的错误买单。
+now, i am not suggesting that we don't need some form of market analysis
+or methodology to define opportunities and allow us to recognize them; we
+certainly do. however, market analysis is not the path to consistent results. it
+will not solve the trading problems created by lack of confidence, lack of
+discipline, or improper focus.
+我并不是建议我们不需要市场分析，或是不需要定义和认识市场的⽅
+法，我们肯定是需要的。然⽽，市场分析不能通向持续⼀致性的结
+果。它不能解决没有⾃信、没有纪律或不当的聚焦造成的交易问题。
+when you operate from the assumption that more or better analysis will
+create consistency, you will be driven to gather as many market variables as
+possible into your arsenal of trading tools. but what happens then? you are
+
+still disappointed and betrayed by the markets, time and again, because of
+something you didn't see or give enough consideration to. it will feel like
+you can't trust the markets; but the reality is, you can't trust yourself.
+如果你认为更多或更好的分析会产⽣持续⼀致性并据此交易的话，你
+就被逼去收集尽量多的市场变数，放⼊你的交易⼯具。但会发⽣什么
+呢？因为你错过了⼀些东⻄或者是没有重视这些东⻄，你会⼀次⼜⼀
+次地对市场感到失望和被背叛。感觉是不能相信市场，但事实是，你
+不能相信⾃⼰。
+confidence and fear are contradictory states of mind that both stem from our
+beliefs and attitudes. to be confident, functioning in an environment where
+you can easily lose more than you intend to risk, requires absolute trust in
+yourself. however, you won't be able to achieve that trust until you have
+trained your mind to override your natural inclination to think in ways that
+are counterproductive to being a consistently successful trader. learning
+how to analyze the market's behavior is simply not the appropriate training.
+⾃信和恐惧都来⾃于我们的信念和态度，但⼜是互相⽭盾的思想。⾃
+信要求绝对相信⾃⼰，即使在亏损会⽐⾃⼰想象的还要多的情况下也
+要如此。然⽽，如果你没有训练你的思想以驾驭不是持续⼀致性的想
+法时，你就不能有这种⾃信。学习如何分析市场⾏为并不是合适的训
+练。
+you have two choices: you can try to eliminate risk by learning about as
+many market variables as possible. (i call this the black hole of analysis
+because it is the path of ultimate frustration.) or you can learn how to
+redefine your trading activities in such a way that you truly accept the risk,
+and you're no longer afraid.
+你有两个选择：你可以通过学习尽量多的市场变数来消除⻛险（我称
+之为分析的⿊洞，因为它通向最终的挫折）。或者是你学习如何重新
+定义你的交易活动，这样你就能接受⻛险，不再怕⻛险。
+
+when you've achieved a state of mind where you truly accept the risk, you
+won't have the potential to define and interpret market information in
+painful ways. when you eliminate the potential to define market information
+in painful ways, you also eliminate the tendency to rationalize, hesitate,
+jump the gun, hope that the market will give you money, or hope that the
+market will save you from your inability to cut your losses.
+⼀旦你达到了⼀定的思想境界，你完全接受⻛险，那么你就不会痛苦
+地定义和解读市场信息了。当你不再痛苦地定义和解读市场信息时，
+你同时也消除了这些倾向：找理由、犹豫、过早⾏动、希望市场给你
+钱、⾃⼰不会⽌损⽽希望市场能解救你。
+as long as you are susceptible to the lands of errors that are the result of
+rationalizing, justifying, hesitating, hoping, and jumping the gun, you will
+not be able to trust yourself. if you can't trust yourself to be objective and to
+always act in your own best interests, achieving consistent results will be
+next to impossible. trying to do something that looks so simple may well be
+the most exasperating thing you will ever attempt to do. the irony is that,
+when you have the appropriate attitude, when you have acquired a "trader's
+mind-set" and can remain confident in the face of constant uncertainty,
+trading will be as easy and simple as you probably thought it was when you
+first started out.
+只要你还因为找理由，找借⼝，犹豫，希望，过早⾏动等原因⽽犯错
+时，你就⽆法做到相信⾃⼰。如果你不能相信⾃⼰，以⾄不客观，随
+⼼所欲，那么实现持续⼀致性的结果也是不可能的。尽⼒去学习看起
+来简单的事也许会让你⾮常恼怒。讽刺的是，当你有了合适的态度，
+当你掌握了 " 交易者的思想状态 " ，当你在持续的不确定性⾯前能保持
+⾃信时，交易就会变得像你⼀开始时想的⼀样轻松简单。
+so, what is the solution? you will need to learn how to adjust your attitudes
+and beliefs about trading in such a way that you can trade without the
+slightest bit of fear, but at the same time keep a framework in place that
+does not allow you to become reckless. that's exactly what this book is
+designed to teach you.
+
+那么，解决⽅案是什么？你将学习如何调整你的态度和信念，这样你
+交易时就没有⼀丁点的害怕，但同时你要把⼤的框架放在⼿边，以防
+⽌你变得轻率。本书就是要教你这些东⻄。
+as you move ahead, i would like you to keep something in mind. the
+successful trader that you want to become is a future projection of yourself
+that you have to grow into. growth implies expansion, learning, and
+creating a new way of expressing yourself. this is true even if you're already
+a successful trader and are reading this book to become more successful.
+many of the new ways in which you will learn to express yourself will be in
+direct conflict with ideas and beliefs you presently hold about the nature of
+trading. you may or may not already be aware of some of these beliefs. in
+any case, what you currently hold to be true about the nature of trading will
+argue to keep things just the way they are, in spite of your frustrations and
+unsatisfying results.
+当你往下读时，我希望你记住⼀些东⻄。你想成为的成功的交易者是
+你对将来的⾃我投射。成⻓意味着扩⼤视野，学习，制造新的⾃我表
+达⽅式。如果你已经是成功的交易者了，阅读本书会成为更成功的交
+易者，这是真的。你学习的很多⽅法将和你⽣活中现在持有的思想信
+念发⽣直接冲突。你也许有，或许没有了解这些信念。即使你遇到了
+挫折和不满的结果，你现在持有的信念和正确的交易信念会发⽣争
+吵。
+these internal arguments are natural. my challenge in this book is to help
+you resolve these arguments as efficiently as possible. your willingness to
+consider that other possibilities exist - possibilities that you may not be
+aware of or may not have given enough consideration to - will obviously
+make the learning process faster and easier.
+这些内部的争吵是⾃然的。我的任务就是帮助你尽量有效地解决这些
+争吵。你愿意认为其它可能存在的意愿 -- 指你不知道的或是你没有⾜
+够重视的 -- 会明显地让你的学习过程越来越快。

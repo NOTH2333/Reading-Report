@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#F6FAFF"/>
+
+    <rect x="80" y="60" width="1440" height="780" rx="40" fill="#ffffff" opacity="0.94"/>
+    <text x="120" y="140" font-size="46" font-family="Microsoft YaHei" font-weight="700" fill="#1F3045">本章概念地图</text>
+    <text x="120" y="190" font-size="28" font-family="Microsoft YaHei" fill="#486581">把书里的抽象术语翻成能看得见的关系图。</text>
+    <line x1="800" y1="170" x2="480" y2="340" stroke="#355070" stroke-width="8" opacity="0.35"/><line x1="800" y1="170" x2="1120" y2="340" stroke="#355070" stroke-width="8" opacity="0.35"/><line x1="480" y1="340" x2="500" y2="610" stroke="#355070" stroke-width="8" opacity="0.35"/><line x1="1120" y1="340" x2="1100" y2="610" stroke="#355070" stroke-width="8" opacity="0.35"/>
+    
+      <circle cx="800" cy="170" r="92" fill="#ffffff" stroke="#355070" stroke-width="6"/>
+      <text x="800" y="160" text-anchor="middle" font-size="30" font-family="Microsoft YaHei" font-weight="700" fill="#1F3045">机械阶段</text>
+      <text x="800" y="222" text-anchor="middle" font-size="22" font-family="Microsoft YaHei" fill="#334e68">先减少主观干扰，按清晰规则重复执行。</text>
+      <circle cx="480" cy="340" r="92" fill="#ffffff" stroke="#EAAC8B" stroke-width="6"/>
+      <text x="480" y="330" text-anchor="middle" font-size="30" font-family="Microsoft YaHei" font-weight="700" fill="#1F3045">观察自己</text>
+      <text x="480" y="392" text-anchor="middle" font-size="22" font-family="Microsoft YaHei" fill="#334e68">把自己也当成复盘对象。</text>
+      <circle cx="1120" cy="340" r="92" fill="#ffffff" stroke="#EAAC8B" stroke-width="6"/>
+      <text x="1120" y="330" text-anchor="middle" font-size="30" font-family="Microsoft YaHei" font-weight="700" fill="#1F3045">自律</text>
+      <text x="1120" y="392" text-anchor="middle" font-size="22" font-family="Microsoft YaHei" fill="#334e68">在还没自然化之前，为新信念争取生长空间。</text>
+      <circle cx="500" cy="610" r="92" fill="#ffffff" stroke="#EAAC8B" stroke-width="6"/>
+      <text x="500" y="600" text-anchor="middle" font-size="30" font-family="Microsoft YaHei" font-weight="700" fill="#1F3045">一致性信念</text>
+      <text x="500" y="662" text-anchor="middle" font-size="22" font-family="Microsoft YaHei" fill="#334e68">相信自己能稳定执行优势，</text><text x="500" y="690" text-anchor="middle" font-size="22" font-family="Microsoft YaHei" fill="#334e68">而非预测所有结果。</text>
+      <circle cx="1100" cy="610" r="92" fill="#ffffff" stroke="#EAAC8B" stroke-width="6"/>
+      <text x="1100" y="600" text-anchor="middle" font-size="30" font-family="Microsoft YaHei" font-weight="700" fill="#1F3045">像赌场一样交易</text>
+      <text x="1100" y="662" text-anchor="middle" font-size="22" font-family="Microsoft YaHei" fill="#334e68">让样本说话，而不是让情绪裁判。</text>
+  
+</svg>
